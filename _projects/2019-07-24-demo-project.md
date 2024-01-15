@@ -21,6 +21,16 @@ We've included everything you need to create engaging posts about your work, and
 
 ![](/images/demo.jpg)
 
+# Heading 1
+
+## Heading 2
+
+### Heading 3
+
+#### Heading 4
+
+
+
 **Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 You can create lists:
@@ -98,4 +108,4 @@ We've packed this theme with powerful features to show off your work. Why not pu
 
 [Get This Theme](https://jekyllthemes.io/theme/made-portfolio-jekyll-theme){: .button--fill}
 
-<div class="footnotes"><ol><li><p>Beautiful modern, minimal theme design.&nbsp;<a class="reversefootnote" href="#fnref:1">↩</a></p></li><li><p>Powerful features to show off your work.&nbsp;<a class="reversefootnote" href="#fnref:2">↩</a></p></li><li><p>Maintained and supported by the theme developer.&nbsp;<a class="reversefootnote" href="#fnref:3">↩</a></p></li></ol></div>
+<div class="footnotes"><ol><li><p>Beautiful modern, minimal theme design.&nbsp;<a class="reversefootnote" href="#fnref:1">↩</a></p></li><li><p>Powerful features to show off your work.&nbsp;<a class="reversefootnote" href="#fnref:2">↩</a></p></li><li><p>Maintained and supported by the theme developer.&nbsp;<a class="reversefootnote" href="#fnref:3">↩</a></p></li></ol><p> </p></div>
