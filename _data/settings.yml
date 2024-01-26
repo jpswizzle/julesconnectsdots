@@ -72,27 +72,27 @@ color_settings:
   
   # jules colors
   background_color: '#ffffff' # white
-  background_alt_color: '#EAEAF5' # greytint_purple-100
-  text_dark_color: '#04035E' # purple_swizzle-950
-  text_medium_color: '#2321AD' # purple_swizzle-700
-  text_light_color: '#A8A7C7' # greytint_purple-500
-  accent_color: '#5648D2' # purple_swizzle-500
-  border_color: '#E2E1F0' #greytint_purple-200
+  background_alt_color: '#EAEAF5' # greytint_purple_100
+  text_dark_color: '#04035E' # purple_swizzle_950
+  text_medium_color: '#2321AD' # purple_swizzle_700
+  text_light_color: '#A8A7C7' # greytint_purple_500
+  accent_color: '#5648D2' # purple_swizzle_500
+  border_color: '#E2E1F0' #greytint_purple_200
   error_color: '#D64541' #not changed
   
-  purple_swizzle-500: '#5648D2'
-  purple_swizzle-700: '#2321AD'
-  purple_swizzle-800: '#100E94'
-  purple_swizzle-900: '#05047A'
-  purple_swizzle-950: '#04035E'
+  purple_swizzle_500: '#5648D2'
+  purple_swizzle_700: '#2321AD'
+  purple_swizzle_800: '#100E94'
+  purple_swizzle_900: '#05047A'
+  purple_swizzle_950: '#04035E'
   
-  greytint_purple-100: '#EAEAF5'
-  greytint_purple-200: '#E2E1F0'
-  greytint_purple-300: '#D3D3E5'
-  greytint_purple-400: '#BDBCD6'
-  greytint_purple-500: '#A8A7C7'
-  greytint_purple-600: '#9494B8'
-  greytint_purple-700: '#8382AB'
+  greytint_purple_100: '#EAEAF5'
+  greytint_purple_200: '#E2E1F0'
+  greytint_purple_300: '#D3D3E5'
+  greytint_purple_400: '#BDBCD6'
+  greytint_purple_500: '#A8A7C7'
+  greytint_purple_600: '#9494B8'
+  greytint_purple_700: '#8382AB'
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Rubik:400,500,700|Ubuntu+Mono:400,700" rel="stylesheet">'

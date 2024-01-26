@@ -16,7 +16,7 @@ h6,
 .h6,
 .subtitle {
   font-family: $title-font;
-  color: $purple_swizzle-700;
+  color: $purple_swizzle_700;
 }
 
 h1,
@@ -25,7 +25,7 @@ h1,
   letter-spacing: $h1-spacing-small;
   line-height: $h1-lineheight-small;
   font-weight: $h1-weight;
-  color: $purple_swizzle-500;
+  color: $purple_swizzle_500;
 
   @include mq(tabletp) {
     font-size: $h1-size;
