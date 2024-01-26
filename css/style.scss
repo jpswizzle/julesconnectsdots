@@ -1,5 +1,5 @@
----
----
+$-
+$-
 
 // - - - - - - - - - - Foundations
 
@@ -25,6 +25,21 @@ $text-light-color: {{ site.data.settings.color_settings.text_light_color }};
 $accent-color: {{ site.data.settings.color_settings.accent_color }};
 
 $error-color: {{ site.data.settings.color_settings.error_color }};
+
+/* Swizzlespokes Colors */
+$purple_swizzle-500: {{site.data.settings.color_settings.purple_swizzle-500}};
+$purple_swizzle-700: {{site.data.settings.color_settings.purple_swizzle-700}};
+$purple_swizzle-800: {{site.data.settings.color_settings.purple_swizzle-800}};
+$purple_swizzle-900: {{site.data.settings.color_settings.purple_swizzle-900}};
+$purple_swizzle-950: {{site.data.settings.color_settings.purple_swizzle-950}};
+
+$greytint_purple-100: {{site.data.settings.color_settings.greytint_purple-100}};
+$greytint_purple-200: {{site.data.settings.color_settings.greytint_purple-200}};
+$greytint_purple-300: {{site.data.settings.color_settings.greytint_purple-300}};
+$greytint_purple-400: {{site.data.settings.color_settings.greytint_purple-400}};
+$greytint_purple-500: {{site.data.settings.color_settings.greytint_purple-500}};
+$greytint_purple-600: {{site.data.settings.color_settings.greytint_purple-600}};
+$greytint_purple-700: {{site.data.settings.color_settings.greytint_purple-700}};
 
 
 // Fonts
