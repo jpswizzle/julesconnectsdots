@@ -25,7 +25,7 @@ h1,
   letter-spacing: $h1-spacing-small;
   line-height: $h1-lineheight-small;
   font-weight: $h1-weight;
-  coor: $purple_swizzle-500;
+  color: $purple_swizzle-500;
 
   @include mq(tabletp) {
     font-size: $h1-size;
