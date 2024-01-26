@@ -60,14 +60,39 @@ social_settings:
   linkedin_url: ''
 
 color_settings:
-  background_color: '#ffffff'
-  background_alt_color: '#f4f5f6'
-  text_dark_color: '#202224'
-  text_medium_color: '#6C7A89'
-  text_light_color: '#AEB3BB'
-  accent_color: '#4C60E6'
-  border_color: '#ECEDEF'
-  error_color: '#D64541'
+# original Made theme colors
+#  background_color: '#ffffff'
+#  background_alt_color: '#f4f5f6'
+#  text_dark_color: '#202224'
+#  text_medium_color: '#6C7A89'
+#  text_light_color: '#AEB3BB'
+#  accent_color: '#4C60E6'
+#  border_color: '#ECEDEF'
+#  error_color: '#D64541'
+  
+  # jules colors
+  background_color: '#ffffff' # white
+  background_alt_color: '#EAEAF5' # greytint_purple-100
+  text_dark_color: '#04035E' # purple_swizzle-950
+  text_medium_color: '#2321AD' # purple_swizzle-700
+  text_light_color: '#A8A7C7' # greytint_purple-500
+  accent_color: '#5648D2' # purple_swizzle-500
+  border_color: '#E2E1F0' #greytint_purple-200
+  error_color: '#D64541' #not changed
+  
+  purple_swizzle-500: '#5648D2'
+  purple_swizzle-700: '#2321AD'
+  purple_swizzle-800: '#100E94'
+  purple_swizzle-900: '#05047A'
+  purple_swizzle-950: '#04035E'
+  
+  greytint_purple-100: '#EAEAF5'
+  greytint_purple-200: '#E2E1F0'
+  greytint_purple-300: '#D3D3E5'
+  greytint_purple-400: '#BDBCD6'
+  greytint_purple-500: '#A8A7C7'
+  greytint_purple-600: '#9494B8'
+  greytint_purple-700: '#8382AB'
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Rubik:400,500,700|Ubuntu+Mono:400,700" rel="stylesheet">'
