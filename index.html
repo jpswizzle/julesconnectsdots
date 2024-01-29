@@ -1,14 +1,14 @@
 ---
 layout: default
-overtitle: "Hello! I'm Jules Monza"
-title: "Design Force Multipler"
-description: "I amplify the impact of high-performing teams: fostering empathy, elevating craft, and upholding quality."
+overtitle: Made is a Jekyll theme
+title: For designers and web developers
+description: Show off your best work with this beautiful, minimal and customizable portfolio theme.
 featured_image: /images/social.jpg
 project:
   gallery_images:
-    - driveway_launchingUXresearch_1@2x.png
-    - driveway_launchingUXresearch_2@2x.png
-    - driveway_launchingUXresearch_3@2x.png
+    - /images/projects/driveway_launchingUXresearch_1@2x.png
+    - /images/projects/driveway_launchingUXresearch_2@2x.png
+    - /images/projects/driveway_launchingUXresearch_3@2x.png
 ---
 
 <div class="page-home">
@@ -43,7 +43,7 @@ project:
 
 				<div class="project__images owl-carousel" style="--accent: {{ accent_color }}">
 					{% for image in project.gallery_images %}
-					<a href="{{ project.url | relative_url }}"><img src="{{ '/images/projects/' | relative_url}}{{ image }}" alt="case study carousel image" class="project__image"></a>
+					<a href="{{ project.url | relative_url }}"><img src="{{ '/images/projects/' | relative_url}}{{ image }}" alt="" class="project__image"></a>
 					{% endfor %}
 				</div>
 
