@@ -53,13 +53,13 @@ social_settings:
   linkedin_url: https://www.linkedin.com/in/julesmonza/
 color_settings:
   background_color: '#ffffff'
-  background_alt_color: '#EAEAF5'
-  text_dark_color: '#04035E'
-  text_medium_color: '#2321AD'
-  text_light_color: '#A8A7C7'
-  accent_color: '#5648D2'
-  border_color: '#E2E1F0'
-  error_color: '#D64541'
+  background_alt_color: '#eaeaf5'
+  text_dark_color: '#04035e'
+  text_medium_color: '#2321ad'
+  text_light_color: '#a8a7c7'
+  accent_color: '#5648d2'
+  border_color: '#e2e1f0'
+  error_color: '#d64541'
   purple_swizzle_500: '#5648D2'
   purple_swizzle_700: '#2321AD'
   purple_swizzle_800: '#100E94'
@@ -75,10 +75,10 @@ color_settings:
 font_settings:
   font_embed: >-
     <link
-    href="https://fonts.googleapis.com/css?family=Rubik:400,500,700|Ubuntu+Mono:400,700"
+    href="https://fonts.googleapis.com/css?family=Rubik:400,500,700|Source+Sans+3:wght@300,400,700&display=swap"
     rel="stylesheet">
   title_font: Rubik, sans-serif
-  body_font: '"Ubuntu Mono", sans-serif'
+  body_font: '"Source Sans 3", sans-serif'
   regular_weight: 400
   bold_weight: 700
   site_title:
