@@ -11,9 +11,9 @@ description: >-
 featured_image: driveway_launchingUXresearch_1@2x.png
 accent_color: '#4c60e6'
 gallery_images:
-  - ../images/projects/driveway_launchingUXresearch_1@2x.png
-  - ../images/projects/driveway_launchingUXresearch_2@2x.png
-  - ../images/projects/driveway_launchingUXresearch_3@2x.png
+  - /images/projects/driveway_launchingUXresearch_1@2x.png
+  - /images/projects/driveway_launchingUXresearch_2@2x.png
+  - /images/projects/driveway_launchingUXresearch_3@2x.png
 ---
 This page is a demo that shows everything you can do inside portfolio and blog posts.
 
