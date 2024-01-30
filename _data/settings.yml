@@ -59,7 +59,7 @@ color_settings:
   text_light_color: '#a8a7c7'
   accent_color: '#5648d2'
   border_color: '#e2e1f0'
-  error_color: '#d64541'
+  error_color: '#e63a28'
   purple_swizzle_500: '#5648D2'
   purple_swizzle_700: '#2321AD'
   purple_swizzle_800: '#100E94'
