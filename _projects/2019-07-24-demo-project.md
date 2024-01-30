@@ -8,12 +8,12 @@ description: >-
   This is a demo post that shows what you can do inside portfolio and blog
   posts. We’ve included everything you need to create engaging posts and case
   studies to show off your work in a beautiful way.
-featured_image: demo.jpg
+featured_image: driveway_launchingUXresearch_1@2x.png
 accent_color: '#4c60e6'
 gallery_images:
-  - demo.jpg
-  - demo.jpg
-  - demo.jpg
+  - ../images/projects/driveway_launchingUXresearch_1@2x.png
+  - ../images/projects/driveway_launchingUXresearch_2@2x.png
+  - ../images/projects/driveway_launchingUXresearch_3@2x.png
 ---
 This page is a demo that shows everything you can do inside portfolio and blog posts.
 
