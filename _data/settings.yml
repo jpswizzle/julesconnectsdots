@@ -7,7 +7,7 @@ header_settings:
 menu_settings:
   menu_items:
     - title: Case Studies
-      url: /projects
+      url: /case-studies
     - title: Blog
       url: /blog/
 footer_settings:
