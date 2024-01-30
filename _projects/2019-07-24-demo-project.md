@@ -1,13 +1,10 @@
 ---
 title: Case study demo
 subtitle: >-
-  demo - High-fidelity mobile app designs for a super awesome social media
-  company.
-date: 2019-07-24 00:00:00
+  See how I launched a comprehensive research program at Driveway (NYSE:LAD)
+date: 2024-01-30 00:00:00
 description: >-
-  This is a demo post that shows what you can do inside portfolio and blog
-  posts. We’ve included everything you need to create engaging posts and case
-  studies to show off your work in a beautiful way.
+  I launched a UX research program that steered product and design decisions through data and insights. This program encompassed intake and roadmapping for multi-method research, standards for execution, and best practices for cross-functional collaboration.
 featured_image: driveway_launchingUXresearch_1@2x.png
 accent_color: '#4c60e6'
 gallery_images:
