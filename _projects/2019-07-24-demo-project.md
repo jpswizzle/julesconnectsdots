@@ -19,7 +19,7 @@ This page is a demo that shows everything you can do inside portfolio and blog p
 
 We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
 
-![](/images/demo.jpg)
+![](/images/projects/driveway_launchingUXresearch_1@2x.png)
 
 # Heading 1
 
@@ -28,8 +28,6 @@ We've included everything you need to create engaging posts about your work, and
 ### Heading 3
 
 #### Heading 4
-
-
 
 **Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
