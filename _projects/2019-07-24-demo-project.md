@@ -1,10 +1,11 @@
 ---
-title: Case study demo
-subtitle: >-
-  See how I launched a comprehensive research program at Driveway (NYSE:LAD)
+title: Launching UX Research at Driveway
+subtitle: How I launched a comprehensive research program at Driveway (NYSE:LAD)
 date: 2024-01-30 00:00:00
 description: >-
-  I launched a UX research program that steered product and design decisions through data and insights. This program encompassed intake and roadmapping for multi-method research, standards for execution, and best practices for cross-functional collaboration.
+  When I joined Driveway shortly after they launched, they had no UX researcher
+  but a strong appetite for learning. The UXR program I launched steered product
+  and design decisions across the entire funnel as well as internal tools.
 featured_image: driveway_launchingUXresearch_1@2x.png
 accent_color: '#4c60e6'
 gallery_images:
@@ -14,7 +15,7 @@ gallery_images:
 ---
 This page is a demo that shows everything you can do inside portfolio and blog posts.
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
+&nbsp;This program encompassed intake and roadmapping for multi-method research, standards for execution, and best practices for cross-functional collaboration.
 
 ![](/images/projects/driveway_launchingUXresearch_1@2x.png)
 
