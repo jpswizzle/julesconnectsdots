@@ -68,6 +68,14 @@ defaults:
       type: "projects"
     values:
       layout: "project"
+# trying to add a 2-col project layout // test 2024.01.31
+  -
+  scope:
+    path: ""
+    type: "projects"
+  values:
+    layout: "project_2-col"
+
 
 markdown: kramdown
 highlighter: rouge
