@@ -104,6 +104,8 @@ I've summarized the first 3 months of the UXR program in a table
 | Inventory | Sell Landing Page and Offer Screen Redesign Study – Discovery<!-- notionvc: 6820dede-5032-44ed-b599-71b8bb84a110 --> | Yes | Sell Account Creation and Onboarding – Discovery<!-- notionvc: 2eac4fb7-c646-4fcb-af23-1f956eefb78e --> |
 | MegaCart | Cart Wrapper<!-- notionvc: b87cf33a-821a-4d5a-b958-1461131982fa --> | Yes | $49 |
 | My Driveway | Preference Center Study<!-- notionvc: 0d199e27-5dee-4e53-9dc6-2aec1287e0b2 --> | Yes | Save Search – Usability<!-- notionvc: c30076fe-e13b-44e5-a04f-2d2d78c1f9dd --> |
+| Learn |  | Top Navigation – Information Architecture Validation | Car Finder Quiz – Copy Validation |
+| Tool procurement | Tool secondary research: define procurement criteria | Tool demos and additional analysis | Business case creation and socialization with mid-level management |
 
 ### What didn’t go so well
 
