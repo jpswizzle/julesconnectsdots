@@ -1,0 +1,27 @@
+/*
+Font: 		
+Style: 		
+URL: 		https://youworkforthem.com/font/T17400/griggs
+Foundry: 	Seniors Studio
+Foundry: 	https://youworkforthem.com/designer/461/seniors-studio
+Copyright:	
+Version: 	17
+Created:	October 17, 2022
+License: 	https://www.youworkforthem.com/font-license 
+License: 	The WebFont(s) listed in this document must follow the YouWorkForThem
+			WebFont license rules. All other parties are strictly restricted 
+			from using the WebFonts(s) listed without a purchased license. 
+			All details above must always remain unaltered and visible in your CSS.
+*/
+
+@font-face {
+	font-family: 'Griggs-LightSansGrSs01';
+	src: url('griggs-light-sans-gr-ss01.eot');
+	src: url('griggs-light-sans-gr-ss01.eot?#iefix') format('embedded-opentype'),
+             url('griggs-light-sans-gr-ss01.woff2') format('woff2'),
+	     url('griggs-light-sans-gr-ss01.woff') format('woff'),
+	     url('griggs-light-sans-gr-ss01.ttf') format('truetype'),
+	     url('griggs-light-sans-gr-ss01.svg#youworkforthem') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
