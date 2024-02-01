@@ -10,9 +10,10 @@ layout: project_2-col
 featured_image: driveway_launchingUXresearch_1@2x.png
 accent_color: '#4c60e6'
 gallery_images:
-  - driveway_launchingUXresearch_1@2x.png
-  - driveway_launchingUXresearch_2@2x.png
-  - driveway_launchingUXresearch_3@2x.png
+  - driveway_2.woah_approach-1.png
+  - driveway_2.woah_collateral.png
+  - driveway_2.woah_assets-1.png
+  - driveway_2.woah_homepage.png
 ---
 
 # Test heading 1
