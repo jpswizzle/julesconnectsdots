@@ -20,4 +20,4 @@ gallery_images:
 
 ## Subtitle of interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We launched Brand 2.woah's redesigned homepage as the first touchpoint with the new brand and design system assets. I oversaw the research and redesign process, which my team of researchers and designers executed. We affectionately referred to the brand as 2.woah.
