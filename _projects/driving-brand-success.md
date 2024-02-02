@@ -12,14 +12,14 @@ accent_color: '#4c60e6'
 gallery_images:
   - driveway_2.woah_approach-1.png
   - driveway_2.woah_collateral.png
-  - driveway_2.woah_de...em-colors-2-col.png
+  - driveway_2.woah_designSystem-colors-2-col.png
   - driveway_2.woah_assets-1.png
   - driveway_2.woah_homepage.png
 ---
 
 # Fueling growth at the speed of brand
 
-## The growth terrain
+## The speedway to growth
 
 In mid 2021, the Driveway Product team observed an uptick in unique page views and expected this trend to grow significantly over the coming months. 
 
@@ -27,7 +27,7 @@ Since Driveway was still new to the automotive eCommerce space, many of these cu
 
 ## Experience objective
 
-Therefore, we determined it’s important that we enable these new users to quickly:
+As Product and Design, we determined it’s important that we enable these new users to quickly:
 
 - Understand the value of our offering and intuitively flow into the appropriate funnel
 (buy or sell)
