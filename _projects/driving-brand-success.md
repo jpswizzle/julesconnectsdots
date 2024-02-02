@@ -17,7 +17,7 @@ gallery_images:
   - driveway_2.woah_homepage.png
 ---
 
-# Fueling growth at the speed of brand
+# Fueling growth at the speed of brand recognition
 
 ## The speedway to growth
 
