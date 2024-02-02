@@ -10,8 +10,8 @@ layout: project_2-col
 featured_image: driveway_2.woah_designSystem-colors-2-col.png
 accent_color: '#4c60e6'
 gallery_images:
+  - driveway_2.woah_collateral.png  
   - driveway_2.woah_approach-1.png
-  - driveway_2.woah_collateral.png
   - driveway_2.woah_designSystem-colors-2-col.png
   - driveway_2.woah_assets-1.png
   - driveway_2.woah_homepage.png
