@@ -7,7 +7,7 @@ description: >-
   orchestrated both the evolution of the Driveway design system and the
   cross-functional execution of an organization-wide brand refresh.
 layout: project_2-col
-featured_image: driveway_launchingUXresearch_1@2x.png
+featured_image: driveway_2.woah_designSystem-colors-2-col.png
 accent_color: '#4c60e6'
 gallery_images:
   - driveway_2.woah_approach-1.png
