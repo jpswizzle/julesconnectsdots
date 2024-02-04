@@ -9,12 +9,12 @@ description: >-
   portals into a unified experience for financial professionals and their
   clients. My approach resulted in reduced operational costs, stronger
   cross-functional partnerships, and streamlined end-to-end design processes.
-featured_image: driveway_launchingUXresearch_1@2x.png
+featured_image: /images/projects/transamerica_hero_1@2x.png
 accent_color: '#4c60e6'
 gallery_images:
-  - driveway_launchingUXresearch_1@2x.png
-  - driveway_launchingUXresearch_2@2x.png
-  - driveway_launchingUXresearch_3@2x.png
+  - transamerica_hero_1@2x.png
+  - transamerica_hero-2col@2x.png
+  - transamerica_context-framed@2x.png
 ---
 ## Overview: A business transformation initiative
 
