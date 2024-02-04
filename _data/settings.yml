@@ -9,13 +9,13 @@ menu_settings:
     - title: Additional Work
       url: https://julesconnectsdots.com
     - title: Schedule a chat
-      url: https://cal.com/jules-monza/
+      url: https://cal.com/jules-monza/intro-convo
 #   - title: Blog (Side Quests)
 #     url: /blog/
 footer_settings:
   logo_image:
   logo_width: 100
-  tagline: built with Jekyll + Cloudcannon + Github + Grammarly
+  tagline: built with Jekyll + Cloudcannon + Github
 hero_settings:
   background_image: /images/backgrounds/background-hero.svg
 post_settings:
