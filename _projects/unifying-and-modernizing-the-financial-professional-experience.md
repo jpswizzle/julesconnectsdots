@@ -1,8 +1,8 @@
 ---
 title: Unifying and modernizing the financial professional experience
 subtitle: >-
-  How I drove financial services transformation and operational cost reduction
-  through design leadership and design operations
+  How I transformed financial services and reduced costs with design leadership
+  and design operations
 date: 2021-01-30 12:00:00 -0700
 description: >-
   As Product Design Manager, I led a team of 3 designers to consolidate 6 legacy
@@ -17,6 +17,8 @@ gallery_images:
   - driveway_launchingUXresearch_3@2x.png
 ---
 ## Overview: A business transformation initiative
+
+
 
 As a massive, longstanding financial services firm, Transamerica began an equally massive business transformation effort in 2018.
 
