@@ -1,27 +1,26 @@
 ---
-title: Driving brand success with Driveway's design system
+title: Fueling brand success with Driveway's design system
 subtitle: How I orchestrated Driveway's brand refresh and design system evolution
 date: 2024-01-30 17:00:00 -0700
 description: >-
-  As Driveway matured its brand presence, the design system needed to step up. I
-  orchestrated both the evolution of the Driveway design system and the
-  cross-functional execution of an organization-wide brand refresh.
+  As Driveway prepared to mature its brand presence, the design system had to
+  pave the way. I orchestrated both the evolution of the Driveway design system
+  and the cross-functional execution of an organization-wide brand refresh.
 layout: project_2-col
 featured_image: driveway_2.woah_designSystem-colors-2-col.png
 accent_color: '#4c60e6'
 gallery_images:
-  - driveway_2.woah_collateral.png  
+  - driveway_2.woah_collateral.png
   - driveway_2.woah_approach-1.png
   - driveway_2.woah_designSystem-colors-2-col.png
   - driveway_2.woah_assets-1.png
   - driveway_2.woah_homepage.png
 ---
-
-# Fueling growth at the speed of brand recognition
+# Driving growth at the speed of brand recognition
 
 ## The speedway to growth
 
-In mid 2021, the Driveway Product team observed an uptick in unique page views and expected this trend to grow significantly over the coming months. 
+In mid 2021, the Driveway Product team observed an uptick in unique page views and expected this trend to grow significantly over the coming months.
 
 Since Driveway was still new to the automotive eCommerce space, many of these customers would land on the Driveway homepage with limited knowledge of the brand and value proposition.
 
@@ -29,9 +28,8 @@ Since Driveway was still new to the automotive eCommerce space, many of these cu
 
 As Product and Design, we determined it’s important that we enable these new users to quickly:
 
-- Understand the value of our offering and intuitively flow into the appropriate funnel
-(buy or sell)
-- Get answers to any questions they may have about the brand or their experience through self-service
+* Understand the value of our offering and intuitively flow into the appropriate funnel (buy or sell)
+* Get answers to any questions they may have about the brand or their experience through self-service
 
 In order to keep people engaged on Driveway.com, we wanted our brand and homepage to feel exciting and captivating, with a *wow factor* that distinguished us from competitors.
 
