@@ -98,7 +98,7 @@ It also included a Madlib-style template for a problem statement, and sections t
 {% include post-components/gallery.html 
   columns = 1
   full_width = true
-  images = "../images/projects/transamerica_hero_1@2x.png,../images/projects/transamerica_hero_2-col@2x.png,../images/projects/transamerica_context-framed@2x.png,"
+  images = "../images/projects/transamerica_hero_1@2x.png,../images/projects/transamerica_hero-2col@2x.png,../images/projects/transamerica_context-framed@2x.png,"
 %}
 
 To accompany the inception brief, I established a Design "Definition of Ready," which quickly proved to improve the clarity of information designers received for new projects, including clarity of scope, priority, and design requirements.
