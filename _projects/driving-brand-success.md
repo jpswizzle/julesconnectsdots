@@ -41,7 +41,7 @@ As Driveway matured its brand presence, the design system had to be in lockstep.
   columns = 2
   full_width = true
   images = 
-  "../images/driveway_2.woah_approach-1.png,../images/driveway_2.woah_approach-2.png,../images/driveway_2.woah_assets-2.png,../images/driveway_2.woah_assets-3.png,
+  "../images/projects/driveway_2.woah_approach-1.png,../images/projects/driveway_2.woah_approach-2.png,../images/projects/driveway_2.woah_assets-2.png,../images/projects/driveway_2.woah_assets-3.png,
   "
 %}
 
