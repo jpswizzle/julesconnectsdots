@@ -37,8 +37,6 @@ In order to keep people engaged on Driveway.com, we wanted our brand and homepag
 
 As Driveway matured its brand presence, the design system had to be in lockstep. I orchestrated both the evolution of the Driveway design system and the cross-functional execution of an organization-wide brand refresh.
 
-{% include post-components/gallery.html<br />&nbsp;&nbsp; &nbsp;columns = 2<br />&nbsp;&nbsp; &nbsp;full_width = true<br />&nbsp;&nbsp; &nbsp;images = "driveway_2.woah_approach-1.png,driveway_2.woah_approach-2.png,driveway_2.woah_assets-2.png,driveway_2.woah_assets-3.png<br />&nbsp;&nbsp; &nbsp;"<br />%}
-
 ## Launching the new brand
 
 We launched Brand 2.woah's redesigned homepage as the first touchpoint with the new brand and design system assets. I oversaw the research and redesign process, which my team of researchers and designers executed. We affectionately referred to the brand as 2.woah.
