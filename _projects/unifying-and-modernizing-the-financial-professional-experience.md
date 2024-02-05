@@ -95,9 +95,9 @@ The inception brief encapsulated project vitals such as:
 
 It also included a Madlib-style template for a problem statement, and sections to define risks, dependencies, and success metrics for the business and for users.
 
-{% render post-components/gallery.html 
-  columns = '2' 
-  full_width = 'true' 
+{% include post-components/gallery.html 
+  columns = 2
+  full_width = true
   images = '/images/transamerica_hero_1@2x.png,/images/transamerica_hero_1@2x.png,/images/transamerica_hero_1@2x.png,/images/transamerica_hero_1@2x.png,'
 %}
 
