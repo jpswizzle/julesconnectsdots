@@ -18,9 +18,7 @@ gallery_images:
 ---
 ## Overview: A business transformation initiative
 
-
-
-As a massive, longstanding financial services firm, Transamerica began an equally massive business transformation effort in 2018.
+As a large, longstanding financial services firm, Transamerica began an equally sizable business transformation effort in 2018.
 
 Transamerica had grown through acquisition over a few decades, scooping up smaller insurance and investment firms and their digital experiences. This resulted in a high amount of operational overhead and a highly fragmented user experience for all user types.
 
@@ -57,25 +55,23 @@ The directive was to concurrently consolidate over a dozen portals contributing 
 
 ## Overcoming Challenges and Advancing UX Maturity
 
-When I joined Transamerica, the User Experience (UX) team consisted of 18 members. Designers were organized into 3 pods, one for each operating units. UX research was shared across all 3 pods. I managed and led the 3 designers responsible for supporting the Financial Professionals operating unit.
-
-The technology teams across the organization faced several challenges, including working within an immature Software Development Life Cycle (SDLC) and product function, Product Owners who were heavily aligned with Sales and Operations, and collaborating with primarily outsourced technology staff for a large, highly complex, backend consolidation effort.
+When I joined Transamerica, the User Experience (UX) team consisted of 18 members. Designers were organized into 3 pods, one for each operating unit. UX research was shared across all 3 pods. I managed and led the 3 designers responsible for supporting the Financial Professionals operating unit.
 
 All Transamerica technology teams across the business shared faced the same challenges:
 
 * working within an immature SDLC and product function
 * partnering with Product Owners who were heavily oriented to Sales and Operations
-* collaborating with primarily outsourced technology staff for the large, highly complex, backend consolidation effort
+* collaborating with primarily outsourced technology staff for the large, highly complex backend consolidation effort
 
 On top of this, the UX team encountered design-specific challenges:
 
 * low UX maturity outside of the UX team
-* Strong confinement of scope to a "feature parity" mindset
-* Insufficient information provided to designers at the start of projects
+* strong confinement of scope to a "feature parity" mindset
+* insufficient information provided to designers at the start of projects
 
 ## Approach
 
-This was, of course, a multi-year effort. We began with consolidating six of the portals.
+This was, of course, a multi-year effort. We began with consolidating 6 of the portals.
 
 The biggest barrier to designer success was weak partnership with our two product owners (P.O.s). Like so many product people, they had full calendars, too much on their plates, and too many stakeholder cooks in their kitchen.
 
@@ -87,7 +83,7 @@ As a design team, we knew that we needed to understand use cases and business op
 
 To address this problem, I collaborated with my digital producer to improve project intake so that designers would have sufficient information at the start of their design process. We introduced and socialized an inception brief.
 
-The brief encapsulated project vitals such as:
+The inception brief encapsulated project vitals such as:
 
 * Who is the target user?
 * What is the problem that this feature set will solve?
@@ -95,25 +91,25 @@ The brief encapsulated project vitals such as:
 * When is development targeted to start?
 * Who are the key subject matter experts we
 
+It also included a Madlib-style template for a problem statement, and sections to define risks, dependencies, and success metrics for the business and for users.
+
 To accompany the inception brief, I established a Design "Definition of Ready," which quickly proved to improve the clarity of information designers received for new projects, including clarity of scope, priority, and design requirements.
 
 ## Impact
 
 The Advisor/Agent portal launched in Q1 of 2020, with the Individual (client) portal a fast follow.
 
-The launch resulted in streamlined user experiences for financial professionals and their clients, enabling a client to log in and see the same information as their advisor or agent.
+The launch resulted in streamlined user experiences for financial professionals and their clients, enabling clients to log in and see the same information as their advisor or agent.
 
 Many agents could now manage their book of business and service policies or investments in a single portal rather than multiple. This freed up time to focus on building and maintaining client relationships.
 
 In addition, the launch and subsequent releases facilitated the sunset of legacy portals.
 
-Overall, my leadership led to stronger cross-functional partnerships, ensured users could more easily find the information they needed, and a more modernized digital platform for Transamerica.
+My leadership led to stronger cross-functional partnerships and a more modernized digital platform for Transamerica. The new portal enabled advisors, agents, and clients to more easily find and interact with policy and investment information.
 
 **Other achievements during my time at Transamerica include**
 
-* I pitched and guided team-led planning and facilitation of vision workshop with product, engineering, and design leaders
+* I pitched and guided team-led planning and facilitation of a vision workshop with product, engineering, and design leaders
 * I created and pitched 3 information architecture concepts for advisor annuities view based on 11 jobs-to-be-done (JTBDs) identified during internal research with 5 sales partners; as a result, product partners chose one concept for further exploration
 
-<!-- notionvc: 51d47299-b5f2-47f5-a077-5d2e3422e39f -->
-
-<!-- notionvc: f427bdb1-3af6-4d7a-b6bc-ad3c0c94de94 -->
+<!-- notionvc: 51d47299-b5f2-47f5-a077-5d2e3422e39f --><!-- notionvc: f427bdb1-3af6-4d7a-b6bc-ad3c0c94de94 -->
