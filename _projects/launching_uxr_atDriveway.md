@@ -6,7 +6,7 @@ description: >-
   When I joined Driveway shortly after they launched, they had no UX researcher
   but a strong appetite for learning. The UXR program I launched steered product
   and design decisions across the entire funnel as well as internal tools.
-featured_image: driveway_launchingUXresearch_1@2x.png
+featured_image: /images/projects/driveway_launchingUXresearch_1@2x.png
 accent_color: '#4c60e6'
 gallery_images:
   - driveway_launchingUXresearch_1@2x.png
