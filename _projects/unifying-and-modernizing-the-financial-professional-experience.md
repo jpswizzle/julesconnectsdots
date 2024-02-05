@@ -96,10 +96,10 @@ The inception brief encapsulated project vitals such as:
 It also included a Madlib-style template for a problem statement, and sections to define risks, dependencies, and success metrics for the business and for users.
 
 {% include post-components/gallery.html 
-  columns = 2 
-  full_width = true 
-  images = "/images/transamerica_hero_1@2x.png,/images/transamerica_hero_1@2x.png,/images/transamerica_hero_1@2x.png,/images/transamerica_hero_1@2x.png, 
-  " 
+  columns = '2' 
+  full_width = 'true' 
+  images = '/images/transamerica_hero_1@2x.png,/images/transamerica_hero_1@2x.png,/images/transamerica_hero_1@2x.png,/images/transamerica_hero_1@2x.png, 
+  ' 
 %}
 
 To accompany the inception brief, I established a Design "Definition of Ready," which quickly proved to improve the clarity of information designers received for new projects, including clarity of scope, priority, and design requirements.
