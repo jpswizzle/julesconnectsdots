@@ -97,7 +97,7 @@ It also included a Madlib-style template for a problem statement, and sections t
 
 {% include post-components/gallery.html 
   columns = 1
-  full_width = true
+  full_width = false
   images = "../images/projects/transamerica_hero_1@2x.png,../images/projects/transamerica_hero-2col@2x.png,../images/projects/transamerica_context-framed@2x.png,"
 %}
 
