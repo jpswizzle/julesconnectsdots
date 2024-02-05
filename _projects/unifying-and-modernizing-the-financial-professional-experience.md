@@ -1,8 +1,8 @@
 ---
 title: Unifying and modernizing the financial professional experience
 subtitle: >-
-  How I transformed financial services and reduced costs with design leadership
-  and design operations
+  How I guided digital transformation and reduced costs with design operations
+  and leadership
 date: 2021-01-30 12:00:00 -0700
 description: >-
   As Product Design Manager, I led a team of 3 designers to consolidate 6 legacy
@@ -74,6 +74,8 @@ On top of this, the UX team encountered design-specific challenges:
 This was, of course, a multi-year effort. We began with consolidating 6 of the portals.
 
 The biggest barrier to designer success was weak partnership with our two product owners (P.O.s). Like so many product people, they had full calendars, too much on their plates, and too many stakeholder cooks in their kitchen.
+
+For us as a design team, it seemed that collaborating with UX was less of a priority. This was underscored by the fact that UX reported up through a very traditionally structured Marketing department. My design team consistently felt misunderstood and underappreciated.
 
 In my role as product design manager, I first prioritized increasing transparency and alignment between my team and product and cross-functional partners. I achieved stronger product-UX partnerships in my first 3 months by initiating design-specific ceremonies that increased visibility and trust.
 
