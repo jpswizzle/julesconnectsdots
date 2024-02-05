@@ -32,11 +32,13 @@ As Product Design Manager, I led a team of 3 designers to consolidate 6 legacy p
 
 **Tech stack:** legacy backend, HTML/CSS, AngularJS
 
-### Business objective
+## Experience objective
 
-The directive was to concurrently consolidate over a dozen portals contributing to the fragmented portal experience by creating a single portal for insurance agents, financial advisors, and their clients. The unified portal would modernize our digital platform, improving both business and user outcomes.
+The directive was to consolidate over a dozen portals contributing to the fragmented portal experience by creating a single portal for insurance agents, financial advisors, and their clients.
 
-### Value Proposition
+The unified portal would modernize our digital platform, improving both business and user outcomes.
+
+### Value proposition
 
 > The new Advisor Experience will provide financial professionals with an all-in-one digital solution to manage their business with Transamerica.
 
@@ -53,9 +55,11 @@ The directive was to concurrently consolidate over a dozen portals contributing 
 * Spend less time on admin and more time building relationships with and selling to my clients
 * Sell more Transamerica products
 
-## Overcoming Challenges and Advancing UX Maturity
+## Overcoming challenges and advancing UX maturity
 
 When I joined Transamerica, the User Experience (UX) team consisted of 18 members. Designers were organized into 3 pods, one for each operating unit. UX research was shared across all 3 pods. I managed and led the 3 designers responsible for supporting the Financial Professionals operating unit.
+
+### Cross-cutting challenges
 
 All Transamerica technology teams across the business shared faced the same challenges:
 
@@ -63,15 +67,31 @@ All Transamerica technology teams across the business shared faced the same chal
 * partnering with Product Owners who were heavily oriented to Sales and Operations
 * collaborating with primarily outsourced technology staff for the large, highly complex backend consolidation effort
 
+### Design-specific challenges
+
 On top of this, the UX team encountered design-specific challenges:
 
 * low UX maturity outside of the UX team
 * strong confinement of scope to a "feature parity" mindset
 * insufficient information provided to designers at the start of projects
 
-## Approach
+## Setting designers up for success
 
-This was, of course, a multi-year effort. We began with consolidating 6 of the portals.
+This was, of course, a multi-year effort with multiple phases. We began with consolidating 6 of the portals.
+
+I took a multi-prong approach to lay the groundwork to ensure my design team would have sufficient information at the start of every project and reliable collaboration touchpoints with our two product owners.
+
+Working arm-in-arm with my team's digital producer, we set out to improve:
+
+1. **alignment** on design decisions for the two experiences
+2. **collaboration** with product and engineering partners
+3. **clarity of information** required to confidently begin the design process
+
+### Building ongoing designer alignment
+
+To ensure a smooth and cohesive experience, I scheduled regular standups and working sessions to support my designers' alignment on factors that drove design decisions as well as the actual design decisions they were making for both experiences.
+
+### Strengthening the UX-PO partnership
 
 The biggest barrier to designer success was weak partnership with our two product owners (P.O.s). Like so many product people, they had full calendars, too much on their plates, and too many stakeholder cooks in their kitchen.
 
@@ -79,27 +99,31 @@ For us as a design team, it seemed that collaborating with UX was less of a prio
 
 In my role as product design manager, I first prioritized increasing transparency and alignment between my team and product and cross-functional partners. I achieved stronger product-UX partnerships in my first 3 months by initiating design-specific ceremonies that increased visibility and trust.
 
-Although the relationships felt stronger, my design team was continually being handed work without clear business context or requirements. The typical hand-off from our P.O.s took the form of a brief demo of the legacy experience and the guidance to redesign for “feature parity.”
+### Increasing information fidelity during intake
+
+Although the relationships felt stronger, my design team was regularly tasked with work without clear business context or requirements.
+
+The typical hand-off from our P.O.s took the form of a brief demo of the legacy experience and the guidance to redesign for “feature parity.”
 
 As a design team, we knew that we needed to understand use cases and business operations to make informed design decisions. While the use cases were in part supplemented by UX research, the business context often came too late in the design process.
 
-To address this problem, I collaborated with my digital producer to improve project intake so that designers would have sufficient information at the start of their design process. We introduced and socialized an inception brief.
+To address this problem, I collaborated with my digital producer to introduce and socialize an inception brief.
 
-The inception brief encapsulated project vitals such as:
+### Introducing the inception brief
+
+The inception brief served as a standard template that encompassed the information designers needed to confidently begin their design process. It also served to build a shared cross-functional understanding of the problem and desired outcomes for the shippable solution.
+
+**The inception brief encapsulated project vitals such as:**
 
 * Who is the target user?
 * What is the problem that this feature set will solve?
 * How big and complex is this effort?
 * When is development targeted to start?
-* Who are the key subject matter experts we
+* Who are the key subject matter experts (SMEs) we should consult early in our design process?
 
-It also included a Madlib-style template for a problem statement, and sections to define risks, dependencies, and success metrics for the business and for users.
+It also included a Madlib-style template for a problem statement, as well as sections to define risks, dependencies, and success metrics for the business and for users.
 
-{% include post-components/gallery.html 
-  columns = 1
-  full_width = false
-  images = "../images/projects/transamerica_hero_1@2x.png,../images/projects/transamerica_hero-2col@2x.png,../images/projects/transamerica_context-framed@2x.png,"
-%}
+{% include post-components/gallery.html columns = 1 full_width = false images = "../images/projects/transamerica_hero_1@2x.png,../images/projects/transamerica_hero-2col@2x.png,../images/projects/transamerica_context-framed@2x.png," %}
 
 To accompany the inception brief, I established a Design "Definition of Ready," which quickly proved to improve the clarity of information designers received for new projects, including clarity of scope, priority, and design requirements.
 

@@ -35,15 +35,28 @@ In order to keep people engaged on Driveway.com, we wanted our brand and homepag
 
 ## Paving the way by evolving the design system
 
-As Driveway matured its brand presence, the design system had to be in lockstep. I orchestrated both the evolution of the Driveway design system and the cross-functional execution of an organization-wide brand refresh.
+As Driveway's senior product designers and lead brand designer collaborated closely to hone the brand vision and visual language necessary to mature Driveway's brand presence, I prepared to drive alignment across the XD team.
 
-{% include post-components/gallery.html 
-  columns = 2
-  full_width = false
-  images = 
-  "../images/projects/driveway_2.woah_approach-1.png,../images/projects/driveway_2.woah_approach-2.png,../images/projects/driveway_2.woah_assets-2.png,../images/projects/driveway_2.woah_assets-3.png,
-  "
-%}
+### Switching on the fog lights
+
+Rebranding efforts can often feel like driving up a winding mountain road in the night fog—especially when executed internally.
+
+Evolving the Driveway design system through a weekly design system guild shone the fog lights on the meandering course.
+
+Outside of the XD team, I also provided regular updates in the biweekly sync between lead product designers and the UI engineers who owned their squad's contributions to the design system code base.
+
+### Turning on the power steering
+
+The scope of my responsibility in guiding brand refresh quickly expanded from coordinating the XD team and design system efforts to orchestrating cross-functional release planning.
+
+Product Managers and Delivery Leads began to have questions, and I was the leader who possessed both a breadth and depth of knowledge on the initiative.
+
+To increase shared understanding and decrease anxiety around the unknowns, I created visual artifacts to socialize the effort:
+
+* **Pitstops:**&nbsp;a one-page explainer of the brand refresh phases
+* **Release goal posts:** an accompanying one-page "menu" of the recommended approach to implementing Driveway's new color palette in forthcoming product releases
+
+{% include post-components/gallery.html columns = 2 full_width = false images = "../images/projects/driveway_2.woah_approach-1.png,../images/projects/driveway_2.woah_approach-2.png,../images/projects/driveway_2.woah_assets-2.png,../images/projects/driveway_2.woah_assets-3.png, " %}
 
 ## Launching the new brand
 
