@@ -108,7 +108,7 @@ font_settings:
   h2:
     size: 48
     size_small: 36
-    weight: 700
+    weight: 500
     letter_spacing: -1.6
     letter_spacing_small: -1.04
 #    line_height: 56
@@ -118,7 +118,7 @@ font_settings:
   h3:
     size: 40
     size_small: 30
-    weight: 700
+    weight: 500
     letter_spacing: -1.4
     letter_spacing_small: -0.54
 #    line_height: 48
