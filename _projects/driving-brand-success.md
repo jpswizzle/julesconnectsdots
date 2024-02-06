@@ -16,8 +16,6 @@ gallery_images:
   - driveway_2.woah_assets-1.png
   - driveway_2.woah_homepage.png
 ---
-# Driving growth at the speed of brand recognition
-
 ## The speedway to growth
 
 In mid 2021, the Driveway Product team observed an uptick in unique page views and expected this trend to grow significantly over the coming months.
@@ -25,6 +23,8 @@ In mid 2021, the Driveway Product team observed an uptick in unique page views a
 Since Driveway was still new to the automotive eCommerce space, many of these customers would land on the Driveway homepage with limited knowledge of the brand and value proposition.
 
 ## Experience objective
+
+### **Driving growth at the speed of brand recognition**
 
 As Product and Design, we determined it’s important that we enable these new users to quickly:
 
