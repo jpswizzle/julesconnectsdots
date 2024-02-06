@@ -101,45 +101,56 @@ font_settings:
     weight: 700
     letter_spacing: -1.5
     letter_spacing_small: -1.2
-    line_height: 72
-    line_height_small: 48
+#    line_height: 72
+    line_height: 64
+#    line_height_small: 48
+    line_height_small: 44
   h2:
     size: 48
     size_small: 36
     weight: 700
     letter_spacing: -1.6
     letter_spacing_small: -1.04
-    line_height: 56
-    line_height_small: 44
+#    line_height: 56
+    line_height: 48
+#    line_height_small: 44
+    line_height_small: 36
   h3:
     size: 40
     size_small: 30
     weight: 700
     letter_spacing: -1.4
     letter_spacing_small: -0.54
-    line_height: 48
-    line_height_small: 36
+#    line_height: 48
+    line_height: 42
+#    line_height_small: 36
+    line_height_small: 30
   h4:
     size: 32
     size_small: 28
     weight: 700
     letter_spacing: -1
     letter_spacing_small: -0.6
-    line_height: 36
+#    line_height: 36
+    line_height: 30
+#    line_height_small: 36
+    line_height_small: 30
   h5:
     small_size: 17
     medium_size: 20
     large_size: 20
     weight: 700
     letter_spacing: 0
-    line_height: 1.6
+#    line_height: 1.6
+    line_height: 1.4
   h6:
     small_size: 17
     medium_size: 20
     large_size: 20
     weight: 700
     letter_spacing: 0
-    line_height: 1.6
+#    line_height: 1.6
+    line_height: 1.4
   subtitle:
     size: 22
     size_small: 20
@@ -175,10 +186,14 @@ font_settings:
     letter_spacing: -0.04
     line_height: 12
   blockquote:
-    small_size: 22
-    medium_size: 30
-    large_size: 38
-    weight: 500
+#    small_size: 22
+#    medium_size: 30
+#    large_size: 38
+    small_size: 20
+    medium_size: 28
+    large_size: 32
+#   weight: 500    
+    weight: 400
     letter_spacing: -0.02
     line_height: 1.6
   buttons:
