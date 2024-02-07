@@ -19,7 +19,7 @@ hero_settings:
 post_settings:
   grid_spacing: 10
 contact_settings:
-  email_address: hello@julesconnectsdots.com
+  email_address: jrmaccounts@multisaft.com
   form_action: https://formspree.io/f/xgegapdn
   confirmation_url: /thanks
   email_subject: Connecting our dots
