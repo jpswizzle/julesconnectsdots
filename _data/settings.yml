@@ -7,7 +7,7 @@ header_settings:
 menu_settings:
   menu_items:
     - title: Additional Work
-      url: www.vault.julesconnectsdots.com
+      url: https://vault.julesconnectsdots.com
     - title: Schedule a chat
       url: https://cal.com/jules-monza/intro-convo
 footer_settings:
