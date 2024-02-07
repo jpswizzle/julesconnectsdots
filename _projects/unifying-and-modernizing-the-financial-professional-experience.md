@@ -24,17 +24,17 @@ Transamerica had grown through acquisition over a few decades, scooping up small
 
 ### My role
 
-As Product Design Manager, I led a team of 3 designers to consolidate 6 legacy portals into a unified experience for financial professionals and their clients. My approach resulted in reduced operational costs, stronger cross-functional partnerships, and streamlined end-to-end design processes.<!-- notionvc: edc8b225-a748-4efa-9287-4c76923ce34f -->
+When I joined Transamerica, the User Experience (UX) team comprised 18 members. Designers were organized into 3 pods, one for each operating unit. UX research was shared across all 3 pods.
 
-**Role:** Product Design Manager
+As Product Design Manager, I managed and led the 3 designers responsible for supporting the Financial Professionals operating unit. My approach resulted in reduced operational costs, stronger cross-functional partnerships, and streamlined end-to-end design processes.<!-- notionvc: edc8b225-a748-4efa-9287-4c76923ce34f -->
 
-**Involvement:** DesignOps, user research, information architecture, people management
+**Involvement:** DesignOps, people management, user research, information architecture
 
-**Tech stack:** legacy backend, HTML/CSS, AngularJS
+**Tech stack:** legacy backend, HTML/CSS, AngularJS​​​
 
 ## Experience objective
 
-The directive was to consolidate over a dozen portals contributing to the fragmented portal experience by creating a single portal for insurance agents, financial advisors, and their clients.
+Our directive was to consolidate over a dozen portals contributing to the fragmented portal experience by creating a single portal for insurance agents, financial advisors, and their clients.
 
 The unified portal would modernize our digital platform, improving both business and user outcomes.
 
@@ -57,7 +57,7 @@ The unified portal would modernize our digital platform, improving both business
 
 ## Overcoming challenges and advancing UX maturity
 
-When I joined Transamerica, the User Experience (UX) team consisted of 18 members. Designers were organized into 3 pods, one for each operating unit. UX research was shared across all 3 pods. I managed and led the 3 designers responsible for supporting the Financial Professionals operating unit.
+Transamerica's digital transformation effort posed two levels of challenges. The first level was the cross-cutting challenges that were common to all teams, and the second level was the design-specific challenges encountered by the UX team.
 
 ### Cross-cutting challenges
 
