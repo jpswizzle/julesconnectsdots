@@ -125,11 +125,17 @@ It also included a Madlib-style template for a problem statement, as well as sec
 
 {% include post-components/gallery.html columns = 1 full_width = false images = "../images/projects/transamerica_hero_1@2x.png,../images/projects/transamerica_hero-2col@2x.png,../images/projects/transamerica_context-framed@2x.png," %}
 
+
+
 To accompany the inception brief, I established a Design "Definition of Ready," which quickly proved to improve the clarity of information designers received for new projects, including clarity of scope, priority, and design requirements.
 
 ## Impact
 
-The Advisor/Agent portal launched in Q1 of 2020, with the Individual (client) portal a fast follow.
+{% include post-components/video.html url = "https://player.vimeo.com/video/353876769?color=6c6e95&amp;title=0&amp;byline=0" full_width = true %}
+
+https://vimeo.com/353876769/a00a6785a0?share=copy
+
+The Advisor/Agent portal experience launched in Q1 of 2020, with the corresponding Individual (client) experience a fast follow.
 
 The launch resulted in streamlined user experiences for financial professionals and their clients, enabling clients to log in and see the same information as their advisor or agent.
 
