@@ -181,11 +181,13 @@ font_settings:
     letter_spacing: -0.02
     line_height: 1.6
   buttons:
-    weight: 400
+    weight: 500
     letter_spacing: 0.4
 advanced_settings:
   ajax_loading: true
-  analytics_code: ''
+  analytics_code: >-
+    <script async src="https://us.umami.is/script.js"
+    data-website-id="5dd47645-105b-4a2e-b33b-c21efe50ca3e"></script>
   custom_styles: ''
   header_js: ''
   footer_js: ''
