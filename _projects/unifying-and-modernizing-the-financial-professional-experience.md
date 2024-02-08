@@ -131,9 +131,7 @@ To accompany the inception brief, I established a Design "Definition of Ready," 
 
 ## Impact
 
-{% include post-components/video.html url = "https://player.vimeo.com/video/353876769?color=6c6e95&amp;title=0&amp;byline=0" full_width = true %}
-
-https://vimeo.com/353876769/a00a6785a0?share=copy
+{% include post-components/video.html url = "https://player.vimeo.com/video/353876769?color=040269&amp;title=0&amp;byline=0" full_width = false %}
 
 The Advisor/Agent portal experience launched in Q1 of 2020, with the corresponding Individual (client) experience a fast follow.
 
