@@ -28,7 +28,7 @@ Transamerica had grown through acquisition over a few decades, scooping up small
 
 When I joined Transamerica, the User Experience (UX) team comprised 18 members. Designers were organized into 3 pods, one for each operating unit. UX research was shared across all 3 pods.
 
-As Product Design Manager, I managed and led the 3 designers responsible for supporting the Financial Professionals operating unit. My approach resulted in reduced operational costs, stronger cross-functional partnerships, and streamlined end-to-end design processes.<!-- notionvc: edc8b225-a748-4efa-9287-4c76923ce34f -->
+As Product Design Manager, I managed and led the 3 designers responsible for supporting the Financial Professionals operating unit. My approach resulted in reduced operational costs, stronger cross-functional partnerships, and streamlined end-to-end design processes.<!--{C}%3C!%2D%2D%20notionvc%3A%20edc8b225-a748-4efa-9287-4c76923ce34f%20%2D%2D%3E-->
 
 **Involvement:** people management, design ops, user research, information architecture
 
@@ -157,4 +157,4 @@ My leadership led to stronger cross-functional partnerships and a more modernize
 * I pitched and guided team-led planning and facilitation of a vision workshop with product, engineering, and design leaders
 * I created and pitched 3 information architecture concepts for advisor annuities view based on 11 jobs-to-be-done (JTBDs) identified during internal research with 5 sales partners; as a result, product partners chose one concept for further exploration
 
-<!-- notionvc: 51d47299-b5f2-47f5-a077-5d2e3422e39f --><!-- notionvc: f427bdb1-3af6-4d7a-b6bc-ad3c0c94de94 -->
+<!--{C}%3C!%2D%2D%20notionvc%3A%2051d47299-b5f2-47f5-a077-5d2e3422e39f%20%2D%2D%3E--><!--{C}%3C!%2D%2D%20notionvc%3A%20f427bdb1-3af6-4d7a-b6bc-ad3c0c94de94%20%2D%2D%3E-->
