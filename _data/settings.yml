@@ -74,13 +74,13 @@ color_settings:
   greytint_purple_700: '#8382AB'
 font_settings:
   font_embed: >-
-    <link
-    href="https://fonts.googleapis.com/css?family=Rubik:400,500,700|Source+Sans+3:wght@300,400,700&display=swap"
+    <link href="https://fonts.googleapis.com/css?family=
+    Saira:300,400,600|Source+Sans+3:wght@300,400,700&display=swap"
     rel="stylesheet">
-  title_font: Rubik, sans-serif
+  title_font: Saira, sans-serif
   body_font: '"Source Sans 3", sans-serif'
   regular_weight: 400
-  bold_weight: 700
+  bold_weight: 600
   site_title:
     small_size: 26
     medium_size: 30
