@@ -28,7 +28,7 @@ When I joined Transamerica, the User Experience (UX) team comprised 18 members. 
 
 As Product Design Manager, I managed and led the 3 designers responsible for supporting the Financial Professionals operating unit. My approach resulted in reduced operational costs, stronger cross-functional partnerships, and streamlined end-to-end design processes.<!-- notionvc: edc8b225-a748-4efa-9287-4c76923ce34f -->
 
-**Involvement:** DesignOps, people management, user research, information architecture
+**Involvement:** people management, design ops, user research, information architecture
 
 **Tech stack:** legacy backend, HTML/CSS, AngularJS​​​
 
@@ -57,7 +57,7 @@ The unified portal would modernize our digital platform, improving both business
 
 ## Overcoming challenges and advancing UX maturity
 
-Transamerica's digital transformation effort posed two levels of challenges. The first level was the cross-cutting challenges that were common to all teams, and the second level was the design-specific challenges encountered by the UX team.
+Transamerica's digital transformation effort posed 2 levels of challenges. The first level was the cross-cutting challenges that were common to all teams, and the second level was the design-specific challenges encountered by the UX team.
 
 ### Cross-cutting challenges
 
@@ -79,21 +79,25 @@ On top of this, the UX team encountered design-specific challenges:
 
 This was, of course, a multi-year effort with multiple phases. We began with consolidating 6 of the portals.
 
-I took a multi-prong approach to lay the groundwork to ensure my design team would have sufficient information at the start of every project and reliable collaboration touchpoints with our two product owners.
+I took a multi-prong approach to lay the groundwork to ensure my design team would have sufficient information at the start of every project and reliable collaboration touchpoints with our 2 product owners.
 
 Working arm-in-arm with my team's digital producer, we set out to improve:
 
-1. **alignment** on design decisions for the two experiences
-2. **collaboration** with product and engineering partners
-3. **clarity of information** required to confidently begin the design process
+1. **Alignment** on design decisions for the 2 experiences
+2. **Collaboration** with product and engineering partners
+3. **Clarity of information** required to confidently begin the design process
 
 ### Building ongoing designer alignment
 
 To ensure a smooth and cohesive experience, I scheduled regular standups and working sessions to support my designers' alignment on factors that drove design decisions as well as the actual design decisions they were making for both experiences.
 
+We also began running 2-week "scrumban"-style design sprints, and I acted as the Scrum Master for my design team.
+
+{% include post-components/gallery.html columns = 1 full_width = false images = "../images/projects/transamerica_hero_1@2x.png,../images/projects/transamerica_hero-2col@2x.png,../images/projects/transamerica_context-framed@2x.png," %}
+
 ### Strengthening the UX-PO partnership
 
-The biggest barrier to designer success was weak partnership with our two product owners (P.O.s). Like so many product people, they had full calendars, too much on their plates, and too many stakeholder cooks in their kitchen.
+The biggest barrier to designer success was weak partnership with our 2 product owners (P.O.s). Like so many product people, they had full calendars, too much on their plates, and too many stakeholder cooks in their kitchen.
 
 For us as a design team, it seemed that collaborating with UX was less of a priority. This was underscored by the fact that UX reported up through a very traditionally structured Marketing department. My design team consistently felt misunderstood and underappreciated.
 
@@ -123,17 +127,15 @@ The inception brief served as a standard template that encompassed the informati
 
 It also included a Madlib-style template for a problem statement, as well as sections to define risks, dependencies, and success metrics for the business and for users.
 
-{% include post-components/gallery.html columns = 1 full_width = false images = "../images/projects/transamerica_hero_1@2x.png,../images/projects/transamerica_hero-2col@2x.png,../images/projects/transamerica_context-framed@2x.png," %}
-
-
-
 To accompany the inception brief, I established a Design "Definition of Ready," which quickly proved to improve the clarity of information designers received for new projects, including clarity of scope, priority, and design requirements.
 
 ## Impact
 
-{% include post-components/video.html url = "https://player.vimeo.com/video/353876769?color=040269&amp;title=0&amp;byline=0" full_width = false %}
+The Agent + Advisor portal experience launched in Q1 of 2020, with the corresponding Individual (client) experience a fast follow.
 
-The Advisor/Agent portal experience launched in Q1 of 2020, with the corresponding Individual (client) experience a fast follow.
+My team collaborated with Marketing to promote adoption by financial professionals with the following promotional reel (as well as other onboarding assets).
+
+{% include post-components/video.html url = "https://player.vimeo.com/video/353876769?color=040269&amp;title=0&amp;byline=0" full_width = false %}&nbsp;
 
 The launch resulted in streamlined user experiences for financial professionals and their clients, enabling clients to log in and see the same information as their advisor or agent.
 
