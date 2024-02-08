@@ -24,6 +24,8 @@ Transamerica had grown through acquisition over a few decades, scooping up small
 
 ### My role
 
+#### Product Design Manager + DesignOps specialist
+
 When I joined Transamerica, the User Experience (UX) team comprised 18 members. Designers were organized into 3 pods, one for each operating unit. UX research was shared across all 3 pods.
 
 As Product Design Manager, I managed and led the 3 designers responsible for supporting the Financial Professionals operating unit. My approach resulted in reduced operational costs, stronger cross-functional partnerships, and streamlined end-to-end design processes.<!-- notionvc: edc8b225-a748-4efa-9287-4c76923ce34f -->
@@ -34,9 +36,13 @@ As Product Design Manager, I managed and led the 3 designers responsible for sup
 
 ## Experience objective
 
+#### Consolidate the portal experience
+
 Our directive was to consolidate over a dozen portals contributing to the fragmented portal experience by creating a single portal for insurance agents, financial advisors, and their clients.
 
 The unified portal would modernize our digital platform, improving both business and user outcomes.
+
+This was, of course, a multi-year effort with multiple phases. We began with consolidating 6 of the portals.
 
 ### Value proposition
 
@@ -77,8 +83,6 @@ On top of this, the UX team encountered design-specific challenges:
 
 ## Setting designers up for success
 
-This was, of course, a multi-year effort with multiple phases. We began with consolidating 6 of the portals.
-
 I took a multi-prong approach to lay the groundwork to ensure my design team would have sufficient information at the start of every project and reliable collaboration touchpoints with our 2 product owners.
 
 Working arm-in-arm with my team's digital producer, we set out to improve:
@@ -89,7 +93,10 @@ Working arm-in-arm with my team's digital producer, we set out to improve:
 
 ### Building ongoing designer alignment
 
-To ensure a smooth and cohesive experience, I scheduled regular standups and working sessions to support my designers' alignment on factors that drove design decisions as well as the actual design decisions they were making for both experiences.
+To ensure a smooth and cohesive experience, I scheduled regular standups and working sessions to support my designers' alignment on
+
+* factors that drove design decisions for both experiences
+* actual design decisions and design patterns
 
 We also began running 2-week "scrumban"-style design sprints, and I acted as the Scrum Master for my design team.
 
