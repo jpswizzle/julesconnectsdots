@@ -1,7 +1,7 @@
 ---
 title: Launching UX Research at Driveway
 subtitle: How I launched a comprehensive research program at Driveway (NYSE:LAD)
-date: 2024-01-30 01:00:00
+date: 2024-01-30 01:00:00 -0700
 description: >-
   When I joined Driveway shortly after they launched, they had no UX researcher
   but a strong appetite for learning. The UXR program I launched steered product
