@@ -61,16 +61,19 @@ Formally launch UX Research as a product development function. Steer Product and
 
 ## Approach: Program Pillars
 
-\[image of program pillars\]
+My approach to launching a UX Research program encompassed 4 program pillars:
+
+1. Staff UX Research
+2. Identify Design and Product’s learning needs
+3. Procure the right research tool for meeting those needs
+4. Create a cross-cutting research roadmap
 
 ### Implementing the program
 
-*\[this could be a carousel?\]*
-
-1. Staff research
+1. Hired the first dedicated UX Researcher&nbsp;
 2. Set the course for research maturity
-3. Pilot research partnership and process
-4. Enable the right kind of learning
+3. Piloted research partnership and process
+4. Enabled the right kind of learning by procuring dscout
 5. Make research plans visible
 6. Make **How** as important as **Why**
 7. Make learning actionable
@@ -78,8 +81,6 @@ Formally launch UX Research as a product development function. Steer Product and
 ![](/images/projects/driveway_launchingUXresearch_1@2x.png)
 
 ## Program impact
-
-*\[this could be a carousel?\]*
 
 1. Successful liftoff
 2. Tool enablement
