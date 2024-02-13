@@ -54,7 +54,11 @@ I engaged with the effort as these 2 designers honed the brand direction, seekin
 
 Next came the challenge of applying the brand direction to the UI across all of Driveway.com, including the top of the funnel, user accounts, and the field inspector mobile app.
 
-As a handful of product designers explored how best to embody the refreshed visual identity from molecule up to page templates, the Marketing team and content designers worked to refine the brand voice.<br>Meanwhile, I prepared to drive collaboration and alignment of design decisions across the XD team.
+As a handful of product designers explored how best to embody the refreshed visual identity from molecule up to page templates, our Design System Designer began to update type and color styles in Figma.
+
+Working in tandem, the Marketing team and content designers worked to refine the brand voice.
+
+Meanwhile, I prepared to drive collaboration and alignment of design decisions across the XD team.
 
 ### Switching on the fog lights
 
@@ -68,6 +72,8 @@ The purpose of the guild was twofold:
 * Use the forum to build consensus on design system decisions&nbsp;
 
 The format was a hybrid between show-and-tell and internal creative review, with constructive criticism leading to coalescing choices for visual hierarchy, button styles, drop shadows, etc.
+
+{% include post-components/gallery.html columns = 1 full_width = true images = "../images/projects/driveway_2.woah_designSystem-colors-2-col.png,../images/projects/driveway_2.woah_assets-3.png,../images/projects/driveway_2.woah_assets-4.png," %}
 
 ### Turning on the power steering
 
@@ -83,7 +89,7 @@ To increase shared understanding and decrease anxiety around the unknowns, I too
    1. **Pitstops:**&nbsp;a one-page explainer of the brand refresh phases
    2. **Release goal posts:** an accompanying one-page "menu" of the recommended approach to implementing Driveway's new color palette in forthcoming product releases
 
-{% include post-components/gallery.html columns = 2 full_width = false images = "../images/projects/driveway_2.woah_approach-1.png,../images/projects/driveway_2.woah_approach-2.png,../images/projects/driveway_2.woah_assets-2.png,../images/projects/driveway_2.woah_assets-3.png, " %}
+{% include post-components/gallery.html columns = 2 full_width = true images = "../images/projects/driveway_2.woah_approach-1.png,../images/projects/driveway_2.woah_approach-2.png, " %}
 
 ## Dress rehearsal
 
