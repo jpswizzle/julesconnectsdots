@@ -142,11 +142,8 @@ font_settings:
   subtitle:
     size: 22
     size_small: 20
-<<<<<<< HEAD
     weight_regular: 400
-=======
     weight_regular: 300
->>>>>>> b61003f5f448c9ad49b8ebfc93fade90d905caab
     weight_heavy: 400
     letter_spacing: 0.16
     letter_spacing_small: 0.2
