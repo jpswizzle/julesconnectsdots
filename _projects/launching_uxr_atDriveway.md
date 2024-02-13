@@ -25,17 +25,18 @@ The program encompassed staffing, tooling, intake and roadmapping for multi-meth
 
 #### **Value proposition**
 
-* Driveway supports the full car ownership lifecycle, all from the convenience of your home
+Driveway supports the full car ownership lifecycle, all from the convenience of your home.
+
 * Innovation hub within Lithia Motors (NYSE: LAD, currently \#145 on the Fortune 500)
 * Largest new-car retailer in the U.S.$28.2B in revenue in 2022
 * Competes with Carvana, CarMax, and [Cars.com](http://Cars.com)​​​​​
 
 #### **Players**
 
-* Distributed US-based team with 8 squads
+Supporting a distributed US-based team with 8 squads, my role was Product Design Manager + Design Program Manager, reporting to the Director of XD.
+
 * ~30-member Experience Design (XD) team, including product designers, content designers, 1 design system designer, 1 UX researcher, 3 product design managers (including me)
 * Built partnerships with Product Managers, Head of Marketing, and Lead Brand Designer
-* Product Design Manager + Design Program Manager reporting to the Director of XD
 
 #### **Key results**​​​​​​
 
@@ -92,17 +93,23 @@ My approach to launching a UX Research program encompassed 4 program pillars:
 3. Procure the right research tool for meeting those needs
 4. Create a cross-cutting research roadmap
 
+{% include post-components/gallery.html columns = 1 full_width = true images = "../images/projects/driveway_approach_01@2x.png," %}
+
 ### Implementing the program
 
-1. Hired the first dedicated UX Researcher&nbsp;
-2. Set the course for research maturity
-3. Piloted research partnership and process
-4. Enabled the right kind of learning by procuring dscout
-5. Make research plans visible
-6. Make **How** as important as **Why**
-7. Make learning actionable
+{% include post-components/gallery.html columns = 2 full_width = false images = "../images/projects/driveway_uxr_toolEnablement@2x.png,driveway_uxr_roadmapIntake-1@2x.png,driveway_uxr_roadmapIntake-2@2x.png, driveway_uxr_roadmapIntake-3@2x.png,driveway_uxr_roadmapIntake-4@2x.png " %}
 
-![](/images/projects/driveway_launchingUXresearch_1@2x.png)
+Over the course of 6 months, I implemented the research program by&nbsp;
+
+1. Hiring the first dedicated UX Researcher&nbsp;
+2. Setting the course for research maturity
+3. Piloting and iterating on research partnership and process
+4. Enabling desired learning outcomes by procuring dscout
+5. Making the research backlog visible to partners
+6. Fostering collaborative research execution (made **How** as important as **Why**)
+7. Making learning actionable and relevant to product and design decisions
+
+
 
 ## Program impact
 
