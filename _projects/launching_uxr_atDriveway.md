@@ -1,6 +1,8 @@
 ---
 title: Launching UX Research at Driveway
-subtitle: How I launched a comprehensive research program at Driveway (NYSE:LAD)
+subtitle: >-
+  How I launched a comprehensive research program in 6 months at Driveway
+  (NYSE:LAD)
 date: 2024-01-30 01:00:00 -0700
 description: >-
   When I joined Driveway shortly after they launched, they had no UX researcher
@@ -13,31 +15,53 @@ gallery_images:
   - driveway_launchingUXresearch_2@2x.png
   - driveway_launchingUXresearch_3@2x.png
 ---
+##
+
+## Driving a unique value proposition with data
+
+I launched a comprehensive UX Research program in 6 months, from the first hire to the initial research roadmap.
+
+The program encompassed staffing, tooling, intake and roadmapping for multi-method research, standards for execution, and best practices for cross-functional collaboration.
+
+#### **Value proposition**
+
+* Driveway supports the full car ownership lifecycle, all from the convenience of your home
+* Innovation hub within Lithia Motors (NYSE: LAD, currently \#145 on the Fortune 500)
+* Largest new-car retailer in the U.S.$28.2B in revenue in 2022
+* Competes with Carvana, CarMax, and [Cars.com](http://Cars.com)​​​​​
+
+#### **Players**
+
+* Distributed US-based team with 8 squads
+* ~30-member Experience Design (XD) team, including product designers, content designers, 1 design system designer, 1 UX researcher, 3 product design managers (including me)
+* Built partnerships with Product Managers, Head of Marketing, and Lead Brand Designer
+* Product Design Manager + Design Program Manager reporting to the Director of XD
+
+#### **Key results**​​​​​​
+
+* Staffed first UX Researcher and procured a new research tool
+* Achieved initial research velocity of 7 studies per quarter
+* Studies directly influenced Product and Design decisions that positively impacted Driveway OKRs
+* Laid the foundation for research as a team sport, including cross-functional research planning and prioritization
+
 ## Redefining the car ownership lifecycle
-
-Driveway aims to support the full car ownership lifecycle, from buying and financing to servicing and selling your vehicle— all from the convenience of your browser and your own Driveway.
-
-### The automotive terrain
-
-* Competes with Carvana, CarMax, and Cars.com
-* Innovation hub: startup owned and operated by Lithia Motors (NYSE: LAD)
-  * largest new-car retailer in the U.S.$28.2B in revenue in 2022
-  * Currently \#145 on the Fortune 500
-* Initial launch in Q4 2020 (expedited by the pandemic)
-* 8 “journey teams” = PDE squads
-
-This program encompassed intake and roadmapping for multi-method research, standards for execution, and best practices for cross-functional collaboration.
 
 ### Joining Driveway
 
-I started at Driveway in January 2021, just a few months after their initial launch.
+I joined Driveway in January 2021, just a few months after their initial launch.
 
-* Led Product Design for account center, homepage, internal tools, inventory
-* Acted as the XD program manager, launching programs for Design System, UX Research, and orchestrating Driveway's "2.woah" brand refresh
+* Led Product Design for account center, homepage, internal tools, inventory (sell)
+* Acted as design program manager (DPM), launching programs for both UX Research and the Design System, and orchestrating Driveway's "2.woah" brand refresh
 
 ## A clear need for research
 
-It was obvious that Driveway needed to press the gas on research. I collaborated with my manager, the Director of Experience Design, to define the need:
+With an ambitious product roadmap and quarterly major releases, Driveway quickly made a splash in the automotive eCommerce space.
+
+Both product designers and product managers had a strong appetite for conducting user research internally.
+
+It was obvious that Driveway needed to press the gas on research.
+
+I collaborated with my manager, the Director of Experience Design, to define the need:
 
 > Our features sometimes don't perform as we expect, and **we don't understand why.**
 >
