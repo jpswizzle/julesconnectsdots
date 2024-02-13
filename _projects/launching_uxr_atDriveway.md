@@ -93,7 +93,7 @@ My approach to launching a UX Research program encompassed 4 program pillars:
 3. Procure the right research tool for meeting those needs
 4. Create a cross-cutting research roadmap
 
-{% include post-components/gallery.html columns = 1 full_width = true images = "../images/projects/driveway_approach_01@2x.png," %}
+
 
 ### Implementing the program
 
@@ -108,8 +108,6 @@ Over the course of 6 months, I implemented the research program by&nbsp;
 5. Making the research backlog visible to partners
 6. Fostering collaborative research execution (made **How** as important as **Why**)
 7. Making learning actionable and relevant to product and design decisions
-
-
 
 ## Program impact
 
