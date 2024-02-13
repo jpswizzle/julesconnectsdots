@@ -11,9 +11,11 @@ description: >-
 featured_image: /images/projects/driveway_approach_01@2x.png
 accent_color: '#4c60e6'
 gallery_images:
+  - driveway_approach_01@2x.png
   - driveway_launchingUXresearch_1@2x.png
   - driveway_launchingUXresearch_2@2x.png
   - driveway_launchingUXresearch_3@2x.png
+  - driveway_launchingUXresearch_4@2x.png
 ---
 ## Driving a unique value proposition with data
 
