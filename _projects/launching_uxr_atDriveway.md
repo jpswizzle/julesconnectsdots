@@ -15,9 +15,9 @@ gallery_images:
   - driveway_launchingUXresearch_2@2x.png
   - driveway_launchingUXresearch_3@2x.png
 ---
-##
-
 ## Driving a unique value proposition with data
+
+### A brief tour of the program terrain
 
 I launched a comprehensive UX Research program in 6 months, from the first hire to the initial research roadmap.
 
