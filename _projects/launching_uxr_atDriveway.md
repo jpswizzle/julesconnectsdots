@@ -5,10 +5,8 @@ subtitle: >-
   (NYSE:LAD)
 date: 2024-01-30 01:00:00 -0700
 description: >-
-  When I joined Driveway shortly after they launched, they had no UX researcher
-  but a strong appetite for learning. The UXR program I launched steered product
-  and design decisions across the entire funnel as well as internal tools.
-featured_image: /images/projects/driveway_approach_01@2x.png
+  When I joined Driveway shortly after they launched, they had no UX researcher but a strong appetite for learning. The UXR program I launched steered product and design decisions across the entire funnel as well as internal tools.
+featured_image: driveway_approach_01@2x.png
 accent_color: '#4c60e6'
 gallery_images:
   - driveway_approach_01@2x.png
@@ -40,7 +38,7 @@ Supporting a distributed US-based team with 8 squads, my role was Product Design
 * ~30-member Experience Design (XD) team, including product designers, content designers, 1 design system designer, 1 UX researcher, and 3 product design managers (including me)
 * Built partnerships with Product Managers, Head of Marketing, and Lead Brand Designer
 
-#### **Key results**​​​​​​
+#### **Key results**
 
 * Staffed first UX Researcher and procured a new research tool
 * Achieved initial research velocity of 7 studies per quarter
@@ -152,9 +150,9 @@ I've summarized the first 3 months of the UXR program efforts in the below table
 
 | Team / Effort | May 2021 | Jun 2021 | Jul&nbsp; 2021 |
 | --- | --- | --- | --- |
-| *Inventory* | Sell Landing Page and Offer Screen Redesign Study – Discovery<!-- notionvc: 6820dede-5032-44ed-b599-71b8bb84a110 --> |  | Sell Account Creation and Onboarding – Discovery<!-- notionvc: 2eac4fb7-c646-4fcb-af23-1f956eefb78e --> |
-| *MegaCart* | Cart Wrapper<!-- notionvc: b87cf33a-821a-4d5a-b958-1461131982fa --> |  |  |
-| *My Driveway* | Preference Center Study<!-- notionvc: 0d199e27-5dee-4e53-9dc6-2aec1287e0b2 --> |  | Save Search – Usability<!-- notionvc: c30076fe-e13b-44e5-a04f-2d2d78c1f9dd --> |
+| *Inventory* | Sell Landing Page and Offer Screen Redesign Study – Discovery |  | Sell Account Creation and Onboarding – Discovery |
+| *MegaCart* | Cart Wrapper |  |  |
+| *My Driveway* | Preference Center Study |  | Save Search – Usability |
 | *Learn* |  | Top Navigation – Information Architecture Validation | Car Finder Quiz – Copy Validation |
 | *Tool procurement* | Tool secondary research: define procurement criteria | Tool demos and additional analysis | Business case creation and socialization with mid-level management |
 
@@ -168,9 +166,9 @@ I've summarized the first 3 months of the UXR program efforts in the below table
 
 ### What I would improve in the future
 
-1. Expedite tool procurement to avoid or minimize tool gaps.
-2. Shadow a few designer-researcher collaboration sessions.
-3. Establish programmatic research communications to all of Product and XD as well as to senior leaders.
-4. Establish at least one OKR for each research program pillar.
-   1. Workshop these with Researcher(s), Director, Design leads, and PMs.
-   2. Leverage OKRs to minimize my own work in progress (WIP).
+1. Expedite tool procurement to avoid or minimize tool gaps
+2. Shadow a few designer-researcher collaboration sessions
+3. Establish programmatic research communications to all of Product and XD as well as to senior leaders
+4. Establish at least one OKR for each research program pillar
+   1. Workshop these with Researcher(s), Director, Design leads, and PMs
+   2. Leverage OKRs to minimize my own work in progress (WIP)
