@@ -8,7 +8,7 @@ description: >-
   When I joined Driveway shortly after they launched, they had no UX researcher
   but a strong appetite for learning. The UXR program I launched steered product
   and design decisions across the entire funnel as well as internal tools.
-featured_image: driveway_launchingUXresearch_1@2x.png
+featured_image: /images/projects/driveway_approach_01@2x.png
 accent_color: '#4c60e6'
 gallery_images:
   - driveway_launchingUXresearch_1@2x.png
@@ -93,11 +93,11 @@ My approach to launching a UX Research program encompassed 4 program pillars:
 3. Procure the right research tool for meeting those needs
 4. Create a cross-cutting research roadmap
 
-
+![](/images/projects/driveway_approach_01@2x.png)
 
 ### Implementing the program
 
-{% include post-components/gallery.html columns = 2 full_width = false images = "../images/projects/driveway_uxr_toolEnablement@2x.png,driveway_uxr_roadmapIntake-1@2x.png,driveway_uxr_roadmapIntake-2@2x.png, driveway_uxr_roadmapIntake-3@2x.png,driveway_uxr_roadmapIntake-4@2x.png " %}
+{% include post-components/gallery.html columns = 2 full_width = false images = "../images/projects/driveway_uxr_toolEnablement@2x.png,driveway_uxr_roadmapIntake-1@2x.png,driveway_uxr_roadmapIntake-2@2x.png, driveway_uxr_roadmapIntake-3@2x.png,driveway_uxr_roadmapIntake-4@2x.png," %}
 
 Over the course of 6 months, I implemented the research program by&nbsp;
 
