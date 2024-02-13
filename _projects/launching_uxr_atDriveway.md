@@ -28,14 +28,14 @@ The program encompassed staffing, tooling, intake and roadmapping for multi-meth
 Driveway supports the full car ownership lifecycle, all from the convenience of your home.
 
 * Innovation hub within Lithia Motors (NYSE: LAD, currently \#145 on the Fortune 500)
-* Largest new-car retailer in the U.S.$28.2B in revenue in 2022
-* Competes with Carvana, CarMax, and [Cars.com](http://Cars.com)​​​​​
+* Largest new-car retailer in the U.S., with $28.2B in revenue in 2022
+* Competes with Carvana, CarMax, and Cars.com​​​​​
 
 #### **Players**
 
 Supporting a distributed US-based team with 8 squads, my role was Product Design Manager + Design Program Manager, reporting to the Director of XD.
 
-* ~30-member Experience Design (XD) team, including product designers, content designers, 1 design system designer, 1 UX researcher, 3 product design managers (including me)
+* ~30-member Experience Design (XD) team, including product designers, content designers, 1 design system designer, 1 UX researcher, and 3 product design managers (including me)
 * Built partnerships with Product Managers, Head of Marketing, and Lead Brand Designer
 
 #### **Key results**​​​​​​
@@ -146,7 +146,7 @@ Over the course of 6 months, I implemented the research program by&nbsp;
 2. **Achieved and maintained a good momentum.**
 3. **Laid the foundation for continued research planning and prioritization.** Based on the process I established for inputs to research roadmapping, Amy continued to use participatory formats to evaluate partners’ research needs and prioritize research efforts.
 
-I've summarized the first 3 months of the UXR program efforts in a table
+I've summarized the first 3 months of the UXR program efforts in the below table:
 
 | Team / Effort | May 2021 | Jun 2021 | Jul&nbsp; 2021 |
 | --- | --- | --- | --- |
