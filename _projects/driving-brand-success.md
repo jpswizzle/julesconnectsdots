@@ -18,6 +18,13 @@ gallery_images:
 ---
 ## The speedway to growth
 
+Driveway launched in September 2020 as Lithia Motors' move to
+
+* support the end-to-end car ownership lifecycle, all from the convenience of your home
+* gain competitive advantage over automotive eCommerce big-hitters CarMax, Cars.com, and Carvana
+
+### **An increase in monthly unique visitors (MUVs)**
+
 In mid 2021, the Driveway Product team observed an uptick in unique page views and expected this trend to grow significantly over the coming months.
 
 Since Driveway was still new to the automotive eCommerce space, many of these customers would land on the Driveway homepage with limited knowledge of the brand and value proposition.
@@ -33,9 +40,23 @@ As Product and Design, we determined it’s important that we enable these new u
 
 In order to keep people engaged on Driveway.com, we wanted our brand and homepage to feel exciting and captivating, with a *wow factor* that distinguished us from competitors.
 
+### Initial sparks of the brand refresh
+
+Our Director of Experience Design (XD), along with our new Marketing Director, made the business case for a brand refresh.
+
+Our Director of XD tapped 2 key senior designers, a product designer and a brand designer, to craft a more sophisticated visual identity and elevate Driveway’s brand style. They began with visual exploration, drawing on Driveway’s mission, vision, and brand story.
+
+Driveway's senior product designers and lead brand designer worked together closely to refine the brand vision and visual language necessary to mature Driveway's brand presence.
+
+I engaged with the effort as these 2 designers honed the brand direction, seeking feedback from other product designers.&nbsp;
+
 ## Paving the way by evolving the design system
 
-As Driveway's senior product designers and lead brand designer collaborated closely to hone the brand vision and visual language necessary to mature Driveway's brand presence, I prepared to drive alignment across the XD team.
+Next came the challenge of applying the brand direction to the UI, while the Marketing team and content designers worked to refine the brand voice to match the new visual identity.
+
+Meanwhile, I prepared to drive alignment across the XD team.
+
+As the design system evolved, it paved the way for the implementation of the brand refresh across all of Driveway.com, including the top of the funnel, user accounts, and the field inspector mobile app.
 
 ### Switching on the fog lights
 
