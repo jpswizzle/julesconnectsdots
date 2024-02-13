@@ -32,7 +32,7 @@ As Product Design Manager, I managed and led the 3 designers responsible for sup
 
 **Involvement:** people management, design ops, user research, information architecture
 
-**Tech stack:** legacy backend, HTML/CSS, AngularJS​​​
+**Tech stack:** legacy backend, HTML/CSS, AngularJS
 
 ## Experience objective
 
@@ -146,7 +146,23 @@ My team collaborated with Marketing to promote adoption by financial professiona
 
 The launch resulted in streamlined user experiences for financial professionals and their clients, enabling clients to log in and see the same information as their advisor or agent.
 
-Many agents could now manage their book of business and service policies or investments in a single portal rather than multiple. This freed up time to focus on building and maintaining client relationships.
+In the first 3 months, we onboarded 7,760 financial professional users to the Agent + Advisor portal. They could now manage their book of business and service policies or investments in a single portal rather than multiple. This freed up time to focus on building and maintaining client relationships.
+
+#### User Counts: Financial Professionals
+
+| Timeframe  | Total Users | New Users | Metrics |
+|-------|-------------|-----------|----------------------------|
+| first 3 months | 7,760 | 7,760 | +2586 new users/month (avg) |
+| 2020  | 36,468      | 34,054    | +2838 new users/month (avg) |
+| 2021  | 45,064      | 42,929    | +23.6% new users YoY |
+
+#### User Counts: Policyholders
+
+| Timeframe  | Total Users | New Users | Metrics |
+|-------|-------------|-----------|----------------------------|
+| 2020  | 0     | 0   | - |
+| 2021  | 149,228     | 139,912   | +11,659 new users/month (avg) |
+
 
 In addition, the launch and subsequent releases facilitated the sunset of legacy portals.
 
