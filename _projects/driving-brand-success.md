@@ -52,39 +52,101 @@ I engaged with the effort as these 2 designers honed the brand direction, seekin
 
 ## Paving the way by evolving the design system
 
-Next came the challenge of applying the brand direction to the UI, while the Marketing team and content designers worked to refine the brand voice to match the new visual identity.
+Next came the challenge of applying the brand direction to the UI across all of Driveway.com, including the top of the funnel, user accounts, and the field inspector mobile app.
 
-Meanwhile, I prepared to drive alignment across the XD team.
-
-As the design system evolved, it paved the way for the implementation of the brand refresh across all of Driveway.com, including the top of the funnel, user accounts, and the field inspector mobile app.
+As a handful of product designers explored how best to embody the refreshed visual identity from molecule up to page templates, the Marketing team and content designers worked to refine the brand voice.<br>Meanwhile, I prepared to drive collaboration and alignment of design decisions across the XD team.
 
 ### Switching on the fog lights
 
-Rebranding efforts can often feel like driving up a winding mountain road in the night fog—especially when executed internally.
+Rebranding efforts, especially when executed internally, can sometimes feel like driving up a winding mountain road through a thick night fog.
 
-Evolving the Driveway design system through a weekly design system guild shone the fog lights on the meandering course.
+I organized a weekly Design System Guild to shine the fog lights on the meandering course.
 
-Outside of the XD team, I also provided regular updates in the biweekly sync between lead product designers and the UI engineers who owned their squad's contributions to the design system code base.
+The purpose of the guild was twofold:
+
+* Ensure product designer representation and involvement across all 8 squads
+* Use the forum to build consensus on design system decisions&nbsp;
+
+The format was a hybrid between show-and-tell and internal creative review, with constructive criticism leading to coalescing choices for visual hierarchy, button styles, drop shadows, etc.
 
 ### Turning on the power steering
 
-The scope of my responsibility in guiding brand refresh quickly expanded from coordinating the XD team and design system efforts to orchestrating cross-functional release planning.
+As designers became increasingly excited about the brand refresh, they started referring to the initiative as ***“Brand 2.woah”***.
 
-Product Managers and Delivery Leads began to have questions, and I was the leader who possessed both a breadth and depth of knowledge on the initiative.
+With this excitement bubbling over into standups and PDE ceremonies, product managers and delivery leads began to wonder how their near-term backlogs would be impacted by the brand refresh.
 
-To increase shared understanding and decrease anxiety around the unknowns, I created visual artifacts to socialize the effort:
+To increase shared understanding and decrease anxiety around the unknowns, I took a multi-prong approach:
 
-* **Pitstops:**&nbsp;a one-page explainer of the brand refresh phases
-* **Release goal posts:** an accompanying one-page "menu" of the recommended approach to implementing Driveway's new color palette in forthcoming product releases
+1. Provided updates during the biweekly sync between lead product designers and the front-end engineers who contributed code to the design system
+2. Documented the initiative's high-level scope, approach, and milestones in Confluence&nbsp;
+3. Created and socialized 2 visual explainer artifacts
+   1. **Pitstops:**&nbsp;a one-page explainer of the brand refresh phases
+   2. **Release goal posts:** an accompanying one-page "menu" of the recommended approach to implementing Driveway's new color palette in forthcoming product releases
 
 {% include post-components/gallery.html columns = 2 full_width = false images = "../images/projects/driveway_2.woah_approach-1.png,../images/projects/driveway_2.woah_approach-2.png,../images/projects/driveway_2.woah_assets-2.png,../images/projects/driveway_2.woah_assets-3.png, " %}
 
-## Launching the new brand
+## Dress rehearsal
 
-We launched Brand 2.woah's redesigned homepage as the first touchpoint with the new brand and design system assets. I oversaw the research and redesign process, which my team of researchers and designers executed. We affectionately referred to the brand as 2.woah.
+The scope of my responsibility in guiding brand refresh quickly expanded from coordinating the XD team and design system efforts to orchestrating cross-functional release planning.
+
+Behind the scenes, I met weekly with the Lead Front-end Architect to collaboratively define the technical scope of the first 2 releases of Brand 2.woah.
+
+### Problem-solving for the first 2 releases
+
+In our discussions, we covered and aligned on several key considerations:
+
+1. The front-end architecture pertaining to typography and color
+2. Which parts of the affected code were federated versus squad-owned
+3. How to communicate the work to PMs, Delivery Leads, and Engineers
+
+From these discussions, we identified 2 key sources of moderate technical complexity:
+
+1. Our code base contained **6 sources** of CSS color styles
+2. Many design system components were **squad-owned**
+
+#### Mitigating risk by minimizing complexity
+
+To address the complexity of implementing a new color palette, we decided on 2 solutions:
+
+1. Our first release of Brand 2.woah would be typography only. This would ensure an easy win: reducing risk of the first release and building good faith with our partners and stakeholders.
+2. We would take a phased approach to rolling out the new color palette. While the homepage would lead with the full color palette, all other digital real estate would swap only the primary and secondary colors.
+
+#### Conducting the cross-functional orchestra
+
+Planning for each release involved high-touch cross-functional coordination in the following respects:
+
+* **Design System pressure testing:** Our Design System Designer, Melinda L., led the way with frequent feedback and pressure-testing from lead and senior product designers. She first created the new type and color styles and later methodically updated each design system component in Figma to reflect the new brand.
+* **Putting the new Figma components to work:** Designers began to use the new components in their designs. I led an an XD all-hands to explain the objective, constraints, and need to accept some design debt in the process. After fielding questions and concerns, designers got to work—and did amazing work.
+* **Planning the implementation:** Meanwhile, Product Managers and Delivery Leads planned for both the implementation and QA at the story and task levels.
+* **Collaborative QA:** As we prepared for release, at least one designer from each squad owned visual QA and created tickets for the engineers. Those designers paired with engineers as necessary to ensure the desired implementation.
+* **Release readiness:** Last but not least, everyone committed to each release date.
+
+We intentionally planned for the official launch date of Brand 2.woah to coincide with the high-visibility launch of a new, in-house search engine and new experience for finding a new car on Driveway.com.
+
+As the planning intensified, I benefited from the incredibly supportive partnership of the Product Manager and Delivery Lead for the Homepage and Global Experience (Will H. and Eric M.).
+
+## Curtain up!
+
+On December 1, 2021, we released Driveway’s new brand on Driveway.com with the flip of a feature flag. Though I was no longer part of the company, I was invited to silently observe the release, which pushed to \`/main\` without a hitch.
+
+That same day, Marketing unveiled their new collateral, and the subsequent demand generation campaign included billboards and commercials on both cable TV and YouTube.
+
+{% include post-components/video.html url = "https://www.youtube.com/embed/DyT553ssSvs?si=EWcZWZlzHBowCz9S" full_width = false %}
+
+## Impact
+
+### Design system drove a successful launch
+
+By orchestrating the evolution of the design system and partnering with cross-functional leaders, I ensured that the design system successfully paved the way for implementation of the brand refresh across all of Driveway.com
+
+### Redesigned homepage
+
+We launched Brand 2.woah's redesigned homepage as the first touchpoint with the new visual identity and design system assets. I oversaw the research and redesign process, which my team of researchers and designers executed.
+
+### Increase in monthly unique visitors (MUVs)
 
 This effort led to a significant increase in monthly unique visitors and enhanced the overall user experience:&nbsp;**Driveway.com reached 1MM MUVs in Feb 2022**
 
-In addition, Marketing continued to use the new visual identity in its TV and Youtube campaigns.
+### Brand durability
 
-{% include post-components/video.html url = "https://www.youtube.com/embed/DyT553ssSvs?si=EWcZWZlzHBowCz9S" full_width = false %}
+In addition, Marketing continues to use the new visual identity for its collateral and campaigns, including its TV and Youtube campaigns.
