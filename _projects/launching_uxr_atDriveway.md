@@ -6,7 +6,7 @@ description: >-
   When I joined Driveway shortly after they launched, they had no UX researcher
   but a strong appetite for learning. The UXR program I launched steered product
   and design decisions across the entire funnel as well as internal tools.
-featured_image: /images/projects/driveway_launchingUXresearch_1@2x.png
+featured_image: driveway_launchingUXresearch_1@2x.png
 accent_color: '#4c60e6'
 gallery_images:
   - driveway_launchingUXresearch_1@2x.png
@@ -82,11 +82,27 @@ My approach to launching a UX Research program encompassed 4 program pillars:
 
 ## Program impact
 
-1. Successful liftoff
+> The findings from the co-shopping study helped inform feature prioritization  and de-prioritization for Account and Shop. – Amy C.
+
+1. Successful program liftoff
+  a. Supported 4 journey teams across the funnel in the first 2 months
+  b. Achieved initial research velocity of 7 studies per quarter
 2. Tool enablement
+  a. Identified that Driveway teams’ learning needs were in the generative discovery realm
+  b. Procured dscout, which was better suited to these learning needs
 3. Durable process + scalable impact
+  a. Laid the groundwork for ongoing research roadmapping and partnership
+  b. Research needs began to be framed from a customer journey perspective,  breaking down silos between squads.
+  c. Studies were subsequently run to support multiple journey teams at one time.
 4. Effectiveness of Lean hypothesis
+  a. UX Research drove the end-to-end process of the Lean UX hypothesis for the Inventory team
+  b. UX Researcher involved PM and designers in study planning, analysis, and synthesis
 5. Cohesive team learning
+  a. Designers translated insights into specific recommendations that directly translated to design decisions.
+  b. UX Researcher validated that recommendations were grounded in data and heuristics.
+
+> We saw a real difference between the impact of ad hoc studies (based on one Designer’s or PM’s pet theory) and the impact of findings from studies where we aligned on learning objectives and a lean UX hypothesis as a team (and collaborated along the way).
+> Research as a team sport garnered much more buy-in for recommendations and influence on the product decisions. – Amy C., former Lead UX Researcher at Driveway
 
 ## Reflection
 
