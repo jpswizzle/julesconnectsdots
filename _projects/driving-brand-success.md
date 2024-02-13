@@ -62,4 +62,8 @@ To increase shared understanding and decrease anxiety around the unknowns, I cre
 
 We launched Brand 2.woah's redesigned homepage as the first touchpoint with the new brand and design system assets. I oversaw the research and redesign process, which my team of researchers and designers executed. We affectionately referred to the brand as 2.woah.
 
-This effort led to a significant increase in monthly unique visitors and enhanced the overall user experience.
+This effort led to a significant increase in monthly unique visitors and enhanced the overall user experience:&nbsp;**Driveway.com reached 1MM MUVs in Feb 2022**
+
+In addition, Marketing continued to use the new visual identity in its TV and Youtube campaigns.
+
+{% include post-components/video.html url = "https://www.youtube.com/embed/DyT553ssSvs?si=EWcZWZlzHBowCz9S" full_width = false %}
