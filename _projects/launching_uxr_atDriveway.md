@@ -82,27 +82,30 @@ My approach to launching a UX Research program encompassed 4 program pillars:
 
 ## Program impact
 
-> The findings from the co-shopping study helped inform feature prioritization  and de-prioritization for Account and Shop. – Amy C.
+> The findings from the co-shopping study helped inform feature prioritization and de-prioritization for Account and Shop. – Amy C.
 
-1. Successful program liftoff
-  a. Supported 4 journey teams across the funnel in the first 2 months
-  b. Achieved initial research velocity of 7 studies per quarter
-2. Tool enablement
-  a. Identified that Driveway teams’ learning needs were in the generative discovery realm
-  b. Procured dscout, which was better suited to these learning needs
-3. Durable process + scalable impact
-  a. Laid the groundwork for ongoing research roadmapping and partnership
-  b. Research needs began to be framed from a customer journey perspective,  breaking down silos between squads.
-  c. Studies were subsequently run to support multiple journey teams at one time.
-4. Effectiveness of Lean hypothesis
-  a. UX Research drove the end-to-end process of the Lean UX hypothesis for the Inventory team
-  b. UX Researcher involved PM and designers in study planning, analysis, and synthesis
-5. Cohesive team learning
-  a. Designers translated insights into specific recommendations that directly translated to design decisions.
-  b. UX Researcher validated that recommendations were grounded in data and heuristics.
+1. **Successful program liftoff**
+   1. Supported 4 journey teams across the funnel in the first 2 months
+   2. Achieved initial research velocity of 7 studies per quarter
+2. **Tool enablement**
+   1. Identified that Driveway teams’ learning needs were in the generative discovery realm
+   2. Procured dscout, which was better suited to these learning needs
+3. **Durable process + scalable impact**
+   1. Laid the groundwork for ongoing research roadmapping and partnership
+   2. Research needs began to be framed from a customer journey perspective, breaking down silos between squads.
+   3. Studies were subsequently run to support multiple journey teams at one time.
+4. **Effectiveness of Lean hypothesis**
+   1. UX Research drove the end-to-end process of the Lean UX hypothesis for the Inventory team
+   2. UX Researcher involved PM and designers in study planning, analysis, and synthesis
+5. **Cohesive team learning**
+   1. Designers translated insights into specific recommendations that directly translated to design decisions.
+   2. Our UX Researcher validated that recommendations were grounded in data and heuristics.
 
 > We saw a real difference between the impact of ad hoc studies (based on one Designer’s or PM’s pet theory) and the impact of findings from studies where we aligned on learning objectives and a lean UX hypothesis as a team (and collaborated along the way).
-> Research as a team sport garnered much more buy-in for recommendations and influence on the product decisions. – Amy C., former Lead UX Researcher at Driveway
+>
+> Research as a team sport garnered much more buy-in for recommendations and influence on the product decisions.
+>
+> – Amy C., former Lead UX Researcher at Driveway
 
 ## Reflection
 
@@ -114,15 +117,15 @@ My approach to launching a UX Research program encompassed 4 program pillars:
 2. **Achieved and maintained a good momentum.**
 3. **Laid the foundation for continued research planning and prioritization.** Based on the process I established for inputs to research roadmapping, Amy continued to use participatory formats to evaluate partners’ research needs and prioritize research efforts.
 
-I've summarized the first 3 months of the UXR program in a table
+I've summarized the first 3 months of the UXR program efforts in a table
 
 | Team / Effort | May 2021 | Jun 2021 | Jul&nbsp; 2021 |
 | --- | --- | --- | --- |
-| Inventory | Sell Landing Page and Offer Screen Redesign Study – Discovery<!-- notionvc: 6820dede-5032-44ed-b599-71b8bb84a110 --> |  | Sell Account Creation and Onboarding – Discovery<!-- notionvc: 2eac4fb7-c646-4fcb-af23-1f956eefb78e --> |
-| MegaCart | Cart Wrapper<!-- notionvc: b87cf33a-821a-4d5a-b958-1461131982fa --> |  |  |
-| My Driveway | Preference Center Study<!-- notionvc: 0d199e27-5dee-4e53-9dc6-2aec1287e0b2 --> |  | Save Search – Usability<!-- notionvc: c30076fe-e13b-44e5-a04f-2d2d78c1f9dd --> |
-| Learn |  | Top Navigation – Information Architecture Validation | Car Finder Quiz – Copy Validation |
-| Tool procurement | Tool secondary research: define procurement criteria | Tool demos and additional analysis | Business case creation and socialization with mid-level management |
+| *Inventory* | Sell Landing Page and Offer Screen Redesign Study – Discovery<!-- notionvc: 6820dede-5032-44ed-b599-71b8bb84a110 --> |  | Sell Account Creation and Onboarding – Discovery<!-- notionvc: 2eac4fb7-c646-4fcb-af23-1f956eefb78e --> |
+| *MegaCart* | Cart Wrapper<!-- notionvc: b87cf33a-821a-4d5a-b958-1461131982fa --> |  |  |
+| *My Driveway* | Preference Center Study<!-- notionvc: 0d199e27-5dee-4e53-9dc6-2aec1287e0b2 --> |  | Save Search – Usability<!-- notionvc: c30076fe-e13b-44e5-a04f-2d2d78c1f9dd --> |
+| *Learn* |  | Top Navigation – Information Architecture Validation | Car Finder Quiz – Copy Validation |
+| *Tool procurement* | Tool secondary research: define procurement criteria | Tool demos and additional analysis | Business case creation and socialization with mid-level management |
 
 ### What didn’t go so well
 
@@ -131,3 +134,12 @@ I've summarized the first 3 months of the UXR program in a table
 1. There were some collaboration bumps early on between cross-functional teammates
 2. There was a ~2-month research tool gap while Lithia finalized the dscout contract—but we had a backup plan involving a pay-as-you-go tool.
 3. I was wearing 3 hats and had a lot of work in progress (WIP), which made it challenging to get any one program initiative done quickly.
+
+### What I would improve in the future
+
+1. Expedite tool procurement to avoid or minimize tool gaps.
+2. Shadow a few designer-researcher collaboration sessions.
+3. Establish programmatic research communications to all of Product and XD as well as to senior leaders.
+4. Establish at least one OKR for each research program pillar.
+   1. Workshop these with Researcher(s), Director, Design leads, and PMs.
+   2. Leverage OKRs to minimize my own work in progress (WIP).
