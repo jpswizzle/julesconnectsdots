@@ -176,8 +176,8 @@ font_settings:
     line_height: 12
   blockquote:
     small_size: 20
-    medium_size: 28
-    large_size: 32
+    medium_size: 24
+    large_size: 28
     weight: 400
     letter_spacing: -0.02
     line_height: 1.6
