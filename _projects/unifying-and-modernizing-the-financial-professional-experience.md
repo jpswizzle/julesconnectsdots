@@ -146,17 +146,21 @@ My team collaborated with Marketing to promote adoption by financial professiona
 
 The launch resulted in streamlined user experiences for financial professionals and their clients, enabling clients to log in and see the same information as their advisor or agent.
 
-In the first 3 months, we onboarded 7,760 financial professional users to the Agent + Advisor portal. They could now manage their book of business and service policies or investments in a single portal rather than multiple. This freed up time to focus on building and maintaining client relationships.
-
 #### User Counts: Financial Professionals
+
+In the first 3 months, we onboarded 7,760 financial professional users to the Agent + Advisor portal. They could now manage their book of business and service policies or investments in a single portal rather than multiple. This freed up time to focus on building and maintaining client relationships.
 
 | Timeframe  | Total Users | New Users | Metrics |
 |-------|-------------|-----------|----------------------------|
 | first 3 months | 7,760 | 7,760 | +2586 new users/month (avg) |
 | 2020  | 36,468      | 34,054    | +2838 new users/month (avg) |
-| 2021  | 45,064      | 42,929    | +23.6% new users YoY |
+| 2021  | 45,064      | 42,929    | +23.6% total users YoY |
+
+
 
 #### User Counts: Policyholders
+
+Within the first calendar year of launching the Individual (policyholder) experience, we onboarded 139,912 new users.
 
 | Timeframe  | Total Users | New Users | Metrics |
 |-------|-------------|-----------|----------------------------|
