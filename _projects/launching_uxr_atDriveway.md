@@ -5,7 +5,8 @@ subtitle: >-
   (NYSE:LAD)
 date: 2024-01-30 01:00:00 -0700
 description: >-
-  When I joined Driveway shortly after it launched, there was a strong appetite for learning but no UX researcher. The UXR program I launched steered product
+  When I joined Driveway shortly after it launched, there was a strong appetite
+  for learning but no UX researcher. The UXR program I launched steered product
   and design decisions across the entire funnel as well as internal tools.
 layout: project
 featured_image: driveway_approach_01@2x.png
@@ -24,6 +25,8 @@ gallery_images:
 I launched a comprehensive UX Research program in 6 months, from the first hire to the initial research roadmap.
 
 The program encompassed staffing, tooling, intake and roadmapping for multi-method research, standards for execution, and best practices for cross-functional collaboration.
+
+**UX Research at Driveway supported 4 teams in the first 3 months and later informed design decisions for the homepage redesign** (part of the [brand refresh that I also orchestrated](/project/driving-brand-success){: target="_blank" rel="noopener"}).
 
 #### Value proposition
 
