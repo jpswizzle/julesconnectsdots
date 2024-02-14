@@ -6,7 +6,7 @@ header_settings:
   logo_width: 100
 menu_settings:
   menu_items:
-    - title: View additional work
+    - title: View more work
       url: https://vault.julesconnectsdots.com
 footer_settings:
   logo_image:
