@@ -25,22 +25,22 @@ I launched a comprehensive UX Research program in 6 months, from the first hire 
 
 The program encompassed staffing, tooling, intake and roadmapping for multi-method research, standards for execution, and best practices for cross-functional collaboration.
 
-#### **Value proposition**
+#### Value proposition
 
-Driveway supports the full car ownership lifecycle, all from the convenience of your home.
+Driveway, the largest new-car retailer in the U.S., supports the full car ownership lifecycle, all from the convenience of your home.
 
 * Innovation hub within Lithia Motors (NYSE: LAD, currently \#145 on the Fortune 500)
-* Largest new-car retailer in the U.S., with $28.2B in revenue in 2022
 * Competes with Carvana, CarMax, and Cars.com​​​​​
+* $28.2B in revenue in 2022
 
-#### **Players**
+#### Players
 
-Supporting a distributed US-based team with 8 squads, my role was Product Design Manager + Design Program Manager, reporting to the Director of XD.
+Supporting a distributed US-based team with 8 squads, **my role was Product Design Manager + Design Program Manager**, reporting to the Director of XD.
 
 * ~30-member Experience Design (XD) team, including product designers, content designers, 1 design system designer, 1 UX researcher, and 3 product design managers (including me)
 * Built partnerships with Product Managers, Head of Marketing, and Lead Brand Designer
 
-#### **Key results**
+#### Key results
 
 > *The findings from the co-shopping study helped inform feature prioritization and de-prioritization for Account and Shop. – Amy C.*​​​​​​
 
@@ -147,9 +147,9 @@ I've summarized the first 3 months of the UXR program efforts in the below table
 
 | Team / Effort | May 2021 | Jun 2021 | Jul&nbsp; 2021 |
 | --- | --- | --- | --- |
-| *Inventory* | Sell Landing Page and Offer Screen Redesign Study – Discovery<!-- notionvc: 6820dede-5032-44ed-b599-71b8bb84a110 --> |  | Sell Account Creation and Onboarding – Discovery<!-- notionvc: 2eac4fb7-c646-4fcb-af23-1f956eefb78e --> |
-| *MegaCart* | Cart Wrapper<!-- notionvc: b87cf33a-821a-4d5a-b958-1461131982fa --> |  |  |
-| *My Driveway* | Preference Center Study<!-- notionvc: 0d199e27-5dee-4e53-9dc6-2aec1287e0b2 --> |  | Save Search – Usability<!-- notionvc: c30076fe-e13b-44e5-a04f-2d2d78c1f9dd --> |
+| *Inventory* | Sell Landing Page and Offer Screen Redesign Study – Discovery |  | Sell Account Creation and Onboarding – Discovery |
+| *MegaCart* | Cart Wrapper |  |  |
+| *My Driveway* | Preference Center Study |  | Save Search – Usability |
 | *Learn* |  | Top Navigation – Information Architecture Validation | Car Finder Quiz – Copy Validation |
 | *Tool procurement* | Tool secondary research: define procurement criteria | Tool demos and additional analysis | Business case creation and socialization with mid-level management |
 
