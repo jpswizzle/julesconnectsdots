@@ -8,7 +8,7 @@ description: >-
   When I joined Driveway shortly after they launched, they had no UX researcher
   but a strong appetite for learning. The UXR program I launched steered product
   and design decisions across the entire funnel as well as internal tools.
-featured_image: /images/projects/driveway_approach_01@2x.png
+featured_image: driveway_approach_01@2x.png
 accent_color: '#4c60e6'
 gallery_images:
   - driveway_approach_01@2x.png
@@ -17,7 +17,7 @@ gallery_images:
   - driveway_launchingUXresearch_3@2x.png
   - driveway_launchingUXresearch_4@2x.png
 ---
-## Driving a unique value proposition with data
+## Synopsis
 
 ### A brief tour of the program terrain
 
@@ -49,7 +49,7 @@ Supporting a distributed US-based team with 8 squads, my role was Product Design
 * Studies directly influenced Product and Design decisions that positively impacted Driveway OKRs
 * Laid the foundation for research as a team sport, including cross-functional research planning and prioritization
 
-## Redefining the car ownership lifecycle
+## The Journey
 
 ### Joining Driveway
 
@@ -76,7 +76,7 @@ I collaborated with my manager, the Director of Experience Design, to define the
 
 ### Speedbumps on the racetrack
 
-Driveway posed the following challenges to launching a research program
+Launching a research program at Driveway posed several challenges:
 
 * No UX Researcher
 * High on assumptions, low on UX maturity
@@ -142,8 +142,6 @@ Overall, my UX Research program set the course for research maturity Driveway.
 > Research as a team sport garnered much more buy-in for recommendations and influence on the product decisions.
 >
 > – Amy C., former Lead UX Researcher at Driveway
-
-
 
 I've summarized the first 3 months of the UXR program efforts in the below table:
 
