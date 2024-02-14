@@ -5,9 +5,9 @@ subtitle: >-
   (NYSE:LAD)
 date: 2024-01-30 01:00:00 -0700
 description: >-
-  When I joined Driveway shortly after they launched, they had no UX researcher
-  but a strong appetite for learning. The UXR program I launched steered product
+  When I joined Driveway shortly after it launched, there was a strong appetite for learning but no UX researcher. The UXR program I launched steered product
   and design decisions across the entire funnel as well as internal tools.
+layout: project
 featured_image: driveway_approach_01@2x.png
 accent_color: '#4c60e6'
 gallery_images:
