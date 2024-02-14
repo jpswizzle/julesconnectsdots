@@ -90,14 +90,14 @@ Formally launch UX Research as a product development function. Steer Product and
 
 ## Approach: Program Pillars
 
+![](/images/projects/driveway_approach_01@2x.png)
+
 My approach to launching a UX Research program encompassed 4 program pillars:
 
 1. Staff UX Research
 2. Identify Design and Product’s learning needs
 3. Procure the right research tool for meeting those needs
 4. Create a cross-cutting research roadmap
-
-![](/images/projects/driveway_approach_01@2x.png)
 
 ### Implementing the program
 
@@ -106,20 +106,23 @@ My approach to launching a UX Research program encompassed 4 program pillars:
 Over the course of 6 months, I implemented the research program by&nbsp;
 
 1. Hiring the first dedicated UX Researcher&nbsp;
-2. Setting the course for research maturity
-3. Piloting and iterating on research partnership and process
-4. Enabling desired learning outcomes by procuring dscout
-5. Making the research backlog visible to partners
-6. Fostering collaborative research execution (made **How** as important as **Why**)
-7. Making learning actionable and relevant to product and design decisions
+2. Guiding and iterating on research partnership and process
+3. Fostering collaborative research execution (made **How** as important as **Why**)
+4. Assessing what kind of learning outcomes designers and PMs cared about
+5. Enabling desired learning outcomes by procuring dscout
+6. Piloting quarterly research intake through participatory workshops
+7. Making the research backlog visible to partners
+8. Making learning actionable and relevant to product and design decisions
 
 ## Program impact
 
 > The findings from the co-shopping study helped inform feature prioritization and de-prioritization for Account and Shop. – Amy C.
 
+Overall, my UX Research program set the course for research maturity Driveway.
+
 1. **Successful program liftoff**
    1. Supported 4 journey teams across the funnel in the first 2 months
-   2. Achieved initial research velocity of 7 studies per quarter
+   2. Achieved initial research velocity of 7 studies per quarter (see table below)
 2. **Tool enablement**
    1. Identified that Driveway teams’ learning needs were in the generative discovery realm
    2. Procured dscout, which was better suited to these learning needs
@@ -140,15 +143,7 @@ Over the course of 6 months, I implemented the research program by&nbsp;
 >
 > – Amy C., former Lead UX Researcher at Driveway
 
-## Reflection
 
-### What went well
-
-#### Research execution and overall partnership
-
-1. **Cross-functional involvement in end-to-end research:**&nbsp;Research directly influenced Product and Design decisions that positively impacted Driveway OKRs as reported in product analytics.
-2. **Achieved and maintained a good momentum.**
-3. **Laid the foundation for continued research planning and prioritization.** Based on the process I established for inputs to research roadmapping, Amy continued to use participatory formats to evaluate partners’ research needs and prioritize research efforts.
 
 I've summarized the first 3 months of the UXR program efforts in the below table:
 
@@ -160,11 +155,21 @@ I've summarized the first 3 months of the UXR program efforts in the below table
 | *Learn* |  | Top Navigation – Information Architecture Validation | Car Finder Quiz – Copy Validation |
 | *Tool procurement* | Tool secondary research: define procurement criteria | Tool demos and additional analysis | Business case creation and socialization with mid-level management |
 
+## Reflection
+
+### What went well
+
+#### Research execution and overall partnership
+
+1. **Cross-functional involvement in end-to-end research:**&nbsp;Research directly influenced Product and Design decisions that positively impacted Driveway OKRs as reported in product analytics.
+2. **Achieved and maintained a good momentum.**
+3. **Laid the foundation for continued research planning and prioritization.** Based on the process I established for inputs to research roadmapping, Amy continued to use participatory formats to evaluate partners’ research needs and prioritize research efforts.
+
 ### What didn’t go so well
 
 #### Early collaboration bumps & temporary tool gap
 
-1. There were some collaboration bumps early on between cross-functional teammates
+1. There were some collaboration bumps early on between cross-functional teammates.
 2. There was a ~2-month research tool gap while Lithia finalized the dscout contract—but we had a backup plan involving a pay-as-you-go tool.
 3. I was wearing 3 hats and had a lot of work in progress (WIP), which made it challenging to get any one program initiative done quickly.
 
