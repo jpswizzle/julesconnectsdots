@@ -1,8 +1,8 @@
 ---
-title: Thank you
+title: Thanks for reaching out!
 subtitle: Your message was sent successfully.
-description: Show off your best work with this beautiful, minimal and customizable portfolio theme.
-featured_image: /images/social.jpg
+description: >-
+  Your message will land directly in my email inbox. I'll respond within the
+  next 2 business days (if not sooner).
+featured_image: ''
 ---
-
-Please note, this contact form is for demo purposes only and is not monitored. Please contact us [via our website](https://jekyllthemes.io) if you need support.
