@@ -8,8 +8,6 @@ menu_settings:
   menu_items:
     - title: Additional Work
       url: https://vault.julesconnectsdots.com
-    - title: Schedule a chat
-      url: https://cal.com/jules-monza/intro-convo
 footer_settings:
   logo_image:
   logo_width: 100
@@ -142,7 +140,6 @@ font_settings:
   subtitle:
     size: 22
     size_small: 20
-    weight_regular: 400
     weight_regular: 300
     weight_heavy: 400
     letter_spacing: 0.16
