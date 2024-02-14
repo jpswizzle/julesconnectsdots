@@ -137,7 +137,7 @@ Overall, my UX Research program set the course for research maturity Driveway.
    1. Designers translated insights into specific recommendations that directly translated to design decisions.
    2. Our UX Researcher validated that recommendations were grounded in data and heuristics.
 
-> We saw a real difference between the impact of ad hoc studies (based on one Designer’s or PM’s pet theory) and the impact of findings from studies where we aligned on learning objectives and a lean UX hypothesis as a team (and collaborated along the way).
+> We saw a **real difference between the impact of ad hoc studies** (based on one Designer’s or PM’s pet theory) **and the impact of findings from studies where we aligned** on learning objectives and a lean UX hypothesis as a team (and collaborated along the way).
 >
 > Research as a team sport garnered much more buy-in for recommendations and influence on the product decisions.
 >
