@@ -137,7 +137,7 @@ On December 1, 2021, we released Driveway’s new brand on Driveway.com with the
 
 That same day, Marketing unveiled their new collateral, and the subsequent demand generation campaign included billboards and commercials on both cable TV and YouTube.
 
-{% include post-components/video.html url = "https://www.youtube.com/embed/DyT553ssSvs?si=EWcZWZlzHBowCz9S" full_width = false %}
+{% include post-components/video.html url = "https://www.youtube.com/embed/FGrIMaCx6fo?si=S35KBHgHdfEAnxDg" full_width = false %}
 
 ## Impact
 
@@ -156,3 +156,7 @@ This effort led to a significant increase in monthly unique visitors and enhance
 ### Brand durability
 
 In addition, Marketing continues to use the new visual identity for its collateral and campaigns, including its TV and Youtube campaigns.
+
+{% include post-components/video.html url = "https://www.youtube.com/embed/DyT553ssSvs?si=3qDgpnzMezfXoJVK" full_width = false %}
+
+{% include post-components/video.html url = "https://www.youtube.com/embed/A4Gfzg6srTA?si=xA1mnqcNgDIeKqOx" full_width = false %}
