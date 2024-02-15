@@ -72,7 +72,7 @@ We designed, regularly tested, and launched Peak Agenda Management in the span o
 
 ### Coming soon
 
-[View more details about the journey on my portfolio archive](https://vault.julesconnectsdots.com/caseStudy01_peak.html){: target="_blank" rel="noopener"}.
+<a href="https://vault.julesconnectsdots.com/caseStudy01_peak.html" class="inline-link">View more details about the journey on my portfolio archive</a>.
 
 I plan to migrate and update the case study in the coming weeks.
 

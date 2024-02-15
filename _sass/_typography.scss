@@ -180,12 +180,18 @@ blockquote {
 
 a {
   text-decoration: underline;
-  color: $accent-color;
+  color: $text-dark-color;
   @include transition(all 120ms ease-in-out);
 
   &:hover {
     color: $accent-color;
   }
+}
+
+a.inline-link {
+  text-decoration: underline;
+  color: $accent-color;
+  @include transition(all 120ms ease-in-out);
 }
 
 .label {
