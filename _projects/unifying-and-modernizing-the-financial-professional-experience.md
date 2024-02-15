@@ -13,7 +13,9 @@ featured_image: transamerica_hero_1@2x.png
 accent_color: '#4c60e6'
 gallery_images:
   - transamerica_hero_1@2x.png
-  - transamerica_hero-2col@2x.png
+  - transamerica_AX-2col@2x.png
+  - transamerica_IX-2col@2x.png
+  - transamerica_IX_mobile-1@2x.png
   - transamerica_context-framed@2x.png
 ---
 ## Overview: A business transformation initiative
@@ -28,7 +30,7 @@ Transamerica had grown through acquisition over a few decades, scooping up small
 
 When I joined Transamerica, the User Experience (UX) team comprised 18 members. Designers were organized into 3 pods, one for each operating unit. UX research was shared across all 3 pods.
 
-As Product Design Manager, I managed and led the 3 designers responsible for supporting the Financial Professionals operating unit. My approach resulted in reduced operational costs, stronger cross-functional partnerships, and streamlined end-to-end design processes.
+**As Product Design Manager, I managed and led the 3 designers responsible for supporting the Financial Professionals operating unit.** My approach resulted in reduced operational costs, stronger cross-functional partnerships, and streamlined end-to-end design processes.
 
 **Involvement:** people management, design ops, user research, information architecture
 
@@ -52,16 +54,18 @@ This was, of course, a multi-year effort with multiple phases. We began with con
 
 ### Business drivers
 
-* Increase revenue and reduce operational costs (time and attention that Sales and Support teams spend responding to FinPro needs, questions, and frustrations)
-* Make it easier to do business with Transamerica by increasing self-service capabilities
-* Improve Transamerica's market reputation
-* Sunset the legacy portals
+* **Increase revenue and reduce operational costs** (time and attention that Sales and Support teams spend responding to FinPro needs, questions, and frustrations)
+* **Make it easier to do business with Transamerica** by increasing self-service capabilities
+* **Improve Transamerica's market reputation**
+* **Sunset the legacy portals**
 
 ### Desired user outcomes
 
-* Easily manage my book of business in a single portal
-* Spend less time on admin and more time building relationships with and selling to my clients
-* Sell more Transamerica products
+"As a Financial Professional, I want to…
+
+* **Easily manage my book of business** in a single portal
+* **Spend less time on admin** and more time building relationships with and selling to my clients
+* **Sell more Transamerica policies**
 
 ## Overcoming challenges and advancing UX maturity
 
@@ -72,7 +76,7 @@ Transamerica's digital transformation effort posed 2 levels of challenges. The f
 All Transamerica technology teams across the business shared faced the same challenges:
 
 * working within an immature SDLC and product function
-* partnering with Product Owners who were heavily oriented to Sales and Operations
+* partnering with Product Owners who were strongly aligned to Sales and Operations objectives
 * collaborating with primarily outsourced technology staff for the large, highly complex backend consolidation effort
 
 ### Design-specific challenges
@@ -102,7 +106,7 @@ To ensure a smooth and cohesive experience, I scheduled regular standups and wor
 
 We also began running 2-week "scrumban"-style design sprints, and I acted as the Scrum Master for my design team.
 
-{% include post-components/gallery.html columns = 1 full_width = false images = "../images/projects/transamerica_hero_1@2x.png,../images/projects/transamerica_hero-2col@2x.png,../images/projects/transamerica_context-framed@2x.png," %}
+{% include post-components/gallery.html columns = 2 full_width = false images = "../images/projects/transamerica_designSprints_diagram@2x.png,../images/projects/transamerica_designSprints_boards@2x.png," %}
 
 ### Strengthening the UX-PO partnership
 
@@ -150,27 +154,24 @@ The launch resulted in streamlined user experiences for financial professionals 
 
 #### User Counts: Financial Professionals
 
-**In the first 3 months, we onboarded 7,760 financial professional users to the Agent + Advisor portal.** 
+**In the first 3 months, we onboarded 7,760 financial professional users to the Agent + Advisor portal.**
 
 They could now manage their book of business and service policies or investments in a single portal rather than multiple. This freed up time to focus on building and maintaining client relationships.
 
-| Timeframe  | Total Users | New Users | Metrics |
-|-------|-------------|-----------|----------------------------|
-| first 3 months | 7,760 | 7,760 | +2586 new users/month (avg) |
-| 2020  | 36,468      | 34,054    | +2838 new users/month (avg) |
-| 2021  | 45,064      | 42,929    | +23.6% total users YoY |
-
-
+| Timeframe | Total Users | New Users | Metrics |
+| --- | --- | --- | --- |
+| first 3 months | 7,760 | 7,760 | \+2586 new users/month (avg) |
+| 2020 | 36,468 | 34,054 | \+2838 new users/month (avg) |
+| 2021 | 45,064 | 42,929 | \+23.6% total users YoY |
 
 #### User Counts: Policyholders
 
 **Within the first calendar year of launching the Individual (policyholder) experience, we onboarded 139,912 new users.**
 
-| Timeframe  | Total Users | New Users | Metrics |
-|-------|-------------|-----------|----------------------------|
-| 2020  | 0     | 0   | - |
-| 2021  | 149,228     | 139,912   | +11,659 new users/month (avg) |
-
+| Timeframe | Total Users | New Users | Metrics |
+| --- | --- | --- | --- |
+| 2020 | 0 | 0 | \- |
+| 2021 | 149,228 | 139,912 | \+11,659 new users/month (avg) |
 
 In addition, the launch and subsequent releases facilitated the sunset of legacy portals.
 
