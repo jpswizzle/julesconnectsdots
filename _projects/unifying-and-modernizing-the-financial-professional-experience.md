@@ -106,7 +106,7 @@ To ensure a smooth and cohesive experience, I scheduled regular standups and wor
 
 We also began running 2-week "scrumban"-style design sprints, and I acted as the Scrum Master for my design team.
 
-{% include post-components/gallery.html columns = 2 full_width = false images = "../images/projects/transamerica_designSprints_diagram@2x.png,../images/projects/transamerica_designSprints_boards@2x.png," %}
+{% include post-components/gallery.html columns = 2 full_width = true images = "../images/projects/transamerica_designSprints_diagram@2x.png,../images/projects/transamerica_designSprints_boards@2x.png," %}
 
 ### Strengthening the UX-PO partnership
 
