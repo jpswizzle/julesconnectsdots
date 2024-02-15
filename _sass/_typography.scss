@@ -179,9 +179,8 @@ blockquote {
 }
 
 a {
-  text-decoration: none;
-  color: $text-dark-color;
-  font-weight: $bold-weight;
+  text-decoration: underline;
+  color: $accent-color;
   @include transition(all 120ms ease-in-out);
 
   &:hover {

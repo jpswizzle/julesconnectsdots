@@ -28,7 +28,7 @@ Transamerica had grown through acquisition over a few decades, scooping up small
 
 When I joined Transamerica, the User Experience (UX) team comprised 18 members. Designers were organized into 3 pods, one for each operating unit. UX research was shared across all 3 pods.
 
-As Product Design Manager, I managed and led the 3 designers responsible for supporting the Financial Professionals operating unit. My approach resulted in reduced operational costs, stronger cross-functional partnerships, and streamlined end-to-end design processes.<!--{C}%3C!%2D%2D%20notionvc%3A%20edc8b225-a748-4efa-9287-4c76923ce34f%20%2D%2D%3E-->
+As Product Design Manager, I managed and led the 3 designers responsible for supporting the Financial Professionals operating unit. My approach resulted in reduced operational costs, stronger cross-functional partnerships, and streamlined end-to-end design processes.
 
 **Involvement:** people management, design ops, user research, information architecture
 
@@ -38,7 +38,7 @@ As Product Design Manager, I managed and led the 3 designers responsible for sup
 
 #### Consolidate the portal experience
 
-Our directive was to consolidate over a dozen portals contributing to the fragmented portal experience by creating a single portal for insurance agents, financial advisors, and their clients.
+**Our directive was to consolidate over a dozen portals contributing to the fragmented portal experience** by creating a single portal for insurance agents, financial advisors, and their clients.
 
 The unified portal would modernize our digital platform, improving both business and user outcomes.
 
@@ -48,9 +48,11 @@ This was, of course, a multi-year effort with multiple phases. We began with con
 
 > The new Advisor Experience will provide financial professionals with an all-in-one digital solution to manage their business with Transamerica.
 
+![](/images/projects/transamerica_context-framed@2x.png)
+
 ### Business drivers
 
-* Increase revenue and reduce operational costs (time and attention that sales and support teams spend responding to FinPro needs, questions, and frustrations
+* Increase revenue and reduce operational costs (time and attention that Sales and Support teams spend responding to FinPro needs, questions, and frustrations)
 * Make it easier to do business with Transamerica by increasing self-service capabilities
 * Improve Transamerica's market reputation
 * Sunset the legacy portals
@@ -83,7 +85,7 @@ On top of this, the UX team encountered design-specific challenges:
 
 ## Setting designers up for success
 
-I took a multi-prong approach to lay the groundwork to ensure my design team would have sufficient information at the start of every project and reliable collaboration touchpoints with our 2 product owners.
+I took a **multi-prong approach** to ensure my design team would have **sufficient information at the start of every project** and **reliable collaboration touchpoints** with our 2 product owners.
 
 Working arm-in-arm with my team's digital producer, we set out to improve:
 
@@ -148,7 +150,9 @@ The launch resulted in streamlined user experiences for financial professionals 
 
 #### User Counts: Financial Professionals
 
-In the first 3 months, we onboarded 7,760 financial professional users to the Agent + Advisor portal. They could now manage their book of business and service policies or investments in a single portal rather than multiple. This freed up time to focus on building and maintaining client relationships.
+**In the first 3 months, we onboarded 7,760 financial professional users to the Agent + Advisor portal.** 
+
+They could now manage their book of business and service policies or investments in a single portal rather than multiple. This freed up time to focus on building and maintaining client relationships.
 
 | Timeframe  | Total Users | New Users | Metrics |
 |-------|-------------|-----------|----------------------------|
@@ -160,7 +164,7 @@ In the first 3 months, we onboarded 7,760 financial professional users to the Ag
 
 #### User Counts: Policyholders
 
-Within the first calendar year of launching the Individual (policyholder) experience, we onboarded 139,912 new users.
+**Within the first calendar year of launching the Individual (policyholder) experience, we onboarded 139,912 new users.**
 
 | Timeframe  | Total Users | New Users | Metrics |
 |-------|-------------|-----------|----------------------------|
@@ -176,5 +180,3 @@ My leadership led to stronger cross-functional partnerships and a more modernize
 
 * I pitched and guided team-led planning and facilitation of a vision workshop with product, engineering, and design leaders
 * I created and pitched 3 information architecture concepts for advisor annuities view based on 11 jobs-to-be-done (JTBDs) identified during internal research with 5 sales partners; as a result, product partners chose one concept for further exploration
-
-<!--{C}%3C!%2D%2D%20notionvc%3A%2051d47299-b5f2-47f5-a077-5d2e3422e39f%20%2D%2D%3E--><!--{C}%3C!%2D%2D%20notionvc%3A%20f427bdb1-3af6-4d7a-b6bc-ad3c0c94de94%20%2D%2D%3E-->
