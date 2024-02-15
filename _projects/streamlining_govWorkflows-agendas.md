@@ -26,21 +26,24 @@ Granicus enables over 5,500 North American public-sector organizations to effici
 
 Its broad product portfolio (prior to a private equity acquisition in late 2016) spanned legacy agenda management; boards and commissions management; and a suite of tools for recording, livestreaming, and documenting public meetings. Its customer base includes the United States House and Senate.
 
-Peak Agenda Management joined Granicus' portfolio as a SaaS single-page application for government staff in small towns.
+**Peak Agenda Management joined Granicus' portfolio as a SaaS single-page application for government staff in small towns.**
 
 * Our objective was to ship a user-friendly platform that streamlined agenda workflows for municipalities with populations of less than 100,000.
+* This would eliminate the need for small customers to buy, implement, and use our flagship agenda management solution, which was too complex for most small government workflows.
 * The Peak tech stack included Ruby on Rails, HTML/CSS, and ReactJS.
+
+{% include post-components/video.html url = "https://www.youtube.com/embed/iCBwsEyRXsA?si=FELiyaUdoazO6hQm" full_width = false %}
 
 #### Value proposition
 
 Peak Agenda Management aimed to tap into sales whitespace, increase competitive advantage, and drastically reduce the time spent building and publishing public meeting agendas (ex: City Council, Planning Committee, etc.).
 
-From a product strategy standpoint, Peak was purpose-built to provide small municipalities with the following benefits:
+From a product strategy standpoint, **Peak was purpose-built** to provide small municipalities with the following benefits:
 
 * **Minimal training time:** Make it easy for government users to learn how to coordinate agendas and contribute agenda items.
-* **No upfront professional services costs:** Eliminate the need for solution engineering and upfront professional services engagement.
+* **Collaborative workflows:** Empower everyone who contributes to a public meeting agenda to collaborate on agenda items, from draft to final version.
 * **Easy setup and administration:** Enable customer admins to quickly configure Peak and get their team up and running in less than a day.
-* **Collaborative workflows:** Empower everyone who touches the agenda for a public meeting to collaborate on agenda items, from initial draft to final version.
+* **No upfront professional services costs:** Eliminate the need for solution engineering and upfront professional services engagement.
 
 #### The Team
 
@@ -48,7 +51,7 @@ As Manager of User Experience, I led my small-but-mighty team in a player-coach 
 
 In addition to people management, I was responsible for research, end-to-end product design, and content development.
 
-During my 2 years at Granicus, I
+During my 2 years at Granicus, I…
 
 * **Drove cross-functional alignment on UX outcomes** by partnering with a Senior Product Manager, Engineering Lead, QA Engineer, and full-stack engineers
 * **Socialized UX value and process** with trainings and presentations, including a presentation during the January Sales Kickoff (SKO)
@@ -56,11 +59,15 @@ During my 2 years at Granicus, I
 
 #### Approach
 
-Leveraging foundational user discovery and an early-stage design system, I ran a 2-week design sprint cadence integrated with the agile SDLC.
+Leveraging foundational user discovery and an early-stage design system, I ran a 2-week design sprint cadence integrated with the agile SDLC. Working side-by-side with my team, I led discovery, design, and usability testing.
 
-I led the UX/UI team in discovery, design, and usability testing. I owned and led UX research (incl. contextual inquiry), socialized findings, and translated complex requirements into concepts, wireframes, prototypes, and high-fi designs
+* In every sprint we conducted research, ideated, iterated, and aligned with Product and Engineering via product consultations and feasibility reviews.
+* I owned and guided UX research (including contextual inquiry), socialized findings,&nbsp; and made recommendations.
+* I collaborated closely with my UX Strategist, Matt B. to translate complex requirements into concepts, wireframes, prototypes, and high-fi designs.
 
-We designed, regularly usability-tested, and launched Peak Agenda Management in the span of 7 months.
+Our design sprint process and strong cross-functional partnerships **enabled us to regularly deliver high-quality designs in pace with Engineering's 2-week sprint cadence**.
+
+We launched Peak in September 2015, **in the span of 7 months**.
 
 #### Key results
 
