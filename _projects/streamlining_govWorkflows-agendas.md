@@ -20,15 +20,13 @@ gallery_images:
 ---
 ## Synopsis
 
-###
-
 ### A brief tour of the product space
 
 Granicus enables over 5,500 North American public-sector organizations to efficiently serve and connect to their resident base.
 
 Its broad product portfolio (prior to a private equity acquisition in late 2016) spanned legacy agenda management; boards and commissions management; and a suite of tools for recording, livestreaming, and documenting public meetings. Its customer base includes the United States House and Senate.
 
-**Peak Agenda Management joined Granicus' portfolio as a SaaS single-page application for government staff in small towns.**
+**Peak Agenda Management joined Granicus' portfolio in 2015 as a SaaS single-page application for government staff in small towns.**
 
 * Our objective was to ship a user-friendly platform that streamlined agenda workflows for municipalities with populations of less than 100,000.
 * This would eliminate the need for small customers to buy, implement, and use our flagship agenda management solution, which was too complex for most small government workflows.
