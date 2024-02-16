@@ -90,7 +90,7 @@ Peak's intuitive Admin console—designed entirely by my team and me—enabled q
 
 ### Mapping the product usage ecosystem
 
-{% include post-components/gallery.html columns = 2 full_width = true images = "../images/projects/peak_ecosystem-1-ideation@2x.png,../images/projects/peak_ecosystem-2-ideation@2x.png,../images/projects/peak_ecosystem-3-ideation@2x.png," %}
+{% include post-components/gallery.html columns = 2 full_width = true images = "../images/projects/peak_ecosystem-1-ideation@2x.png,../images/projects/peak_ecosystem-2-v1@2x.png,../images/projects/peak_ecosystem-3-final@2x.png," %}
 
 ### Designing the UI
 
