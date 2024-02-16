@@ -73,7 +73,7 @@ color_settings:
 font_settings:
   font_embed: >-
     <link
-    href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;600&display=swap|Work+Sans:wght@300,400,600&display=swap"
+    href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;600&display=swap|Work+Sans:ital,wght@0,100..900;1,100..900&display=swap"
     rel="stylesheet">
   title_font: Rubik, sans-serif
   body_font: '"Work Sans", sans-serif'
