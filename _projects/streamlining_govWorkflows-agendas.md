@@ -84,9 +84,9 @@ Peak's intuitive Admin console—designed entirely by my team and me—enabled q
 ### Achievements
 
 * **DesignOps:** I extended our UX runway from less than 2 weeks to over 2 months via cross-functional partnership, UX backlog management, and design sprints.
-* **Design durability:** The popover menu I designed is still in use today, as evidenced by [this Granicus knowledge base article](https://support.granicus.com/s/article/Generating-Agenda-Item-Packets-in-Peak?language=en_US&amp;c=govMeetings%20Suite&amp;p=Peak){: target="_blank" rel="noopener noreferrer nofollow"}. (Screenshots taken from the embedded video.)
+* **Design durability:** The popover menu I designed is still in use today, as evidenced by [this Granicus knowledge base article](https://support.granicus.com/s/article/Generating-Agenda-Item-Packets-in-Peak?language=en_US&amp;c=govMeetings%20Suite&amp;p=Peak){: target="_blank" rel="noopener noreferrer nofollow"}. I took the screenshots under "Designing the UI" (below), from the embedded video.
 
-## The iterative design journey
+## The agile design journey
 
 ### Mapping the product usage ecosystem
 
