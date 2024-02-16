@@ -90,13 +90,13 @@ Peak's intuitive Admin console—designed entirely by my team and me—enabled q
 
 ### Mapping the product usage ecosystem
 
-{% include post-components/gallery.html columns = 2 full_width = true images = "../images/projects/peak_ecosystem-1-ideation@2x.png,../images/projects/peak_ecosystem-2-v1@2x.png,../images/projects/peak_ecosystem-3-final@2x.png," %}
+{% include post-components/gallery.html columns = 1 full_width = true images = "../images/projects/peak_ecosystem-1-ideation@2x.png,../images/projects/peak_ecosystem-2-v1@2x.png,../images/projects/peak_ecosystem-3-final@2x.png," %}
 
 ### Designing the UI
 
 Below is a high-level example of my process for designing UI and what the technical implementation looks like (still largely untouched in the training environment as of February 2020).
 
-{% include post-components/gallery.html columns = 2 full_width = false images = "../images/projects/peak_iterativeDesign-1@2x.png,../images/projects/peak_iterativeDesign-2@2x.png,../images/projects/peak_iterativeDesign-3@2x.png,../images/projects/peak_iterativeDesign-4@2x.png,../images/projects/peak_iterativeDesign-5@2x.png," %}
+{% include post-components/gallery.html columns = 1 full_width = false images = "../images/projects/peak_iterativeDesign-1@2x.png,../images/projects/peak_iterativeDesign-2@2x.png,../images/projects/peak_iterativeDesign-3@2x.png,../images/projects/peak_iterativeDesign-4@2x.png,../images/projects/peak_iterativeDesign-5@2x.png," %}
 
 ### More coming soon
 
