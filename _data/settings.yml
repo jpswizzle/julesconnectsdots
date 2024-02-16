@@ -73,9 +73,9 @@ color_settings:
 font_settings:
   font_embed: >-
     <link
-    href="https://fonts.googleapis.com/css2?family=Saira:wght@300;400;600&display=swap|Source+Sans+3:wght@300,400,700&display=swap"
+    href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;600&display=swap|Source+Sans+3:wght@300,400,700&display=swap"
     rel="stylesheet">
-  title_font: Saira, sans-serif
+  title_font: Rubik, sans-serif
   body_font: '"Source Sans 3", sans-serif'
   regular_weight: 400
   bold_weight: 600
