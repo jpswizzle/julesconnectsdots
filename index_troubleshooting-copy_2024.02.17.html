@@ -1,8 +1,8 @@
 ---
 layout: default
-overtitle: Jules connects dots
+overtitle: Align. Learn. Design. Launch.
 title: Lean-Agile UX Leadership
-description: (under construction)
+description: Supercharge your team with 16+ years’ expertise researching and designing for complex human problems: building shared vision, scaling systems, maturing practices, and streamlining data-intensive workflows
 featured_image: /images/social.jpg
 ---
 
@@ -21,7 +21,9 @@ featured_image: /images/social.jpg
 
 			<p class="intro subtitle--light">
 				{{ page.description }}
-				<a href="#" class="hero__cta button--fill contact-trigger js-contact">Get In Touch</a>
+                <!-- 
+                <a href="#" class="hero__cta button--fill contact-trigger js-contact">Schedule a chat</a> -->
+				<a href="https://cal.com/jules-monza/intro-convo" class="hero__cta button--fill">Schedule a chat</a>
 			</p>
 		</div>
 	</section>
@@ -38,7 +40,7 @@ featured_image: /images/social.jpg
 
 				<div class="project__images owl-carousel" style="--accent: {{ accent_color }}">
 					{% for image in project.gallery_images %}
-					<a href="{{ project.url | relative_url }}"><img src="{{ '/images/projects/' | relative_url}}{{ image }}" alt="" class="project__image"></a>
+					<a href="{{ project.url | relative_url }}"><img src="{{ '/images/projects/' | relative_url }}{{ image }}" alt="" class="project__image"></a>
 					{% endfor %}
 				</div>
 
@@ -58,6 +60,7 @@ featured_image: /images/social.jpg
 
 	{% include section__about.html %}
 
+    <!-- RECENT POSTS (blog)
 	<section class="recent-posts">
 		<div class="wrap grid">
 			<header class="recent-posts__header">
@@ -74,4 +77,5 @@ featured_image: /images/social.jpg
 			<a href="{{ '/blog' | relative_url }}" class="action-bottom button--text--accent --right">All Posts</a>
 		</div>
 	</section>
+    -->
 </div>
