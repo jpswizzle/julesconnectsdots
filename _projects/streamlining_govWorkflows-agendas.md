@@ -18,7 +18,7 @@ gallery_images:
   - peak_04-caseStudy_07.png
   - peak_05-Workflow-List-Diagram_Revision_1.png
 ---
-## Synopsis
+## Snapshot
 
 ### A brief tour of the product space
 
