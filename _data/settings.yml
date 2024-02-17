@@ -1,15 +1,16 @@
+---
 basic_settings:
   site_title: Jules connects dots
   favicon_image: /images/favicon.ico
 header_settings:
-  logo_image:
+  logo_image: null
   logo_width: 100
 menu_settings:
   menu_items:
     - title: View more work
       url: https://vault.julesconnectsdots.com
 footer_settings:
-  logo_image:
+  logo_image: null
   logo_width: 100
   tagline: Built with Jekyll + Cloudcannon + Github
 hero_settings:
@@ -23,56 +24,55 @@ contact_settings:
   email_subject: Connecting our dots
   send_button_text: Send
 social_settings:
-  facebook_url: ''
-  twitter_url: ''
-  instagram_url: ''
-  snapchat_url: ''
-  youtube_url: ''
-  google-plus_url: ''
-  vimeo_url: ''
-  pinterest_url: ''
-  medium_url: ''
-  quora_url: ''
-  amazon_url: ''
-  apple_url: ''
-  android_url: ''
-  tumblr_url: ''
-  dribbble_url: ''
-  behance_url: ''
-  deviantart_url: ''
+  facebook_url: ""
+  twitter_url: ""
+  instagram_url: ""
+  snapchat_url: ""
+  youtube_url: ""
+  google-plus_url: ""
+  vimeo_url: ""
+  pinterest_url: ""
+  medium_url: ""
+  quora_url: ""
+  amazon_url: ""
+  apple_url: ""
+  android_url: ""
+  tumblr_url: ""
+  dribbble_url: ""
+  behance_url: ""
+  deviantart_url: ""
   github_url: https://github.com/jpswizzle/
-  reddit_url: ''
-  flickr_url: ''
-  etsy_url: ''
-  kickstarter_url: ''
-  soundcloud_url: ''
+  reddit_url: ""
+  flickr_url: ""
+  etsy_url: ""
+  kickstarter_url: ""
+  soundcloud_url: ""
   spotify_url: https://open.spotify.com/user/juropel
-  bandcamp_url: ''
+  bandcamp_url: ""
   linkedin_url: https://www.linkedin.com/in/julesmonza/
 color_settings:
-  background_color: '#ffffff'
-  background_alt_color: '#eaeaf5'
-  text_dark_color: '#040269'
-  text_medium_color: '#2321ad'
-  text_light_color: '#a8a7c7'
-  accent_color: '#5648d2'
-  border_color: '#e2e1f0'
-  error_color: '#e63a28'
-  purple_swizzle_500: '#5648D2'
-  purple_swizzle_700: '#2321AD'
-  purple_swizzle_800: '#100E94'
-  purple_swizzle_900: '#05047A'
-  purple_swizzle_950: '#04035E'
-  greytint_purple_100: '#EAEAF5'
-  greytint_purple_200: '#E2E1F0'
-  greytint_purple_300: '#D3D3E5'
-  greytint_purple_400: '#BDBCD6'
-  greytint_purple_500: '#A8A7C7'
-  greytint_purple_600: '#9494B8'
-  greytint_purple_700: '#8382AB'
+  background_color: "#ffffff"
+  background_alt_color: "#eaeaf5"
+  text_dark_color: "#040269"
+  text_medium_color: "#2321ad"
+  text_light_color: "#a8a7c7"
+  accent_color: "#5648d2"
+  border_color: "#e2e1f0"
+  error_color: "#e63a28"
+  purple_swizzle_500: "#5648D2"
+  purple_swizzle_700: "#2321AD"
+  purple_swizzle_800: "#100E94"
+  purple_swizzle_900: "#05047A"
+  purple_swizzle_950: "#04035E"
+  greytint_purple_100: "#EAEAF5"
+  greytint_purple_200: "#E2E1F0"
+  greytint_purple_300: "#D3D3E5"
+  greytint_purple_400: "#BDBCD6"
+  greytint_purple_500: "#A8A7C7"
+  greytint_purple_600: "#9494B8"
+  greytint_purple_700: "#8382AB"
 font_settings:
-  font_embed: >-
-    <link
+  font_embed: <link
     href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;600&display=swap|Work+Sans:ital,wght@0,100..900;1,100..900&display=swap"
     rel="stylesheet">
   title_font: Rubik, sans-serif
@@ -183,9 +183,8 @@ font_settings:
     letter_spacing: 0.4
 advanced_settings:
   ajax_loading: true
-  analytics_code: >-
-    <script async src="https://us.umami.is/script.js"
+  analytics_code: <script async src="https://us.umami.is/script.js"
     data-website-id="5dd47645-105b-4a2e-b33b-c21efe50ca3e"></script>
-  custom_styles: ''
-  header_js: ''
-  footer_js: ''
+  custom_styles: ""
+  header_js: ""
+  footer_js: ""
