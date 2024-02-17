@@ -1,28 +1,34 @@
----
 basic_settings:
   site_title: Jules connects dots
   favicon_image: /images/favicon.ico
+
 header_settings:
   logo_image: null
   logo_width: 100
+
 menu_settings:
   menu_items:
     - title: View more work
       url: https://vault.julesconnectsdots.com
+
 footer_settings:
   logo_image: null
   logo_width: 100
   tagline: Built with Jekyll + Cloudcannon + Github
+
 hero_settings:
   background_image: /images/backgrounds/background-hero.svg
+
 post_settings:
   grid_spacing: 10
+
 contact_settings:
   email_address: jrmaccounts@multisaft.com
   form_action: https://formspree.io/f/xgegapdn
   confirmation_url: /thanks
   email_subject: Connecting our dots
   send_button_text: Send
+
 social_settings:
   facebook_url: ""
   twitter_url: ""
@@ -50,6 +56,7 @@ social_settings:
   spotify_url: https://open.spotify.com/user/juropel
   bandcamp_url: ""
   linkedin_url: https://www.linkedin.com/in/julesmonza/
+
 color_settings:
   background_color: "#ffffff"
   background_alt_color: "#eaeaf5"
@@ -71,6 +78,7 @@ color_settings:
   greytint_purple_500: "#A8A7C7"
   greytint_purple_600: "#9494B8"
   greytint_purple_700: "#8382AB"
+
 font_settings:
   font_embed: <link
     href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;600&display=swap|Work+Sans:ital,wght@0,100..900;1,100..900&display=swap"
@@ -181,6 +189,7 @@ font_settings:
   buttons:
     weight: 500
     letter_spacing: 0.4
+
 advanced_settings:
   ajax_loading: true
   analytics_code: <script async src="https://us.umami.is/script.js"
