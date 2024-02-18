@@ -58,7 +58,8 @@
 
     h3,
     h4 {
-      margin: 2.4rem 0 16px;
+      margin: 2rem 0 16px;
+      margin-block-start: 2rem;
     }
 
     .table-wrap {
@@ -267,7 +268,7 @@
 
   @include mq(tabletp) {
     .post__header {
-      padding-bottom: 80px;
+      padding-bottom: 40px;
     }
 
     .post__title {
@@ -286,7 +287,8 @@
       }
 
       h3 {
-        margin: 2.4rem 0 12px;
+        margin: 2rem 0 12px;
+        margin-block-start: 2rem;
       }
 
       h4 {
