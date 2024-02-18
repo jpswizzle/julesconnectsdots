@@ -140,8 +140,8 @@ font_settings:
   subtitle:
     size: 21
     size_small: 18
-    weight_regular: 300
-    weight_heavy: 400
+    weight_regular: 350
+    weight_heavy: 450
     letter_spacing: 0.16
     letter_spacing_small: 0.2
     line_height: 32
