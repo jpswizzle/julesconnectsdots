@@ -72,11 +72,11 @@ color_settings:
   greytint_purple_700: '#8382AB'
 font_settings:
   font_embed: >-
-    <link
-    href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;600&display=swap|https://api.fontshare.com/v2/css?f[]=supreme@2,1&display=swap"
+    <link href="https://api.fontshare.com/v2/css?f[]=neco@1,2&display=swap"
+    rel="stylesheet|https://api.fontshare.com/v2/css?f[]=supreme@2,1&display=swap"
     rel="stylesheet">
-  title_font: Rubik, sans-serif
-  body_font: Supreme, sans-serif
+  title_font: Neco, "Hoefler Text", Baskerville, Georgia, serif
+  body_font: Supreme, "Gill Sans", Helvetica, Arial, sans-serif
   regular_weight: 400
   bold_weight: 600
   site_title:
