@@ -78,7 +78,7 @@ font_settings:
   title_font: Alpino, Rubik, sans-serif
   body_font: '"Bespoke Slab", Baskerville, Georgia, serif'
   regular_weight: 400
-  bold_weight: 600
+  bold_weight: 500
   site_title:
     small_size: 26
     medium_size: 30
@@ -144,8 +144,8 @@ font_settings:
     weight_heavy: 450
     letter_spacing: 0.16
     letter_spacing_small: 0.2
-    line_height: 29
-    line_height_small: 25
+    line_height: 32
+    line_height_small: 28
   p:
     size: 18
     size_small: 17
