@@ -73,10 +73,10 @@ color_settings:
 font_settings:
   font_embed: >-
     <link
-    href="https://api.fontshare.com/v2/css?f[]=alpino@1&display=swap|https://api.fontshare.com/v2/css?f[]=supreme@2,1&display=swap"
+    href="https://api.fontshare.com/v2/css?f[]=alpino@1&display=swap|https://api.fontshare.com/v2/css?f[]=bespoke-slab@1,2&display=swap"
     rel="stylesheet">
-  title_font: Alpino, sans-serif
-  body_font: Supreme, "Gill Sans", Helvetica, Arial, sans-serif
+  title_font: Alpino, Rubik, sans-serif
+  body_font: '"Bespoke Slab", Baskerville, Georgia, serif'
   regular_weight: 400
   bold_weight: 600
   site_title:
