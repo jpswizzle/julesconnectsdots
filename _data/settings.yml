@@ -97,7 +97,7 @@ font_settings:
     weight: 550
     letter_spacing: -1.5
     letter_spacing_small: -1.2
-    line_height: 64
+    line_height: 72
     line_height_small: 44
   h2:
     size: 48
@@ -149,8 +149,8 @@ font_settings:
   p:
     size: 18
     size_small: 17
-    weight: 400
-    letter_spacing: 0.04
+    weight: 340
+    letter_spacing: 0.02
     letter_spacing_small: 0
     line_height: 28
   p_small:
