@@ -25,3 +25,7 @@ ol li::before {
   margin-left: -1.5em;
   text-indent: -1.5em;
 }
+
+button.owl-next, button.owl-prev {
+  color: $accent-color;
+}
