@@ -7,7 +7,7 @@ description: >-
   pave the way. I orchestrated both the evolution of the Driveway design system
   and the cross-functional execution of an organization-wide brand refresh.
 layout: project_2-col
-featured_image: driveway_2.woah_approach-1.png
+featured_image: driveway_2.woah_homepage@2x.png
 accent_color: '#4c60e6'
 gallery_images:
   - driveway_2.woah_homepage@2x.png
@@ -16,7 +16,6 @@ gallery_images:
   - driveway_2.woah_designSystem-colors-2-col.png
   - driveway_2.woah_assets-3.png
   - driveway_2.woah_collateral.png
-  
 ---
 ## The speedway to growth
 
