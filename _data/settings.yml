@@ -144,8 +144,8 @@ font_settings:
     weight_heavy: 450
     letter_spacing: 0.16
     letter_spacing_small: 0.2
-    line_height: 32
-    line_height_small: 28
+    line_height: 29
+    line_height_small: 25
   p:
     size: 18
     size_small: 17
