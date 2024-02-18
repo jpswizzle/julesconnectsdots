@@ -72,8 +72,8 @@ color_settings:
   greytint_purple_700: '#8382AB'
 font_settings:
   font_embed: >-
-    <link href="https://api.fontshare.com/v2/css?f[]=neco@1,2&display=swap"
-    rel="stylesheet|https://api.fontshare.com/v2/css?f[]=supreme@2,1&display=swap"
+    <link
+    href="https://api.fontshare.com/v2/css?f[]=neco@1,2&display=swap|https://api.fontshare.com/v2/css?f[]=supreme@2,1&display=swap"
     rel="stylesheet">
   title_font: Neco, "Hoefler Text", Baskerville, Georgia, serif
   body_font: Supreme, "Gill Sans", Helvetica, Arial, sans-serif
