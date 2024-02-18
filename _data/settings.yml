@@ -92,12 +92,12 @@ font_settings:
     weight: 600
     letter_spacing: 0
   h1:
-    size: 45
-    size_small: 41
+    size: 42
+    size_small: 39
     weight: 550
     letter_spacing: 0
     letter_spacing_small: -1.2
-    line_height: 63
+    line_height: 55
     line_height_small: 44
   h2:
     size: 37
