@@ -27,6 +27,7 @@ $accent-color: {{ site.data.settings.color_settings.accent_color }};
 $error-color: {{ site.data.settings.color_settings.error_color }};
 
 /* Swizzlespokes Colors */
+$link_underline_color: {{ site.data.settings.color_settings.link_underline_color }};
 $purple_swizzle_500: {{ site.data.settings.color_settings.purple_swizzle_500 }};
 $purple_swizzle_700: {{ site.data.settings.color_settings.purple_swizzle_700 }};
 $purple_swizzle_800: {{ site.data.settings.color_settings.purple_swizzle_800 }};
