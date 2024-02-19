@@ -72,8 +72,9 @@ color_settings:
   greytint_purple_700: '#8382AB'
 font_settings:
   font_embed: >-
-    ‹link href="https://api.fontshare. com/v2/c
-    ss?fll=alpino@1&fll=bespoke-slab@1,2&displ ay=swap" rel="stylesheet">
+    <link
+    href="https://api.fontshare.com/v2/css?f[]=alpino@1&f[]=bespoke-slab@1,2&display=swap"
+    rel="stylesheet">
   title_font: Alpino, Rubik, sans-serif
   body_font: '"Bespoke Slab", Baskerville, Georgia, serif'
   regular_weight: 400
