@@ -26,10 +26,6 @@ ol li::before {
   text-indent: -1.5em;
 }
 
-button.owl-next, button.owl-prev {
+.project__preview .owl-nav button svg
   fill: $accent-color;
-    
-  svg {
-    fill: $accent-color;
-  }
 }
