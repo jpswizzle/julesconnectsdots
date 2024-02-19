@@ -96,15 +96,15 @@ font_settings:
     size_small: 39
     weight: 550
     letter_spacing: 0
-    letter_spacing_small: -1.2
+    letter_spacing_small: 0
     line_height: 55
     line_height_small: 44
   h2:
     size: 37
     size_small: 34
     weight: 500
-    letter_spacing: -1.6
-    letter_spacing_small: -1.04
+    letter_spacing: 0
+    letter_spacing_small: 0
     line_height: 43
     line_height_small: 36
   h3:
@@ -112,7 +112,7 @@ font_settings:
     size_small: 28
     weight: 650
     letter_spacing: 0
-    letter_spacing_small: -0.54
+    letter_spacing_small: 0
     line_height: 39
     line_height_small: 30
   h4:
@@ -120,7 +120,7 @@ font_settings:
     size_small: 24
     weight: 574
     letter_spacing: -1
-    letter_spacing_small: -0.6
+    letter_spacing_small: 0
     line_height: 32
     line_height_small: 30
   h5:
@@ -169,14 +169,14 @@ font_settings:
   footnote:
     size: 13
     weight: 400
-    letter_spacing: -0.04
+    letter_spacing: 0
     line_height: 12
   blockquote:
     small_size: 20
     medium_size: 20
     large_size: 24
     weight: 400
-    letter_spacing: -0.02
+    letter_spacing: 0
     line_height: 1.6
   buttons:
     weight: 550
