@@ -14,8 +14,8 @@ accent_color: '#4c60e6'
 gallery_images:
   - transamerica_hero_1@2x.png
   - transamerica_AX-2col@2x.png
-  - transamerica_IX-2col@2x.png
   - transamerica_IX_mobile-1@2x.png
+  - transamerica_IX-2col@2x.png
   - transamerica_context-framed@2x.png
 ---
 ## Overview: A business transformation initiative
