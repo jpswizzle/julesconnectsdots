@@ -28,4 +28,8 @@ ol li::before {
 
 button.owl-next, button.owl-prev {
   fill: $accent-color;
+    
+  svg {
+    fill: $accent-color;
+  }
 }
