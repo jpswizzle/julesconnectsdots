@@ -18,15 +18,37 @@ gallery_images:
   - transamerica_IX-2col@2x.png
   - transamerica_context-framed@2x.png
 ---
-## Overview: A business transformation initiative
+## Synopsis
+
+### North star
+
+*Make it easy to do business with Transamerica*
+
+### Context: A business transformation initiative
 
 As a large, longstanding financial services firm, Transamerica began an equally sizable business transformation effort in 2018.
 
 Transamerica had grown through acquisition over a few decades, scooping up smaller insurance and investment firms and their digital experiences. This resulted in a high amount of operational overhead and a highly fragmented user experience for all user types.
 
-### My role
+**Tech stack:** legacy backend, HTML/CSS, AngularJS
 
-#### Product Design Manager + DesignOps specialist
+### Experience objective
+
+**Our directive was to consolidate over a dozen portals contributing to the fragmented portal experience** by creating a single portal for insurance agents, financial advisors, and their clients.
+
+The unified portal would modernize our digital platform, improving both business and user outcomes.
+
+### Value proposition
+
+*The new Advisor Experience will provide financial professionals with an all-in-one digital solution to manage their business with Transamerica.*
+
+![](/images/projects/transamerica_context-framed@2x.png)
+
+### Team players
+
+#### My role
+
+##### Product Design Manager + DesignOps specialist
 
 When I joined Transamerica, the User Experience (UX) team comprised 18 members. Designers were organized into 3 pods, one for each operating unit. UX research was shared across all 3 pods.
 
@@ -34,23 +56,23 @@ When I joined Transamerica, the User Experience (UX) team comprised 18 members. 
 
 **Involvement:** people management, design ops, user research, information architecture
 
-**Tech stack:** legacy backend, HTML/CSS, AngularJS
+### The team
 
-## Experience objective
+* 3 Product Designers
+* 1 UX Researcher
+* 1 UX Producer
+* 2 Product Owners
+* 2 Scrum teams
 
-#### Consolidate the portal experience
+### Key results
 
-**Our directive was to consolidate over a dozen portals contributing to the fragmented portal experience** by creating a single portal for insurance agents, financial advisors, and their clients.
+\-x
 
-The unified portal would modernize our digital platform, improving both business and user outcomes.
+## The Journey
 
-This was, of course, a multi-year effort with multiple phases. We began with consolidating 6 of the portals.
+When I joined Transamerica in October 2019, the 2 Product Owners and scrum teams were under pressure to deliver the very first release of the Agent + Advisor portal. Tension was high, and there were several significant technical hurdles.
 
-### Value proposition
-
-> The new Advisor Experience will provide financial professionals with an all-in-one digital solution to manage their business with Transamerica.
-
-![](/images/projects/transamerica_context-framed@2x.png)
+At this time, the 3 designers reporting to me had been operating with little oversight and inconsistent cross-functional collaboration.
 
 ### Business drivers
 
@@ -67,11 +89,11 @@ This was, of course, a multi-year effort with multiple phases. We began with con
 * **Spend less time on admin** and more time building relationships with and selling to my clients
 * **Sell more Transamerica policies**
 
-## Overcoming challenges and advancing UX maturity
+### Overcoming challenges and advancing UX maturity
 
 Transamerica's digital transformation effort posed 2 levels of challenges. The first level was the cross-cutting challenges that were common to all teams, and the second level was the design-specific challenges encountered by the UX team.
 
-### Cross-cutting challenges
+#### Cross-cutting challenges
 
 All Transamerica technology teams across the business shared faced the same challenges:
 
@@ -79,7 +101,7 @@ All Transamerica technology teams across the business shared faced the same chal
 * partnering with Product Owners who were strongly aligned to Sales and Operations objectives
 * collaborating with primarily outsourced technology staff for the large, highly complex backend consolidation effort
 
-### Design-specific challenges
+#### Design-specific challenges
 
 On top of this, the UX team encountered design-specific challenges:
 
@@ -87,7 +109,7 @@ On top of this, the UX team encountered design-specific challenges:
 * strong confinement of scope to a "feature parity" mindset
 * insufficient information provided to designers at the start of projects
 
-## Setting designers up for success
+### Setting designers up for success
 
 I took a **multi-prong approach** to ensure my design team would have **sufficient information at the start of every project** and **reliable collaboration touchpoints** with our 2 product owners.
 
@@ -97,7 +119,7 @@ Working arm-in-arm with my team's digital producer, we set out to improve:
 2. **Collaboration** with product and engineering partners
 3. **Clarity of information** required to confidently begin the design process
 
-### Building ongoing designer alignment
+#### Building ongoing designer alignment
 
 To ensure a smooth and cohesive experience, I scheduled regular standups and working sessions to support my designers' alignment on
 
@@ -108,7 +130,7 @@ We also began running 2-week "scrumban"-style design sprints, and I acted as the
 
 {% include post-components/gallery.html columns = 2 full_width = true images = "../images/projects/transamerica_designSprints_diagram@2x.png,../images/projects/transamerica_designSprints_boards@2x.png," %}
 
-### Strengthening the UX-PO partnership
+#### Strengthening the UX-PO partnership
 
 The biggest barrier to designer success was weak partnership with our 2 product owners (P.O.s). Like so many product people, they had full calendars, too much on their plates, and too many stakeholder cooks in their kitchen.
 
@@ -116,7 +138,7 @@ For us as a design team, it seemed that collaborating with UX was less of a prio
 
 In my role as product design manager, I first prioritized increasing transparency and alignment between my team and product and cross-functional partners. I achieved stronger product-UX partnerships in my first 3 months by initiating design-specific ceremonies that increased visibility and trust.
 
-### Increasing information fidelity during intake
+#### Increasing information fidelity during intake
 
 Although the relationships felt stronger, my design team was regularly tasked with work without clear business context or requirements.
 
@@ -126,7 +148,7 @@ As a design team, we knew that we needed to understand use cases and business op
 
 To address this problem, I collaborated with my digital producer to introduce and socialize an inception brief.
 
-### Introducing the inception brief
+#### Introducing the inception brief
 
 The inception brief served as a standard template that encompassed the information designers needed to confidently begin their design process. It also served to build a shared cross-functional understanding of the problem and desired outcomes for the shippable solution.
 
