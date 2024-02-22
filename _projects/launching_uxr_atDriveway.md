@@ -20,28 +20,34 @@ gallery_images:
 ---
 ## Synopsis
 
-### A brief tour of the program terrain
+### North star
+
+*Formally launch UX Research as a product development function. Steer Product and Design decisions through learning, data, and insights*
+
+### Program overview
 
 I launched a comprehensive UX Research program in 6 months, from the first hire to the initial research roadmap.
 
-The program encompassed staffing, tooling, intake and roadmapping for multi-method research, standards for execution, and best practices for cross-functional collaboration.
+The multi-method research program encompassed staffing, tooling, intake, roadmapping, execution standards, and best practices for cross-functional collaboration.
 
-**UX Research at Driveway supported 4 teams in the first 3 months and later informed design decisions for the homepage redesign** (part of the [brand refresh that I also orchestrated](/project/driving-brand-success){: target="_blank" rel="noopener"}).
+**UX Research at Driveway supported 4 squads in the first 3 months and later informed design decisions for the homepage redesign** (part of the [brand refresh that I also orchestrated](/project/driving-brand-success){: target="_blank" rel="noopener"}).
+
+By the end of the 3rd month of the program, **I had accelerated research velocity by 316%**, with a single dedicated researcher conducting 1.77 studies per month compared to the previous rate of 0.56 studies per month. Procurement of dscout further increased the research velocity due to use of dscout's Express Missions.
 
 #### Value proposition
 
-Driveway, the largest new-car retailer in the U.S., supports the full car ownership lifecycle, all from the convenience of your home.
+Driveway, the largest new-car retailer in the U.S., serves the full car ownership lifecycle, all from the convenience of your home.
 
 * Innovation hub within Lithia Motors (NYSE: LAD, currently \#145 on the Fortune 500)
 * Competes with Carvana, CarMax, and Cars.com​​​​​
 * $28.2B in revenue in 2022
 
-#### Players
+#### Team players
 
 Supporting a distributed US-based team with 8 squads, **my role was Product Design Manager + Design Program Manager**, reporting to the Director of XD.
 
 * ~30-member Experience Design (XD) team, including product designers, content designers, 1 design system designer, 1 UX researcher, and 3 product design managers (including me)
-* Built partnerships with Product Managers, Head of Marketing, and Lead Brand Designer
+* Built partnerships with Product Managers, Head of Marketing, and Senior Brand Designer
 
 #### Key results
 
@@ -61,7 +67,7 @@ I joined Driveway in January 2021, just a few months after its initial launch.
 * Led Product Design for account center, homepage, internal tools, inventory (sell)
 * Acted as design program manager (DPM), launching programs for both UX Research and the Design System, and orchestrating Driveway's "2.woah" brand refresh
 
-## A clear need for research
+### A clear need for research
 
 With an ambitious product roadmap and quarterly major releases, Driveway quickly made a splash in the automotive eCommerce space.
 
