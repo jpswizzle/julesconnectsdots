@@ -1,5 +1,5 @@
 ---
-title: Fueling brand success with Driveway's design system
+title: Driving a brand refresh with Driveway's design system
 subtitle: How I orchestrated Driveway's brand refresh and design system evolution
 date: 2024-01-30 17:00:00 -0700
 description: >-
@@ -61,7 +61,7 @@ Working in tandem, the Marketing team and content designers worked to refine the
 
 Meanwhile, I prepared to drive collaboration and alignment of design decisions across the XD team.
 
-### Switching on the fog lights
+### Standing up a design system guild
 
 Rebranding efforts, especially when executed internally, can sometimes feel like driving up a winding mountain road through a thick night fog.
 
@@ -76,7 +76,7 @@ The format was a hybrid between show-and-tell and internal creative review, with
 
 {% include post-components/gallery.html columns = 1 full_width = true images = "../images/projects/driveway_2.woah_designSystem-colors-2-col.png,../images/projects/driveway_2.woah_assets-3.png,../images/projects/driveway_2.woah_assets-4.png," %}
 
-### Turning on the power steering
+### Keeping partners informed and at ease
 
 As designers became increasingly excited about the brand refresh, they started referring to the initiative as ***“Brand 2.woah”***.
 
@@ -92,7 +92,7 @@ To increase shared understanding and decrease anxiety around the unknowns, I too
 
 {% include post-components/gallery.html columns = 2 full_width = true images = "../images/projects/driveway_2.woah_approach-1.png,../images/projects/driveway_2.woah_approach-2.png, " %}
 
-## Dress rehearsal
+## Release planning
 
 The scope of my responsibility in guiding brand refresh quickly expanded from coordinating the XD team and design system efforts to orchestrating cross-functional release planning.
 
@@ -132,7 +132,7 @@ We intentionally planned for the official launch date of Brand 2.woah to coincid
 
 As the planning intensified, I benefited from the incredibly supportive partnership of the Product Manager and Delivery Lead for the Homepage and Global Experience (Will H. and Eric M.).
 
-## Curtain up!
+## &nbsp;A smooth launch
 
 On December 1, 2021, we released Driveway’s new brand on Driveway.com with the flip of a feature flag. Though I was no longer part of the company, I was invited to silently observe the release, which pushed to \`/main\` without a hitch.
 
