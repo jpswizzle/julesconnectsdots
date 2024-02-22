@@ -1,5 +1,5 @@
 ---
-title: Driving a brand refresh with Driveway's design system
+title: Driving a successful brand refresh with Driveway's design system
 subtitle: How I orchestrated Driveway's brand refresh and design system evolution
 date: 2024-01-30 17:00:00 -0700
 description: >-
