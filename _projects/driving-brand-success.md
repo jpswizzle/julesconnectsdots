@@ -38,7 +38,7 @@ Driveway, the largest new-car retailer in the U.S., launched in September 2020 a
 
 #### Team players
 
-Supporting a distributed US-based team with 8 squads, **my role was Product Design Manager + Design Program Manager**, reporting to the Director of XD.
+Supporting a distributed US-based team with 8 squads, **my role was Product Design Manager + Design Program Manager**, reporting to the Director of Experience Design (XD).
 
 **I staffed the first dedicated Design System Designer,** Melinda L., without whom this large undertaking would not have been possible.
 
