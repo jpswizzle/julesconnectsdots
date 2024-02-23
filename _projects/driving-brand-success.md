@@ -7,7 +7,7 @@ description: >-
   pave the way. I orchestrated both the evolution of the Driveway design system
   and the cross-functional execution of an organization-wide brand refresh.
 layout: project_2-col
-featured_image: driveway_2.woah_homepage@2x.png
+featured_image: /images/projects/driveway_2.woah_approach-1.png
 accent_color: '#4c60e6'
 gallery_images:
   - driveway_2.woah_homepage@2x.png
@@ -57,6 +57,8 @@ Supporting a distributed US-based team with 8 squads, **my role was Product Desi
   * Driveway.com, already sporting the new type system, launched with a limited new color palette
   * The new home page and marketing collateral launched with the full new color palette and new type system
 * Driveway.com reached 1MM MUVs within 3 months of the brand launch
+
+{% include post-components/gallery.html columns = 2 full_width = false images = "../images/projects/driveway_2.woah_homepage@2x.png,../images/projects/driveway_2.woah_newCar@2x.png,../images/projects/driveway_2.woah_designSystem-colors-2-col.png,../images/projects/driveway_2.woah_collateral.png," %}
 
 ## The Journey
 
