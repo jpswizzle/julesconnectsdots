@@ -43,6 +43,7 @@ Supporting a distributed US-based team with 8 squads, **my role was Product Desi
 I staffed the first dedicated Design System Designer, Melinda L., without whom this large undertaking would not have been possible.
 
 In addition, I closely collaborated with a broad cross-functional team:
+
 * Lead Front-end Architect
 * 8 Lead + Senior Product Designers
 * Senior Brand Designer
@@ -59,7 +60,7 @@ In addition, I closely collaborated with a broad cross-functional team:
 
 ## The Journey
 
-### **An increase in monthly unique visitors (MUVs)**
+### **Preparing for brand growth**
 
 In mid 2021, the Driveway Product team observed an uptick in unique page views and expected this trend to grow significantly over the coming months.
 
@@ -71,12 +72,12 @@ Since Driveway was still new to the automotive eCommerce space, many of these cu
 
 As Product and Design, we determined it’s important that we enable these new users to quickly:
 
-* Understand the value of our offering and intuitively flow into the appropriate funnel (buy or sell)
+* Understand the value of our offering and intuitively flow into the appropriate funnel (buy, sell, or trade-in)
 * Get answers to any questions they may have about the brand or their experience through self-service
 
-In order to keep people engaged on Driveway.com, we wanted our brand and homepage to feel exciting and captivating, with a _wow factor_ that distinguished us from competitors.
+In order to keep people engaged on Driveway.com, we wanted our brand and homepage to feel exciting and captivating, with a *wow factor* that distinguished us from competitors.
 
-### Initial sparks of the brand refresh
+### Early sparks of the brand refresh
 
 Our Director of Experience Design (XD), along with our new Marketing Director, made the business case for a brand refresh.
 
@@ -86,7 +87,7 @@ Driveway's senior product designers and lead brand designer worked together clos
 
 I engaged with the effort as these 2 designers honed the brand direction, seeking feedback from other product designers.&nbsp;
 
-## Paving the way by evolving the design system
+## Lighting the way by evolving the design system
 
 Next came the challenge of applying the brand direction to the UI across all of Driveway.com, including the top of the funnel, user accounts, and the field inspector mobile app.
 
@@ -158,7 +159,7 @@ To address the complexity of implementing a new color palette, we decided on 2 s
 Planning for each release involved high-touch cross-functional coordination in the following respects:
 
 * **Design System pressure testing:** Our Design System Designer, Melinda L., led the way with frequent feedback and pressure-testing from lead and senior product designers. She first created the new type and color styles and later methodically updated each design system component in Figma to reflect the new brand.
-* **Putting the new Figma components to work:** Designers began to use the new components in their designs. I led an an XD all-hands to explain the objective, constraints, and need to accept some design debt in the process. After fielding questions and concerns, designers got to work—and did amazing work.
+* **Designing with the new Figma components:** Designers began to use the new components in their designs. I led an an XD all-hands to explain the objective, constraints, and need to accept some design debt in the process. After fielding questions and concerns, designers got to work—and did amazing work.
 * **Planning the implementation:** Meanwhile, Product Managers and Delivery Leads planned for both the implementation and QA at the story and task levels.
 * **Collaborative QA:** As we prepared for release, at least one designer from each squad owned visual QA and created tickets for the engineers. Those designers paired with engineers as necessary to ensure the desired implementation.
 * **Release readiness:** Last but not least, everyone committed to each release date.
