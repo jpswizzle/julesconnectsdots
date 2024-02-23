@@ -102,6 +102,8 @@ Working in tandem, the Marketing team and content designers worked to refine the
 
 Meanwhile, I prepared to drive collaboration and alignment of design decisions across the XD team.
 
+{% include post-components/gallery.html columns = 1 full_width = true images = "../images/projects/driveway_2.woah_designSystem-colors-2-col.png,../images/projects/driveway_2.woah_assets-3.png," %}
+
 #### Standing up a design system guild
 
 Rebranding efforts, especially when executed internally, can sometimes feel like driving up a winding mountain road through a thick night fog.
@@ -115,7 +117,7 @@ The purpose of the guild was twofold:
 
 The format was a hybrid between show-and-tell and internal creative review, with constructive criticism leading to coalescing choices for visual hierarchy, button styles, drop shadows, etc.
 
-{% include post-components/gallery.html columns = 1 full_width = true images = "../images/projects/driveway_2.woah_designSystem-colors-2-col.png,../images/projects/driveway_2.woah_assets-3.png,../images/projects/driveway_2.woah_assets-4.png," %}
+{% include post-components/gallery.html columns = 1 full_width = true images = "../images/projects/driveway_2.woah_assets-4.png,../images/projects/driveway_2.woah_assets-1.png,../images/projects/driveway_2.woah_assets-2.png," %}
 
 ### Keeping partners informed and at ease
 
