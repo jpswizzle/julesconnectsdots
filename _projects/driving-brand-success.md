@@ -17,12 +17,47 @@ gallery_images:
   - driveway_2.woah_assets-3.png
   - driveway_2.woah_collateral.png
 ---
-## The speedway to growth
+## Synopsis
 
-Driveway launched in September 2020 as Lithia Motors' move to
+### North star
+
+*Increase Driveway brand recognition and credibility by refreshing the Driveway brand, maturing our Design System, and launching a new home page*
+
+### Program overview
+
+I orchestrated a comprehensive brand refresh in the span of 6 months, resulting in the simultaneous launch of a new home page, new CSS, and rebranded multi-channel marketing campaign.
+
+As the lead on this multi-prong effort, I oversaw and guided the evolution of the design system, planned the first 2 releases in partnership with our front-end architect, and coordinated cross-functional execution.
+
+#### Value proposition
+
+Driveway, the largest new-car retailer in the U.S., launched in September 2020 as Lithia Motors' move to
 
 * support the end-to-end car ownership lifecycle, all from the convenience of your home
 * gain competitive advantage over automotive eCommerce big-hitters CarMax, Cars.com, and Carvana
+
+#### Team players
+
+Supporting a distributed US-based team with 8 squads, **my role was Product Design Manager + Design Program Manager**, reporting to the Director of XD.
+
+I staffed the first dedicated Design System Designer, Melinda L., without whom this large undertaking would not have been possible.
+
+In addition, I closely collaborated with a broad cross-functional team:
+* Lead Front-end Architect
+* 8 Lead + Senior Product Designers
+* Senior Brand Designer
+* Delivery Leads
+* 8 squads
+* 6 Product Managers
+
+#### Key results
+
+* Driveway's new brand launched on December 1, 2021
+  * Driveway.com, already sporting the new type system, launched with a limited new color palette
+  * The new home page and marketing collateral launched with the full new color palette and new type system
+* Driveway.com reached 1MM MUVs within 3 months of the brand launch
+
+## The Journey
 
 ### **An increase in monthly unique visitors (MUVs)**
 
@@ -39,7 +74,7 @@ As Product and Design, we determined it’s important that we enable these new u
 * Understand the value of our offering and intuitively flow into the appropriate funnel (buy or sell)
 * Get answers to any questions they may have about the brand or their experience through self-service
 
-In order to keep people engaged on Driveway.com, we wanted our brand and homepage to feel exciting and captivating, with a *wow factor* that distinguished us from competitors.
+In order to keep people engaged on Driveway.com, we wanted our brand and homepage to feel exciting and captivating, with a _wow factor_ that distinguished us from competitors.
 
 ### Initial sparks of the brand refresh
 
