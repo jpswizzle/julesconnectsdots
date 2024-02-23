@@ -25,13 +25,13 @@ gallery_images:
 
 ### Program overview
 
-I orchestrated a comprehensive brand refresh in the span of 6 months, resulting in the simultaneous launch of a new home page, new CSS, and rebranded multi-channel marketing campaign.
+**I orchestrated a comprehensive brand refresh in the span of 6 months,** resulting in the simultaneous launch of a new home page, new CSS, and rebranded multi-channel marketing campaign.
 
 As the lead on this multi-prong effort, I oversaw and guided the evolution of the design system, planned the first 2 releases in partnership with our front-end architect, and coordinated cross-functional execution.
 
 #### Value proposition
 
-Driveway, the largest new-car retailer in the U.S., launched in September 2020 as Lithia Motors' move to
+Driveway, the largest new-car retailer in the U.S., launched in September 2020 as Lithia Motors' strategic move to
 
 * support the end-to-end car ownership lifecycle, all from the convenience of your home
 * gain competitive advantage over automotive eCommerce big-hitters CarMax, Cars.com, and Carvana
@@ -40,16 +40,16 @@ Driveway, the largest new-car retailer in the U.S., launched in September 2020 a
 
 Supporting a distributed US-based team with 8 squads, **my role was Product Design Manager + Design Program Manager**, reporting to the Director of XD.
 
-I staffed the first dedicated Design System Designer, Melinda L., without whom this large undertaking would not have been possible.
+**I staffed the first dedicated Design System Designer,** Melinda L., without whom this large undertaking would not have been possible.
 
-In addition, I closely collaborated with a broad cross-functional team:
+**In addition, I closely collaborated with a broad cross-functional team:**
 
-* Lead Front-end Architect
+* 1 Lead Front-end Architect
+* 2 Brand Designers
 * 8 Lead + Senior Product Designers
-* Senior Brand Designer
-* Delivery Leads
 * 8 squads
 * 6 Product Managers
+* ~4 Delivery Leads
 
 #### Key results
 
@@ -66,9 +66,9 @@ In mid 2021, the Driveway Product team observed an uptick in unique page views a
 
 Since Driveway was still new to the automotive eCommerce space, many of these customers would land on the Driveway homepage with limited knowledge of the brand and value proposition.
 
-## Experience objective
+### Experience objective
 
-### **Driving growth at the speed of brand recognition**
+#### **Driving growth at the speed of brand recognition**
 
 As Product and Design, we determined it’s important that we enable these new users to quickly:
 
@@ -87,7 +87,9 @@ Driveway's senior product designers and lead brand designer worked together clos
 
 I engaged with the effort as these 2 designers honed the brand direction, seeking feedback from other product designers.&nbsp;
 
-## Lighting the way by evolving the design system
+### Lighting the way by evolving the design system
+
+#### Pressure-testing the brand direction in UI
 
 Next came the challenge of applying the brand direction to the UI across all of Driveway.com, including the top of the funnel, user accounts, and the field inspector mobile app.
 
@@ -97,7 +99,7 @@ Working in tandem, the Marketing team and content designers worked to refine the
 
 Meanwhile, I prepared to drive collaboration and alignment of design decisions across the XD team.
 
-### Standing up a design system guild
+#### Standing up a design system guild
 
 Rebranding efforts, especially when executed internally, can sometimes feel like driving up a winding mountain road through a thick night fog.
 
@@ -114,11 +116,11 @@ The format was a hybrid between show-and-tell and internal creative review, with
 
 ### Keeping partners informed and at ease
 
-As designers became increasingly excited about the brand refresh, they started referring to the initiative as ***“Brand 2.woah”***.
+As designers became increasingly excited about the brand refresh, they started referring to the initiative as ***Brand 2.woah***.
 
 With this excitement bubbling over into standups and PDE ceremonies, product managers and delivery leads began to wonder how their near-term backlogs would be impacted by the brand refresh.
 
-To increase shared understanding and decrease anxiety around the unknowns, I took a multi-prong approach:
+**To increase shared understanding and decrease anxiety around the unknowns, I took a multi-prong approach:**
 
 1. Provided updates during the biweekly sync between lead product designers and the front-end engineers who contributed code to the design system
 2. Documented the initiative's high-level scope, approach, and milestones in Confluence&nbsp;
@@ -128,13 +130,13 @@ To increase shared understanding and decrease anxiety around the unknowns, I too
 
 {% include post-components/gallery.html columns = 2 full_width = true images = "../images/projects/driveway_2.woah_approach-1.png,../images/projects/driveway_2.woah_approach-2.png, " %}
 
-## Release planning
+### Release planning
 
 The scope of my responsibility in guiding brand refresh quickly expanded from coordinating the XD team and design system efforts to orchestrating cross-functional release planning.
 
 Behind the scenes, I met weekly with the Lead Front-end Architect to collaboratively define the technical scope of the first 2 releases of Brand 2.woah.
 
-### Problem-solving for the first 2 releases
+#### Problem-solving for the first 2 releases
 
 In our discussions, we covered and aligned on several key considerations:
 
@@ -154,7 +156,7 @@ To address the complexity of implementing a new color palette, we decided on 2 s
 1. Our first release of Brand 2.woah would be typography only. This would ensure an easy win: reducing risk of the first release and building good faith with our partners and stakeholders.
 2. We would take a phased approach to rolling out the new color palette. While the homepage would lead with the full color palette, all other digital real estate would swap only the primary and secondary colors.
 
-#### Conducting the cross-functional orchestra
+#### Coordinating cross-functional planning and execution
 
 Planning for each release involved high-touch cross-functional coordination in the following respects:
 
@@ -164,11 +166,11 @@ Planning for each release involved high-touch cross-functional coordination in t
 * **Collaborative QA:** As we prepared for release, at least one designer from each squad owned visual QA and created tickets for the engineers. Those designers paired with engineers as necessary to ensure the desired implementation.
 * **Release readiness:** Last but not least, everyone committed to each release date.
 
-We intentionally planned for the official launch date of Brand 2.woah to coincide with the high-visibility launch of a new, in-house search engine and new experience for finding a new car on Driveway.com.
+We intentionally planned for the official launch date of *Brand 2.woah* to coincide with the high-visibility launch of a new, in-house search engine and new experience for finding a new car on Driveway.com.
 
 As the planning intensified, I benefited from the incredibly supportive partnership of the Product Manager and Delivery Lead for the Homepage and Global Experience (Will H. and Eric M.).
 
-## &nbsp;A smooth launch
+### A smooth launch
 
 On December 1, 2021, we released Driveway’s new brand on Driveway.com with the flip of a feature flag. Though I was no longer part of the company, I was invited to silently observe the release, which pushed to \`/main\` without a hitch.
 
@@ -176,7 +178,7 @@ That same day, Marketing unveiled their new collateral, and the subsequent deman
 
 {% include post-components/video.html url = "https://www.youtube.com/embed/FGrIMaCx6fo?si=S35KBHgHdfEAnxDg" full_width = false %}
 
-## Impact
+## Program impact
 
 ### Design system drove a successful launch
 
