@@ -92,7 +92,7 @@ I engaged with the effort as these 2 designers honed the brand direction, seekin
 
 ### Lighting the way by evolving the design system
 
-{% include post-components/gallery.html columns = 2 full_width = false images = "../images/projects/driveway_2.woah_designSystem-colors-2-col.png,../images/projects/driveway_2.woah_assets-3.png," %}
+{% include post-components/gallery.html columns = 2 full_width = true images = "../images/projects/driveway_2.woah_designSystem-colors-2-col.png,../images/projects/driveway_2.woah_assets-3.png," %}
 
 #### Pressure-testing the brand direction in UI
 
@@ -117,7 +117,7 @@ The purpose of the guild was twofold:
 
 The format was a hybrid between show-and-tell and internal creative review, with constructive criticism leading to coalescing choices for visual hierarchy, button styles, drop shadows, etc.
 
-{% include post-components/gallery.html columns = 2 full_width = false images = "../images/projects/driveway_2.woah_assets-4.png,../images/projects/driveway_2.woah_assets-1.png,../images/projects/driveway_2.woah_assets-2.png," %}
+{% include post-components/gallery.html columns = 1 full_width = false images = "../images/projects/driveway_2.woah_assets-4.png,../images/projects/driveway_2.woah_assets-1.png,../images/projects/driveway_2.woah_assets-2.png," %}
 
 ### Keeping partners informed and at ease
 
