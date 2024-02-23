@@ -56,6 +56,7 @@ Supporting a distributed US-based team with 8 squads, **my role was Product Desi
 * **Driveway's new brand launched on December 1, 2021**
   * Driveway.com, already sporting the new type system, launched with a limited new color palette
   * The new home page and marketing collateral launched with the full new color palette and new type system
+* **Exceeded December 2021 *transaction volume* target by 32%** ([source](https://www.prnewswire.com/news-releases/lithia--driveway-lad-exceeds-december-monthly-driveway-transaction-volume-target-by-32-301454268.html){: target="_blank" rel="noopener"})
 * **Driveway.com reached 1MM MUVs within 3 months of the brand launch**
 
 {% include post-components/gallery.html columns = 2 full_width = false images = "../images/projects/driveway_2.woah_homepage@2x.png,../images/projects/driveway_2.woah_newCar@2x.png,../images/projects/driveway_2.woah_designSystem-colors-2-col.png,../images/projects/driveway_2.woah_collateral.png," %}
@@ -182,19 +183,24 @@ That same day, Marketing unveiled their new collateral, and the subsequent deman
 
 ## Program impact
 
-### Design system drove a successful launch
+#### Design system drove a successful launch
 
 By orchestrating the evolution of the design system and partnering with cross-functional leaders, I ensured that the design system successfully paved the way for implementation of the brand refresh across all of Driveway.com
 
-### Redesigned homepage
+#### Launch of redesigned homepage
 
 We launched Brand 2.woah's redesigned homepage as the first touchpoint with the new visual identity and design system assets. I oversaw the research and redesign process, which my team of researchers and designers executed.
 
-### Increase in monthly unique visitors (MUVs)
+#### Monthly transaction volume
+
+* **Exceeded December 2021 *transaction volume* target by 32%:**&nbsp;1650 transaction compared to the expected 1250 ([source](https://www.prnewswire.com/news-releases/lithia--driveway-lad-exceeds-december-monthly-driveway-transaction-volume-target-by-32-301454268.html){: target="_blank" rel="noopener"})
+* By end of June 2022, Driveway had reached 4,300 monthly shop and sell transactions ([source](https://investors.lithiadriveway.com/press-releases/l45jh5js08hv6wl640dj){: target="_blank" rel="noopener"})
+
+#### Increase in monthly unique visitors (MUVs)
 
 This effort led to a significant increase in monthly unique visitors and enhanced the overall user experience:&nbsp;**Driveway.com reached 1MM MUVs in Feb 2022**
 
-### Brand durability
+#### Brand durability
 
 In addition, Marketing continues to use the new visual identity for its collateral and campaigns, including its TV and Youtube campaigns.
 
