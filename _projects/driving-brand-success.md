@@ -25,9 +25,9 @@ gallery_images:
 
 ### Program overview
 
-**I orchestrated a comprehensive brand refresh in the span of 6 months,** resulting in the simultaneous launch of a new home page, new CSS, and rebranded multi-channel marketing campaign.
+**I launched a design system program and orchestrated a comprehensive brand refresh in the span of 6 months,** resulting in the simultaneous launch of a new home page, new brand stylesheet (CSS), and rebranded multi-channel marketing campaign.
 
-As the lead on this multi-prong effort, I oversaw and guided the evolution of the design system, planned the first 2 releases in partnership with our front-end architect, and coordinated cross-functional execution.
+As the lead on this multi-prong effort, I oversaw and guided the evolution of the design system, planned the first 2 brand releases in partnership with our front-end architect, and coordinated cross-functional planning and execution.
 
 #### Value proposition
 
