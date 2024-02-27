@@ -1,4 +1,5 @@
 ---
+layout: project
 title: Unifying and modernizing the financial professional experience
 subtitle: >-
   How I guided digital transformation and reduced costs with design operations
