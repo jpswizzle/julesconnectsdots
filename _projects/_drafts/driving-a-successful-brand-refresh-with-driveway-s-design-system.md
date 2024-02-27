@@ -4,23 +4,19 @@ title: Driving a successful brand refresh with Driveway's design system
 subtitle: How I orchestrated Driveway's brand refresh and design system evolution
 date: 2024-01-30 17:00:00 -0700
 description: >-
-  As Driveway prepared to mature its brand presence, the design system had to pave the way. I orchestrated both the evolution of the Driveway design system and the cross-functional execution of an organization-wide brand refresh.
+  As Driveway prepared to mature its brand presence, the design system had to
+  pave the way. I orchestrated both the evolution of the Driveway design system
+  and the cross-functional execution of an organization-wide brand refresh.
 accent_color: '#4c60e6'
-
 snapshot_industry: Automotive
 snapshot_category: eCommerce, internal tools
 snapshot_techStack: HTML, CSS, ReactJS, jQuery
-snapshot_timeframe: "Apr 2021 – Sep 2021"
-snapshot_myRole: "Product Design Manager & Design Program Manager"
-
+snapshot_timeframe: Apr 2021 – Sep 2021
+snapshot_myRole: Product Design Manager & Design Program Manager
 objective: Description about the objective
-
 team_players: Who the team players were
-
 approach: Brief description of the approach
-
 key_results: list of key results
-
 featured_image: ../driveway_2.woah_approach-1.png
 gallery_images:
   - ../driveway_2.woah_homepage@2x.png
@@ -30,7 +26,6 @@ gallery_images:
   - ../driveway_2.woah_assets-3.png
   - ../driveway_2.woah_collateral.png
 ---
-
 ## Synopsis
 
 ### North star
@@ -73,7 +68,7 @@ Supporting a distributed US-based team with 8 squads, **my role was Product Desi
 * **Exceeded December 2021 *transaction volume* target by 32%** ([source](https://www.prnewswire.com/news-releases/lithia--driveway-lad-exceeds-december-monthly-driveway-transaction-volume-target-by-32-301454268.html){: target="_blank" rel="noopener"})
 * **Driveway.com reached 1MM MUVs within 3 months of the brand launch**
 
-{% include post-components/gallery.html columns = 2 full_width = false images = "../.../images/projects/driveway_2.woah_homepage@2x.png,../.../images/projects/driveway_2.woah_newCar@2x.png,../.../images/projects/driveway_2.woah_designSystem-colors-2-col.png,../.../images/projects/driveway_2.woah_collateral.png," %}
+{% include post-components/gallery.html columns = 2 full_width = false images = "../…/images/projects/driveway_2.woah_homepage@2x.png,../…/images/projects/driveway_2.woah_newCar@2x.png,../…/images/projects/driveway_2.woah_designSystem-colors-2-col.png,../…/images/projects/driveway_2.woah_collateral.png," %}
 
 ## The Journey
 
@@ -106,7 +101,7 @@ I engaged with the effort as these 2 designers honed the brand direction, seekin
 
 ### Lighting the way by evolving the design system
 
-{% include post-components/gallery.html columns = 2 full_width = true images = "../.../images/projects/driveway_2.woah_designSystem-colors-2-col.png,../.../images/projects/driveway_2.woah_assets-3.png," %}
+{% include post-components/gallery.html columns = 2 full_width = true images = "../…/images/projects/driveway_2.woah_designSystem-colors-2-col.png,../…/images/projects/driveway_2.woah_assets-3.png," %}
 
 #### Pressure-testing the brand direction in UI
 
@@ -131,7 +126,7 @@ The purpose of the guild was twofold:
 
 The format was a hybrid between show-and-tell and internal creative review, with constructive criticism leading to coalescing choices for visual hierarchy, button styles, drop shadows, etc.
 
-{% include post-components/gallery.html columns = 1 full_width = false images = "../.../images/projects/driveway_2.woah_assets-4.png,../.../images/projects/driveway_2.woah_assets-1.png,../.../images/projects/driveway_2.woah_assets-2.png," %}
+{% include post-components/gallery.html columns = 1 full_width = false images = "../…/images/projects/driveway_2.woah_assets-4.png,../…/images/projects/driveway_2.woah_assets-1.png,../…/images/projects/driveway_2.woah_assets-2.png," %}
 
 ### Keeping partners informed and at ease
 
@@ -147,7 +142,7 @@ With this excitement bubbling over into standups and PDE ceremonies, product man
    1. **Pitstops:**&nbsp;a one-page explainer of the brand refresh phases
    2. **Release goal posts:** an accompanying one-page "menu" of the recommended approach to implementing Driveway's new color palette in forthcoming product releases
 
-{% include post-components/gallery.html columns = 2 full_width = true images = "../.../images/projects/driveway_2.woah_approach-1.png,../.../images/projects/driveway_2.woah_approach-2.png, " %}
+{% include post-components/gallery.html columns = 2 full_width = true images = "../…/images/projects/driveway_2.woah_approach-1.png,../…/images/projects/driveway_2.woah_approach-2.png, " %}
 
 ### Release planning
 
