@@ -29,3 +29,13 @@ ol li::before {
 .project__preview .owl-nav button svg {
   fill: $accent-color;
 }
+
+.snapshot__sidebar {
+  fill: $background-alt-color
+  border-radius: 1em;
+}
+
+.snapshot__item {
+  padding: 10px 20px;
+  fill: pink;
+}

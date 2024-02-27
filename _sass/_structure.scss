@@ -24,16 +24,21 @@
 	&__2-col {
     @extend .grid;
     grid-template-columns: repeat(2, 1fr);
-  }
+    }
+    
+    &__2-col-major-minor {
+		@extend .grid;
+		grid-template-columns: 2fr 1fr; // Main content takes up two-thirds (2/3), Sidebar takes up one-third (1/3)
+	}
 
-  &__3-col {
-    @extend .grid;
-    grid-template-columns: repeat(3, 1fr);
-  }
+    &__3-col {
+      @extend .grid;
+      grid-template-columns: repeat(3, 1fr);
+    }
 
-  @include mq(tabletp) {
-    grid-gap: 30px;
-  }
+    @include mq(tabletp) {
+      grid-gap: 30px;
+    }
 }
 
 .locked {
