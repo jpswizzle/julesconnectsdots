@@ -8,8 +8,8 @@ date: 2021-01-30 12:00:00 -0700
 description: >-
   As Product Design Manager, I led a team of 3 designers to consolidate 6 legacy
   portals into a unified experience for financial professionals and their
-  clients. My approach resulted in reduced operational costs, stronger
-  cross-functional partnerships, and streamlined end-to-end design processes.
+  clients. Following launch, we onboarded 7,760 financial professionals within 3
+  months and 139,912 new policyholder users in the first calendar year.
 featured_image: transamerica_hero_1@2x.png
 accent_color: '#4c60e6'
 gallery_images:
@@ -31,7 +31,7 @@ As a large, longstanding financial services firm, Transamerica began an equally 
 
 Transamerica had grown through acquisition over a few decades, scooping up smaller insurance and investment firms and their digital experiences. This resulted in a high amount of operational overhead and a highly fragmented user experience for all user types.
 
-**Tech stack:** legacy backend, HTML/CSS, AngularJS
+**Tech stack:** legacy backend, HTML/CSS, AngularJS, Figma design system
 
 ### Experience objective
 
@@ -49,7 +49,7 @@ The unified portal would modernize our digital platform, improving both business
 
 #### My role
 
-##### Product Design Manager + DesignOps specialist
+##### Product Design Manager + DesignOps Lead
 
 When I joined Transamerica, the User Experience (UX) team comprised 18 members. Designers were organized into 3 pods, one for each operating unit. UX research was shared across all 3 pods.
 
@@ -67,7 +67,11 @@ When I joined Transamerica, the User Experience (UX) team comprised 18 members. 
 
 ### Key results
 
-\-x
+* Onboarded **7,760 financial professionals within 3 months** of launch and **139,912 new policyholder-users** in the first calendar year&nbsp;
+* **Increased efficiency of analytics implementation by ~33%** by partnering with UX Producer to involve analytics partners earlier&nbsp;
+* **Reduced reactivity and thrash by ~20%** by starting biweekly PDE leadership meetings to anticipate and proactively solve problems
+* **Increased designer velocity by ~25%** by increasing focus: launching design sprints, design intake brief, and design definition of ready
+* **Increased designer capacity by 10%** by involving Legal and Compliance earlier in the product design process&nbsp;
 
 ## The Journey
 
@@ -89,6 +93,15 @@ At this time, the 3 designers reporting to me had been operating with little ove
 * **Easily manage my book of business** in a single portal
 * **Spend less time on admin** and more time building relationships with and selling to my clients
 * **Sell more Transamerica policies**
+
+### Experience principles
+
+| Business outcome | CX principle | Design principle |
+| --- | --- | --- |
+| Drive adoption to ensure modernization; reduce operational costs | Put FinPros first | Create client-centered workflows |
+| Improve Transamerica's market reputation | Make business easy, transparent, and reliable | Create frictionless servicing interactions |
+| Improve Transamerica's competitive advantage | Provide self-service tools | Provide personalized information at their fingertips |
+
 
 ### Overcoming challenges and advancing UX maturity
 
@@ -165,19 +178,30 @@ It also included a Madlib-style template for a problem statement, as well as sec
 
 To accompany the inception brief, I established a Design "Definition of Ready," which quickly proved to improve the clarity of information designers received for new projects, including clarity of scope, priority, and design requirements.
 
-## Impact
+### Launch
 
-The Agent + Advisor portal experience launched in Q1 of 2020, with the corresponding Individual (client) experience a fast follow.
+The Agent + Advisor portal experience launched in Q1 of 2020, with the corresponding Individual (client) experience launching a few months later.
 
 My team collaborated with Marketing to promote adoption by financial professionals with the following promotional reel (as well as other onboarding assets).
 
 {% include post-components/video.html url = "https://player.vimeo.com/video/353876769?color=040269&amp;title=0&amp;byline=0" full_width = false %}&nbsp;
 
-The launch resulted in streamlined user experiences for financial professionals and their clients, enabling clients to log in and see the same information as their advisor or agent.
+The new portal experience resulted in streamlined workflows for financial professionals and their clients, enabling clients to log in and see the same information as their advisor or agent.
 
-#### User Counts: Financial Professionals
+## Impact
 
-**In the first 3 months, we onboarded 7,760 financial professional users to the Agent + Advisor portal.**
+### DesignOps impact
+
+* **Increased efficiency of analytics implementation by ~33%** by partnering with UX Producer to involve analytics partners earlier&nbsp;
+* **Reduced reactivity and thrash by ~20%** by starting biweekly PDE leadership meetings to anticipate and proactively solve problems
+* **Increased designer velocity by ~25%** by increasing focus: launching design sprints, design intake brief, and design definition of ready
+* **Increased designer capacity by 10%** by involving Legal and Compliance earlier in the product design process&nbsp;
+
+### Product impact
+
+#### User adoption: Financial Professionals
+
+**In the first 3 months, we onboarded 7,760 financial professional users to the Agent + Advisor experience.**
 
 They could now manage their book of business and service policies or investments in a single portal rather than multiple. This freed up time to focus on building and maintaining client relationships.
 
@@ -187,7 +211,7 @@ They could now manage their book of business and service policies or investments
 | 2020 | 36,468 | 34,054 | \+2838 new users/month (avg) |
 | 2021 | 45,064 | 42,929 | \+23.6% total users YoY |
 
-#### User Counts: Policyholders
+#### User adoption: Policyholders
 
 **Within the first calendar year of launching the Individual (policyholder) experience, we onboarded 139,912 new users.**
 
@@ -196,9 +220,9 @@ They could now manage their book of business and service policies or investments
 | 2020 | 0 | 0 | \- |
 | 2021 | 149,228 | 139,912 | \+11,659 new users/month (avg) |
 
-In addition, the launch and subsequent releases facilitated the sunset of legacy portals.
-
 My leadership led to stronger cross-functional partnerships and a more modernized digital platform for Transamerica. The new portal enabled advisors, agents, and clients to more easily find and interact with policy and investment information.
+
+In addition, the launch and subsequent releases facilitated the sunset of legacy portals.
 
 **Other achievements during my time at Transamerica include**
 
