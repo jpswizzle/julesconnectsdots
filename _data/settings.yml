@@ -6,7 +6,10 @@ header_settings:
   logo_width: 100
 menu_settings:
   menu_items:
-    - title: View more work
+    - title: View UX Research assets
+      url: >-
+        https://drive.google.com/drive/folders/1XdoggpMXaWv0IVPM2gs22cS9n9yFQCms?usp=sharing
+    - title: View greenfield work
       url: https://vault.julesconnectsdots.com
 footer_settings:
   logo_image:
