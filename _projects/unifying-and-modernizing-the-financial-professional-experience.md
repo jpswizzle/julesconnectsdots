@@ -23,15 +23,15 @@ gallery_images:
 
 ### North star
 
-*Make it easy to do business with Transamerica*
+*Reduce operational costs by making it easy to do business with Transamerica*
 
 ### Context: A business transformation initiative
 
 As a large, longstanding financial services firm, Transamerica began an equally sizable business transformation effort in 2018.
 
-Transamerica had grown through acquisition over a few decades, scooping up smaller insurance and investment firms and their digital experiences. This resulted in a high amount of operational overhead and a highly fragmented user experience for all user types.
+Transamerica had grown through acquisition over a few decades, scooping up smaller insurance and investment firms and their digital experiences. This resulted in a high amount of operational overhead and a highly fragmented user experience for both financial professionals and their clients.
 
-**Tech stack:** legacy backend, HTML/CSS, AngularJS, Figma design system
+**Tech stack:** legacy backend, HTML/CSS, AngularJS, Sketch design system
 
 ### Experience objective
 
@@ -94,14 +94,6 @@ At this time, the 3 designers reporting to me had been operating with little ove
 * **Spend less time on admin** and more time building relationships with and selling to my clients
 * **Sell more Transamerica policies**
 
-### Experience principles
-
-| Business outcome | CX principle | Design principle |
-| --- | --- | --- |
-| Drive adoption to ensure modernization; reduce operational costs | Put FinPros first | Create client-centered workflows |
-| Improve Transamerica's market reputation | Make business easy, transparent, and reliable | Create frictionless servicing interactions |
-| Improve Transamerica's competitive advantage | Provide self-service tools | Provide personalized information at their fingertips |
-
 
 ### Overcoming challenges and advancing UX maturity
 
@@ -151,6 +143,16 @@ The biggest barrier to designer success was weak partnership with our 2 product 
 For us as a design team, it seemed that collaborating with UX was less of a priority. This was underscored by the fact that UX reported up through a very traditionally structured Marketing department. My design team consistently felt misunderstood and underappreciated.
 
 In my role as product design manager, I first prioritized increasing transparency and alignment between my team and product and cross-functional partners. I achieved stronger product-UX partnerships in my first 3 months by initiating design-specific ceremonies that increased visibility and trust.
+
+##### Experience principles and a common vocabulary
+
+Later, I established a common vocabulary to guide designers' conversations with Product Owners. I created the following matrix to facilitate discussions regarding how we would reduce operational costs with design.
+
+| Business outcome | CX principle | Design principle |
+| --- | --- | --- |
+| Drive adoption to ensure modernization; reduce operational costs | Put FinPros first | Create client-centered workflows |
+| Improve Transamerica's market reputation | Make business easy, transparent, and reliable | Create frictionless servicing interactions |
+| Improve Transamerica's competitive advantage | Provide self-service tools | Provide personalized information and data-driven financial guidance |
 
 #### Increasing information fidelity during intake
 
