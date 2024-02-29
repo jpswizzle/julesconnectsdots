@@ -1,5 +1,5 @@
 ---
-title: Launching UX Research at Driveway
+title: Launching and accelerating UX Research at Driveway
 subtitle: >-
   How I launched a comprehensive research program in 6 months at Driveway
   (NYSE:LAD)
@@ -32,7 +32,7 @@ The multi-method research program encompassed staffing, tooling, intake, roadmap
 
 **UX Research at Driveway supported 4 squads in the first 3 months and later informed design decisions for the homepage redesign** (part of the [brand refresh that I also orchestrated](/project/driving-brand-success){: target="_blank" rel="noopener"}).
 
-By the end of the 3rd month of the program, **I had accelerated research velocity by 316%**, with a single dedicated researcher conducting 1.77 studies per month compared to the previous rate of 0.56 studies per month. Procurement of dscout further increased the research velocity due to use of dscout's Express Missions.
+By the end of the 3rd month of the program, **I had accelerated research velocity by 316%**, with a single dedicated researcher conducting ~1.8 studies per month compared to the previous rate of 0.56 studies per month. By procuring dscout, we further increased the research velocity due to use of dscout's Express Missions.
 
 #### Value proposition
 
@@ -53,10 +53,10 @@ Supporting a distributed US-based team with 8 squads, **my role was Product Desi
 
 > *The findings from the co-shopping study helped inform feature prioritization and de-prioritization for Account and Shop. – Amy C.*​​​​​​
 
-* Staffed first UX Researcher and procured a new research tool
-* Achieved initial research velocity of 7 studies per quarter
-* Studies directly influenced Product and Design decisions that positively impacted Driveway OKRs
-* Laid the foundation for research as a team sport, including cross-functional research planning and prioritization
+* **Accelerated research velocity by 316%** from 1 study every ~2 months to ~1.8 studies per month through Lean UX and ResearchOps
+* Staffed first UX Researcher and procured a new research tool (dscout)
+* Studies directly influenced Product and Design decisions that led to marked increases in monthly transaction volume and monthly unique visitors
+* Increased cross-functional alignment and buy-in for research by laying the foundation for research as a team sport, including research planning and prioritization
 
 ## The Journey
 
