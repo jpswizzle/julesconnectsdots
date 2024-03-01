@@ -150,7 +150,7 @@ Later, I established a common vocabulary to guide designers' conversations with 
 
 | Business outcome | CX principle | Design principle |
 | --- | --- | --- |
-| Drive adoption to ensure modernization; reduce operational costs | Put FinPros first | Create client-centered workflows |
+| Drive adoption to reduce operational costs | Put FinPros first | Create client-centered workflows |
 | Improve Transamerica's market reputation | Make business easy, transparent, and reliable | Create frictionless servicing interactions |
 | Improve Transamerica's competitive advantage | Provide self-service tools | Provide personalized information and data-driven financial guidance |
 
