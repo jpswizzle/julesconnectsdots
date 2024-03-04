@@ -4,7 +4,7 @@ title: Unifying and modernizing the financial professional experience
 subtitle: >-
   How I guided digital transformation and reduced costs with design operations
   and leadership
-date: 2024-01-30 12:00:00 -0700
+date: 2024-02-02 12:00:00 -0700
 description: >-
   As Product Design Manager, I led a team of 3 designers to consolidate 6 legacy
   portals into a unified experience for financial professionals and their
