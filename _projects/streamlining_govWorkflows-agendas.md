@@ -1,8 +1,8 @@
 ---
 title: Transforming agenda workflows for small municipalities
 subtitle: >-
-  How I minimized training time and overhead by designing a greenfield agenda
-  management tool
+  The new SaaS agenda management tool reduced customer onboarding time by over
+  90%
 date: 2017-03-30 01:00:00 -0700
 description: >-
   I directed design, research, and the design system for Peak Agenda Management,
@@ -77,8 +77,8 @@ We launched Peak in September 2015, **in the span of 7 months**.
 
 Peak's intuitive Admin console—designed entirely by my team and me—enabled quick and easy self-service setup for both admins and other users.
 
-* **Drastically reduced training time:** With Peak, we reduced training required *from days to hours* compared to the legacy product.
-* **Intuitive onboarding:** A town clerk in Nevada was able to set up the Admin console *in just 2 hours without any training*.
+* **Reduced training and onboarding time by 90%:** With Peak, we reduced training required *from 10 days to less than 1 day,* compared to the legacy product.
+* **Intuitive Admin set up:** A town clerk in Nevada was able to set up the Admin console *in just 2 hours without any training*.
 * **Reduced operational overhead for Granicus:**&nbsp; The self-service onboarding freed up bandwidth for Professional Services to focus on complex engagements with larger customers.
 
 ### Achievements
