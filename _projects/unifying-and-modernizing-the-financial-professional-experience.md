@@ -2,14 +2,13 @@
 layout: project
 title: Unifying and modernizing the financial professional experience
 subtitle: >-
-  How I guided digital transformation and reduced costs with design operations
-  and leadership
+  We onboarded 7,760 financial professionals and 139,912 policyholders to the
+  new experience in the first 12 months
 date: 2024-02-02 12:00:00 -0700
 description: >-
-  As Product Design Manager, I led a team of 3 designers to consolidate 6 legacy
-  portals into a unified experience for financial professionals and their
-  clients. Following launch, we onboarded 7,760 financial professionals within 3
-  months and 139,912 new policyholder users in the first calendar year.
+  As Product Design Manager, I led a team to consolidate 6 legacy portals into a
+  unified experience for financial professionals and their clients. Streamlined
+  partnerships and processes resulted in a 25% increase in designer velocity.
 featured_image: transamerica_hero_1@2x.png
 accent_color: '#4c60e6'
 gallery_images:

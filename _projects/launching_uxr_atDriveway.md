@@ -52,10 +52,11 @@ Supporting a distributed US-based team with 8 squads, **my role was Product Desi
 
 #### Key results
 
-> *The findings from the co-shopping study helped inform feature prioritization and de-prioritization for Account and Shop. – Amy C.*​​​​​​
+> *The findings from the co-shopping study helped inform feature prioritization and de-prioritization for Account and Shop. – Amy C., UX Researcher*​​​​​​
 
 * **Accelerated research velocity by 316%** from 1 study every ~2 months to ~1.8 studies per month through Lean UX and ResearchOps
-* Staffed first UX Researcher and procured a new research tool (dscout)
+* Staffed and coached first UX Researcher who was later promoted to lead
+* Procured a new research tool (dscout) based on evaluation of Driveway teams' specific learning needs
 * Studies directly influenced Product and Design decisions that led to marked increases in monthly transaction volume and monthly unique visitors
 * Increased cross-functional alignment and buy-in for research by laying the foundation for research as a team sport, including research planning and prioritization
 
