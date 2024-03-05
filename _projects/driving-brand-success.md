@@ -1,6 +1,8 @@
 ---
 title: Evolving Driveway's design system to deliver a successful brand refresh
-subtitle: 'How I orchestrated Driveway''s design system evolution and brand refresh '
+subtitle: >-
+  As a fast follow to the brand refresh, Driveway exceeded its December 2021
+  transaction volume target by 32%
 date: 2024-01-30 17:00:00 -0700
 description: >-
   As Driveway prepared to mature its brand presence, the design system had to
