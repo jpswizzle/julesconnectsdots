@@ -1,6 +1,6 @@
 ---
-title: Driving a successful brand refresh with Driveway's design system
-subtitle: How I orchestrated Driveway's brand refresh and design system evolution
+title: Evolving Driveway's design system to deliver a successful brand refresh
+subtitle: 'How I orchestrated Driveway''s design system evolution and brand refresh '
 date: 2024-01-30 17:00:00 -0700
 description: >-
   As Driveway prepared to mature its brand presence, the design system had to
