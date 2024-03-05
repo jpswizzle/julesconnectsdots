@@ -1,13 +1,14 @@
 ---
 title: Launching and accelerating UX Research at Driveway
 subtitle: >-
-  How I launched a comprehensive research program in 6 months at Driveway
-  (NYSE:LAD)
+  My program accelerated research velocity by over 300%, from 1 study every ~2
+  months to ~1.8 studies per month
 date: 2024-01-30 01:00:00 -0700
 description: >-
   When I joined Driveway shortly after it launched, there was a strong appetite
-  for learning but no UX researcher. The UXR program I launched steered product
-  and design decisions across the entire funnel as well as internal tools.
+  for learning but no UX researcher. I launched a UXR program in 6 months,
+  steering product and design decisions across the entire funnel as well as
+  internal tools.
 layout: project
 featured_image: driveway_approach_01@2x.png
 accent_color: '#4c60e6'
