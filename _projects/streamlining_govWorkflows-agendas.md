@@ -84,7 +84,7 @@ Peak's intuitive Admin console—designed entirely by my team and me—enabled q
 ### Achievements
 
 * **DesignOps:** I extended our UX runway from less than 2 weeks to over 2 months via cross-functional partnership, UX backlog management, and design sprints.
-* **Design durability:** The popover menu I designed is still in use today, as evidenced by [this Granicus knowledge base article](https://support.granicus.com/s/article/Generating-Agenda-Item-Packets-in-Peak?language=en_US&amp;c=govMeetings%20Suite&amp;p=Peak){: target="_blank" rel="noopener noreferrer nofollow"}. I took the screenshots under "Designing the UI" (below), from the embedded video.
+* **Design durability:** The popover menu I designed is still in use today, as evidenced by [this Granicus knowledge base article](https://support.granicus.com/s/article/Generating-Agenda-Item-Packets-in-Peak?language=en_US&amp;c=govMeetings%20Suite&amp;p=Peak){: target="_blank" rel="noreferrer nofollow noopener"}. I took the screenshots under "Designing the UI" (below), from the embedded video.
 
 ## The agile design journey
 
@@ -96,7 +96,7 @@ Peak's intuitive Admin console—designed entirely by my team and me—enabled q
 
 Below is a high-level example of my process for designing UI and what the technical implementation looks like (still largely untouched in the training environment as of February 2020).
 
-{% include post-components/gallery.html columns = 1 full_width = true images = "../images/projects/peak_iterativeDesign-1@2x.png,../images/projects/peak_iterativeDesign-2@2x.png,../images/projects/peak_iterativeDesign-3@2x.png,../images/projects/peak_iterativeDesign-4@2x.png,../images/projects/peak_iterativeDesign-5@2x.png," %}
+{% include post-components/gallery.html columns = 1 full_width = true images = "../images/projects/peak_iterativeDesign-1@2x.png,../images/projects/peak_iterativeDesign-2@2x.png,../images/projects/peak_iterativeDesign-3@2x.png,../images/projects/peak_iterativeDesign-4@2x.png," %}
 
 ### More coming soon
 
