@@ -18,54 +18,63 @@ layout: default
 	</header>
 
 
-	<section class="post-full">
+    <div class="wrap grid">
 
-		<div class="wrap">
+    <!-- col 1 -->
+      <section class="post-full">
+<!--	<div class="wrap">
+		  <div class="grid"> -->
+        <div class="grid__2-col-major-minor">
+            <div class="post__content {% if page.highlight_first %}highlight-first{% endif %}">
+                {{ page.content | inject anchors }}
+            </div>
+        </div>
+<!--	  </div> end div.grid
+		</div> end div.wrap -->
 
-			<div class="grid">
-				<div class="grid__2-col-major-minor">
-					<div class="post__content {% if page.highlight_first %}highlight-first{% endif %}">
-						{{ page.content }}
-					</div>
-				</div>
-				<div class="grid__1-col">
-					<div class="snapshot__sidebar">
-						<div class="sidebar__info">
-							<h6>Project Snapshot</h6>
-							<ul>
-                              <li class="sidebar__li">><strong>Industry:</strong> {{ page.snapshot_industry }}</li>
-                              <li class="sidebar__li">><strong>Category:</strong> {{ page.snapshot_category }}</li>
-                              <li class="sidebar__li">><strong>Tech stack:</strong> {{ page.snapshot_techStack }}</li>
-                              <li class="sidebar__li">><strong>Timeframe:</strong> {{ page.snapshot_timeframe }}</li>
-                              <li class="sidebar__li">><strong>My role:</strong> {{ page.snapshot_myRole }}</li>
-                            </ul>
-						</div>
-						<div class="sidebar__info">
-							<h6>Objective</h6>
-							<p>{{ page.objective }}</p>
-						</div>
-						<div class="sidebar__info">
-							<h6>Team Players</h6>
-							<p>{{ page.team_players }}</p>
-						</div>
-						<div class="sidebar__info">
-							<h6>Approach</h6>
-							<p>{{ page.approach }}</p>
-						</div>
-						<div class="sidebar__info">
-							<h6>Key Results</h6>
-							<p>{{ page.key_results }}</p>
-						</div>
-					</div>
-				</div>
-			</div>
-			
-		</div>
-
-	</section>
-
-	{% include section__about.html divider=true %}
-</div>
+	  </section>
+        
+    <aside>
+      <div class="grid__1-col">
+        <div class="snapshot__sidebar">
+            <div class="sidebar__info">
+                <h6>Project Snapshot</h6>
+                <ul>
+                  <li class="sidebar__li">><strong>Industry:</strong> {{ page.snapshot_industry }}</li>
+                  <li class="sidebar__li">><strong>Category:</strong> {{ page.snapshot_category }}</li>
+                  <li class="sidebar__li">><strong>Tech stack:</strong> {{ page.snapshot_techStack }}</li>
+                  <li class="sidebar__li">><strong>Timeframe:</strong> {{ page.snapshot_timeframe }}</li>
+                  <li class="sidebar__li">><strong>My role:</strong> {{ page.snapshot_myRole }}</li>
+                </ul>
+            </div>
+            <div class="sidebar__info">
+                <h6>Objective</h6>
+                <p>{{ page.objective }}</p>
+            </div>
+            <div class="sidebar__info">
+                <h6>Team Players</h6>
+                <p>{{ page.team_players }}</p>
+            </div>
+            <div class="sidebar__info">
+                <h6>Approach</h6>
+                <p>{{ page.approach }}</p>
+            </div>
+            <div class="sidebar__info">
+                <h6>Key Results</h6>
+                <p>{{ page.key_results }}</p>
+            </div>
+        </div>
+        <div class="toc__block" id="table-of-contents">
+          <!-- TOC LIQUID ONLY WORKS IN POSTS & COLLECTIONS {% toc %} 
+                use the filter & anchor injection instead
+          -->
+          {{ page.content | toc_only }}
+        </div>
+      </div>
+    
+    </aside> 
+        
+  </div> <!-- end div.wrap grid -->
 
 	{% include section__about.html divider=true %}
 </div>

@@ -33,6 +33,7 @@ github_username: jpswizzle
 plugins:
 # - jekyll-feed
   - jekyll-sitemap
+  - jekyll-toc
 
 collections:
   pages:
@@ -95,3 +96,12 @@ sass:
 
 paginate: 6
 paginate_path: "/blog/page-:num/"
+
+# TOC Settings
+# https://heymichellemac.com/table-of-contents-jekyll
+toc:
+ min_level: 1
+ max_level: 2
+ list_class: toc
+ list_class: toc__list
+ sublist_class: toc__sublist

@@ -70,3 +70,30 @@ ol li::before {
 .snapshot__li {
     
 }
+
+// TOC styles from 
+.toc__list:before {
+ content: "Table Of Contents";
+ font-weight: 600;
+ font-size: 1.2rem;
+}
+
+.toc__list {
+ color: $greytint_purple_700;
+ line-height: 1.5rem;
+ padding: 1rem 1.2rem;
+ font-weight: 400;
+}
+
+.toc__sublist li {
+ padding-left: 1.2rem;
+}
+
+.toc-h2:first-child {
+ margin-top: 1rem;
+}  
+
+#toc a {
+ color: $accent-color;
+ text-decoration: underline;
+}
