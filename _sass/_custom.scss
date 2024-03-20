@@ -71,7 +71,11 @@ ol li::before {
     
 }
 
-// TOC styles from 
+img {
+  border-radius: 3px;
+}
+
+// TOC styles from blog post about jekyll-toc plugin
 .toc__list:before {
  content: "Table Of Contents";
  font-weight: 600;
