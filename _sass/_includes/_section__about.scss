@@ -30,6 +30,7 @@
 
   .about__content {
     max-width: 456px;
+    margin-top: 0;
 
     .title {
       margin-bottom: 16px;
@@ -38,15 +39,20 @@
     .subtitle {
       margin-bottom: 16px;
     }
+      
+    .subtitle-light {
+      font-weight: 450;
+    }
 
     p {
       margin-bottom: 16px;
+      font-size: 16px;
     }
 
     .cta {
       margin: 8px 0 0 -4px;
     }
-	}
+  }
 	
 
   @include mq(tabletp) {
@@ -67,6 +73,7 @@
 		
 		.about__content {
 			margin-top: 64px;
+            margin-top: 0;
 
 			.subtitle {
 				margin-bottom: 24px;

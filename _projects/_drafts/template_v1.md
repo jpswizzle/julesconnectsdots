@@ -2,7 +2,7 @@
 
 ### North star
 
-*Increase Driveway brand recognition and credibility by refreshing the Driveway brand, maturing our Design System, and launching a new home page*
+*North star*
 
 ### Initiative overview
 
@@ -49,6 +49,8 @@ I partnered with:
   * Driveway.com, already sporting the new type system, launched with a limited new color palette
   * The new home page and marketing collateral launched with the full new color palette and new type system
 * Driveway.com reached 1MM MUVs within 3 months of the brand launch
+
+{% include post-components/video.html url = "https://help.vertafore.com/ams360/content/resources/multimedia/proposal_builder_intro.mp4" full_width = true %}
 
 ## The Journey
 
