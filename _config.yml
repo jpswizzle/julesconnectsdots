@@ -45,6 +45,9 @@ collections:
   projects:
     output: true
     permalink: /project/:slug
+  drafts:
+    output: true
+    permalink: /drafts/:slug
 
 # trying to add a 2-col project layout // test 2024.01.31
 defaults:
