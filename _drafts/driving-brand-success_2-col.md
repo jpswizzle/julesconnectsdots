@@ -1,5 +1,5 @@
 ---
-layout: proj_2-col-major-minor
+layout: project_2-col-major-minor
 title: Driveway test
 slug: driveway-test
 subtitle: How I orchestrated Driveway's brand refresh and design system evolution
