@@ -52,7 +52,11 @@ section.post-full ol li::before {
   fill: $accent-color;
 }
 
-.snapshot__sidebar {
+aside.caseStudy__sidebar {
+  margin: $spatial-scale-02;
+}
+
+.sidebar__snapshot {
   fill: $greytint_purple_100;
   border-radius: 1em;
 }
@@ -68,7 +72,7 @@ aside ul {
 }
 
 .snapshot__li {
-    
+  list-style-type: none;
 }
 
 img {
