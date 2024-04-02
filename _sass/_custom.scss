@@ -53,7 +53,8 @@ section.post-full ol li::before {
 }
 
 aside.caseStudy__sidebar {
-  margin: $spatial-scale-02;
+  // margin: $spatial-scale-02; <-- throws a build error for undefined variable; fix later
+  margin: 3rem;
 }
 
 .sidebar__snapshot {
