@@ -39,8 +39,8 @@ ul, ol {
   padding-left: 1.5em;
 }
 
-ul li::before,
-ol li::before {
+section.post-full ul li::before,
+section.post-full ol li::before {
   content: "";
   display: inline-block;
   width: 1.5em;
@@ -57,7 +57,7 @@ ol li::before {
   border-radius: 1em;
 }
 
-.snapshot__info ul {
+aside ul {
   list-style-position: inside;
   list-style-type: none;
 }
