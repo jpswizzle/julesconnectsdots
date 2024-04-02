@@ -90,7 +90,7 @@ Our Director of XD tapped 2 key senior designers, a product designer and a brand
 
 Driveway's senior product designers and lead brand designer worked together closely to refine the brand vision and visual language necessary to mature Driveway's brand presence.
 
-I engaged with the effort as these 2 designers honed the brand direction, seeking feedback from other product designers.&nbsp;
+I engaged with the effort as these 2 designers honed the brand direction, seeking feedback from other product designers.
 
 ### Lighting the way by evolving the design system
 
@@ -115,7 +115,7 @@ I organized a weekly Design System Guild to shine the fog lights on the meanderi
 The purpose of the guild was twofold:
 
 * Ensure product designer representation and involvement across all 8 squads
-* Use the forum to build consensus on design system decisions&nbsp;
+* Use the forum to build consensus on design system decisions
 
 The format was a hybrid between show-and-tell and internal creative review, with constructive criticism leading to coalescing choices for visual hierarchy, button styles, drop shadows, etc.
 
@@ -130,9 +130,9 @@ With this excitement bubbling over into standups and PDE ceremonies, product man
 **To increase shared understanding and decrease anxiety around the unknowns, I took a multi-prong approach:**
 
 1. Provided updates during the biweekly sync between lead product designers and the front-end engineers who contributed code to the design system
-2. Documented the initiative's high-level scope, approach, and milestones in Confluence&nbsp;
+2. Documented the initiative's high-level scope, approach, and milestones in Confluence
 3. Created and socialized 2 visual explainer artifacts
-   1. **Pitstops:**&nbsp;a one-page explainer of the brand refresh phases
+   1. **Pitstops:** a one-page explainer of the brand refresh phases
    2. **Release goal posts:** an accompanying one-page "menu" of the recommended approach to implementing Driveway's new color palette in forthcoming product releases
 
 {% include post-components/gallery.html columns = 2 full_width = true images = "../images/projects/driveway_2.woah_approach-1.png,../images/projects/driveway_2.woah_approach-2.png, " %}
@@ -197,12 +197,12 @@ We launched Brand 2.woah's redesigned homepage as the first touchpoint with the 
 
 #### Monthly transaction volume
 
-* **Exceeded December 2021** ***transaction volume*** **target by 32%:**&nbsp;1650 transaction compared to the expected 1250 ([source](https://www.prnewswire.com/news-releases/lithia--driveway-lad-exceeds-december-monthly-driveway-transaction-volume-target-by-32-301454268.html){: target="_blank" rel="noopener"})
+* **Exceeded December 2021** ***transaction volume*** **target by 32%:** 1650 transaction compared to the expected 1250 ([source](https://www.prnewswire.com/news-releases/lithia--driveway-lad-exceeds-december-monthly-driveway-transaction-volume-target-by-32-301454268.html){: target="_blank" rel="noopener"})
 * By end of June 2022, Driveway had reached 4,300 monthly shop and sell transactions ([source](https://investors.lithiadriveway.com/press-releases/l45jh5js08hv6wl640dj){: target="_blank" rel="noopener"})
 
 #### Increase in monthly unique visitors (MUVs)
 
-This effort led to a significant increase in monthly unique visitors and enhanced the overall user experience:&nbsp;**Driveway.com reached 1MM MUVs in Feb 2022**
+This effort led to a significant increase in monthly unique visitors and enhanced the overall user experience: **Driveway.com reached 1MM MUVs in Feb 2022**
 
 #### Brand durability
 
