@@ -1,6 +1,7 @@
 ---
 layout: proj_2-col-major-minor
 title: Driveway test
+slug: driveway-test
 subtitle: How I orchestrated Driveway's brand refresh and design system evolution
 date: 2024-01-30 17:00:00 -0700
 description: >-
