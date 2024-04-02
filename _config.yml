@@ -31,6 +31,7 @@ github_username: jpswizzle
 # Build settings
 # theme: Made
 plugins:
+# disabling plugin that renders a set of blog posts?
 # - jekyll-feed
   - jekyll-sitemap
   - jekyll-toc
@@ -47,7 +48,7 @@ collections:
     permalink: /project/:slug
   drafts:
     output: true
-    permalink: /drafts/:slug
+    permalink: /draft/:slug
 
 # trying to add a 2-col project layout // test 2024.01.31
 defaults:
