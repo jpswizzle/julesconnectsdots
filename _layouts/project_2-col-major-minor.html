@@ -35,43 +35,43 @@ layout: default
 
 	  </section>
         
-    <aside class="caseStudy__sidebar">
-      <div class="grid__1-col">
-        <div class="sidebar__snapshot">
-            <div class="sidebar__info">
-                <h6>Project Snapshot</h6>
-                <ul>
-                  <li class="sidebar__li"><strong>Industry:</strong> {{ page.snapshot_industry }}</li>
-                  <li class="sidebar__li"><strong>Category:</strong> {{ page.snapshot_category }}</li>
-                  <li class="sidebar__li"><strong>Tech stack:</strong> {{ page.snapshot_techStack }}</li>
-                  <li class="sidebar__li"><strong>Timeframe:</strong> {{ page.snapshot_timeframe }}</li>
-                  <li class="sidebar__li"><strong>My role:</strong> {{ page.snapshot_myRole }}</li>
-                </ul>
+      <aside class="caseStudy__sidebar">
+          <div class="grid__1-col">
+            <div class="sidebar__snapshot">
+                <div class="sidebar__info">
+                    <h6>Project Snapshot</h6>
+                    <ul>
+                      <li class="sidebar__li"><strong>Industry:</strong> {{ page.snapshot_industry }}</li>
+                      <li class="sidebar__li"><strong>Category:</strong> {{ page.snapshot_category }}</li>
+                      <li class="sidebar__li"><strong>Tech stack:</strong> {{ page.snapshot_techStack }}</li>
+                      <li class="sidebar__li"><strong>Timeframe:</strong> {{ page.snapshot_timeframe }}</li>
+                      <li class="sidebar__li"><strong>My role:</strong> {{ page.snapshot_myRole }}</li>
+                    </ul>
+                </div>
+                <div class="sidebar__info">
+                    <h6>Objective</h6>
+                    <p>{{ page.objective }}</p>
+                </div>
+                <div class="sidebar__info">
+                    <h6>Team Players</h6>
+                    <p>{{ page.team_players }}</p>
+                </div>
+                <div class="sidebar__info">
+                    <h6>Approach</h6>
+                    <p>{{ page.approach }}</p>
+                </div>
+                <div class="sidebar__info">
+                    <h6>Key Results</h6>
+                    <p>{{ page.key_results }}</p>
+                </div>
             </div>
-            <div class="sidebar__info">
-                <h6>Objective</h6>
-                <p>{{ page.objective }}</p>
+            <div class="toc__block" id="table-of-contents">
+              <!-- TOC LIQUID ONLY WORKS IN POSTS & COLLECTIONS {% toc %} 
+                    use the filter & anchor injection instead
+              -->
+              {{ page.content | toc_only }}
             </div>
-            <div class="sidebar__info">
-                <h6>Team Players</h6>
-                <p>{{ page.team_players }}</p>
-            </div>
-            <div class="sidebar__info">
-                <h6>Approach</h6>
-                <p>{{ page.approach }}</p>
-            </div>
-            <div class="sidebar__info">
-                <h6>Key Results</h6>
-                <p>{{ page.key_results }}</p>
-            </div>
-        </div>
-        <div class="toc__block" id="table-of-contents">
-          <!-- TOC LIQUID ONLY WORKS IN POSTS & COLLECTIONS {% toc %} 
-                use the filter & anchor injection instead
-          -->
-          {{ page.content | toc_only }}
-        </div>
-      </div>
+          </div>
     
     </aside> 
         
