@@ -13,25 +13,25 @@
 */
 
 // whitespace variables
-:root {
-  // --type-scale-base: $p-size;
-  --scale-multiplier: .705;
+& {
+  // $type-scale-base: $p-size;
+  $scale-multiplier: .705;
   
-  --spatial-scale-base: calc(var($p-size) * .705);
-  --spatial-scale-01: var(--spatial-scale-base);
-  --spatial-scale-02: calc(var(--spatial-scale-01) * var(--scale-multiplier));
-  --spatial-scale-03: calc(var(--spatial-scale-02) * var(--scale-multiplier));
-  --spatial-scale-04: calc(var(--spatial-scale-03) * var(--scale-multiplier));
-  --spatial-scale-05: calc(var(--spatial-scale-04) * var(--scale-multiplier));
-  --spatial-scale-06: calc(var(--spatial-scale-05) * var(--scale-multiplier));
-  --spatial-scale-07: calc(var(--spatial-scale-06) * var(--scale-multiplier));
-  --spatial-scale-08: calc(var(--spatial-scale-07) * var(--scale-multiplier));
-  --spatial-scale-09: calc(var(--spatial-scale-08) * var(--scale-multiplier));
-  --spatial-scale-10: calc(var(--spatial-scale-09) * var(--scale-multiplier));
-  --spatial-scale-11: calc(var(--spatial-scale-10) * var(--scale-multiplier));
-  --spatial-scale-12: calc(var(--spatial-scale-11) * var(--scale-multiplier));
-  --spatial-scale-13: calc(var(--spatial-scale-12) * var(--scale-multiplier));
-  --spatial-scale-14: calc(var(--spatial-scale-13) * var(--scale-multiplier));
+  $spatial-scale-base: calc(var($p-size) * .705);
+  $spatial-scale-01: var($spatial-scale-base);
+  $spatial-scale-02: calc(var($spatial-scale-01) * var($scale-multiplier));
+  $spatial-scale-03: calc(var($spatial-scale-02) * var($scale-multiplier));
+  $spatial-scale-04: calc(var($spatial-scale-03) * var($scale-multiplier));
+  $spatial-scale-05: calc(var($spatial-scale-04) * var($scale-multiplier));
+  $spatial-scale-06: calc(var($spatial-scale-05) * var($scale-multiplier));
+  $spatial-scale-07: calc(var($spatial-scale-06) * var($scale-multiplier));
+  $spatial-scale-08: calc(var($spatial-scale-07) * var($scale-multiplier));
+  $spatial-scale-09: calc(var($spatial-scale-08) * var($scale-multiplier));
+  $spatial-scale-10: calc(var($spatial-scale-09) * var($scale-multiplier));
+  $spatial-scale-11: calc(var($spatial-scale-10) * var($scale-multiplier));
+  $spatial-scale-12: calc(var($spatial-scale-11) * var($scale-multiplier));
+  $spatial-scale-13: calc(var($spatial-scale-12) * var($scale-multiplier));
+  $spatial-scale-14: calc(var($spatial-scale-13) * var($scale-multiplier));
 }
 
 ul, ol {
