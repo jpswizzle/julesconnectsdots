@@ -1,0 +1,54 @@
+aside.caseStudy__sidebar {
+  // margin: $spatial-scale-02; <-- throws a build error for undefined variable; fix later
+  margin: 3rem;
+}
+
+.sidebar__snapshot {
+  fill: $greytint_purple_100;
+  border-radius: 1em;
+}
+
+aside ul {
+  list-style-position: inside;
+  list-style-type: none;
+}
+
+.snapshot__info {
+  padding: 10px 20px;
+  fill: $accent-color;
+}
+
+.snapshot__li {
+  list-style-type: none;
+}
+
+img {
+  border-radius: 3px;
+}
+
+// TOC styles from blog post about jekyll-toc plugin
+.toc__list:before {
+ content: "Table Of Contents";
+ font-weight: 600;
+ font-size: 1.2rem;
+}
+
+.toc__list {
+ color: $greytint_purple_700;
+ line-height: 1.5rem;
+ padding: 1rem 1.2rem;
+ font-weight: 400;
+}
+
+.toc__sublist li {
+ padding-left: 1.2rem;
+}
+
+.toc-h2:first-child {
+ margin-top: 1rem;
+}  
+
+#toc a {
+ color: $accent-color;
+ text-decoration: underline;
+}

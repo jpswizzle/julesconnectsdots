@@ -1,0 +1,105 @@
+---
+layout: default
+---
+
+<!-- to do:
+- update the classes; create new classes as needed
+- create the new structure
+- placeholder for include loop
+- create the container + content for the header
+- create the container + content for the synopsis tile
+- create the include + for loop for the synopsis tile stack
+- create the CSS grid
+- create the markdown template that consumes this layout
+- add yaml variables to that markdown template
+- decide whether to feature an image on this page†
+- test how it's working so far
+- move the synopsis tile code to an include html file
+- double check everything
+- test again
+-->
+
+<div class="page-post">
+    
+    <!-- SOMEWHERE: include liquid tag for content
+                {{ page.content }}
+                -->
+
+	<header class="post__header header--single">
+		
+		<div class="wrap">
+			<h1 class="post__title">{{ page.title }}</h1>
+			<h2 class="custom__overtitle">Overview?</h5>
+            <p>Some overview about the company, market context, and north star</p>
+            <h2 class="custom__overtitle">My contributions</h5>
+            <p>Summary of my role, involvement, and contributions</p>
+		</div>
+
+        <!-- †decide whether to feature an image on this page -->
+		<img src="{{ page.featured_image | relative_url }}" class="post__featured-image">
+
+	</header>
+
+	<main class="post-full">
+
+		<div class="wrap">
+			<section class="post__content {% if page.highlight_first %}highlight-first{% endif %}">
+				<!-- insert include for loop here -->
+                
+                <!-- begin synopsis card -->
+                <div class="synopis__card">
+                    
+                    <!-- Product/Project -->
+                    <div class="synopsisCard_leftCol">
+                        <h3>{{ page.project }}</h3>
+                        <h4>{{ page.resultsHeadline }}</h4>
+                        <figure>
+                            <img src="" alt="{{ page.img1Alt}}">
+                            <figcaption></figcaption>
+                        </figure>
+                    </div> <!-- end left col -->
+
+                    <div class="synopsisCard_rightCol">
+                        <!-- insert data? for loop here -->
+                        <h5 class="synopsis__tag">{{ page.synopsisTag }}</h5>
+                        <p>Synopsis of the project/product
+                        </p>
+                        <button>
+                            <a href=""></a>
+                        </button>
+                    </div>
+                </div>
+            
+                <div class="synopis__card">
+                    <div class="cardBox_1">
+                    </div>
+                    <div class="cardBox_2">
+                    </div>
+                    <div class="cardBox_3">
+                    </div>
+                    <div class="cardBox_4">
+                    </div>
+                    <div class="cardBox_5">
+                    </div>
+                </div>
+            
+            
+            
+            </section>
+            
+            <!-- from the (blog) post layout 
+			<div class="post__more grid">
+				{% if page.previous.url %}
+				<a class="prev-post subtitle" href="{{ page.previous.url | relative_url }}">{{page.previous.title}}</a>
+				{% endif %}
+				{% if page.next.url %}
+				<a class="next-post subtitle" href="{{ page.next.url | relative_url }}">{{ page.next.title }}</a>
+				{% endif %}
+			</div>
+            -->
+
+		</div>
+
+	</main>
+
+</div>
