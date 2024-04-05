@@ -3,20 +3,22 @@ layout: default
 ---
 
 <!-- to do:
-- update the classes; create new classes as needed
-- create the new structure
-- placeholder for include loop
-- create the container + content for the header
-- create the container + content for the synopsis tile
-- create the include + for loop for the synopsis tile stack
-- create the CSS grid
-- create the markdown template that consumes this layout
-- add yaml variables to that markdown template
-- decide whether to feature an image on this page†
-- test how it's working so far
-- move the synopsis tile code to an include html file
-- double check everything
-- test again
+[x] create the new HTML/CSS file structure
+[x] draft the new HTML code
+[x] draft the CSS grid
+[ ] update the classes; create new classes as needed
+[ ] placeholder for include loop(s)
+[ ] create the container + content for the header
+[ ] create the container + content for the synopsis tile
+[ ] create the include + for loop for the synopsis tile stack
+[ ] create the CSS grid
+[ ] create the markdown template that consumes this layout
+[ ] add yaml variables to that markdown template
+[ ] decide whether to feature an image on this page†
+[ ] test how it's working so far
+[ ] move the synopsis tile code to an include html file
+[ ] double check everything
+[ ] test again
 -->
 
 <div class="page-post">
@@ -68,18 +70,63 @@ layout: default
                             <a href=""></a>
                         </button>
                     </div>
-                </div>
+                </div> <!-- end synopsis card -->
+                <!-- end include for loop -->
+                
             
-                <div class="synopis__card">
-                    <div class="cardBox_1">
+                <div class="synopis__card-A">
+                    <!-- sketch 1: left to right, then next row-->
+                    <div class="cardBox_1a">
+                        <h3>{{ page.projectName }}</h3>
+                        <h4>{{ page.resultsHeadline }}</h4>
                     </div>
-                    <div class="cardBox_2">
+                    <div class="cardBox_2a">
+                        <!-- insert data? for loop here -->
+                        <h5 class="synopsis__tag">{{ page.synopsisTag }}</h5>
                     </div>
-                    <div class="cardBox_3">
+                    <div class="cardBox_3a">
+                        <figure>
+                            <img src="" alt="{{ page.img1Alt }}">
+                        </figure>
                     </div>
-                    <div class="cardBox_4">
+                    <div class="cardBox_4a">
+                        <p>Blurb: Synopsis of the project/product
+                        </p>
                     </div>
-                    <div class="cardBox_5">
+                    <div class="cardBox_5a">
+                        <button>
+                            <a href=""></a>
+                        </button>
+                    </div>
+                </div>
+                
+                <div class="synopis__card-B">
+                    <!-- sketch 3: numbered top to bottom, then next column -->
+                    <div class="cardBox_1b">
+                        <h3>{{ page.projectName }}</h3>
+                    </div>
+                    <div class="cardBox_2b">
+                        <!-- insert data? for loop here -->
+                        <h5 class="synopsis__tag">{{ page.synopsisTag }}</h5>
+                    </div>
+                    <div class="cardBox_3b">
+                        <figure>
+                            <img src="" alt="{{ page.img1Alt}}">
+                            <figcaption></figcaption>
+                        </figure>
+                    </div>
+                    <div class="cardBox_4b">
+                        <h4>{{ page.resultsHeadline }}</h4>
+                    </div>
+                    <div class="cardBox_5b">
+                        <button>
+                            <a href=""></a>
+                        </button>
+                    </div>
+                    <div class="cardBox_6b">
+                        <button>
+                            <a href=""></a>
+                        </button>
                     </div>
                 </div>
             
