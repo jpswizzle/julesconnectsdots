@@ -13,17 +13,17 @@ layout: project
 featured_image: driveway_approach_01@2x.png
 accent_color: '#4c60e6'
 gallery_images:
-  - driveway_approach_01@2x.png
-  - driveway_launchingUXresearch_1@2x.png
   - driveway_launchingUXresearch_2@2x.png
   - driveway_launchingUXresearch_3@2x.png
   - driveway_launchingUXresearch_4@2x.png
+  - driveway_launchingUXresearch_1@2x.png
+  - driveway_approach_01@2x.png
 ---
 ## Synopsis
 
 ### North star
 
-*Formally launch UX Research as a product development function. Steer Product and Design decisions through learning, data, and insights*
+*Formally launch UX Research as a product development function. Steer Product and Design decisions through learning, data, and insights.*
 
 ### Program overview
 
@@ -158,10 +158,10 @@ I've summarized the first 3 months of the UXR program efforts in the below table
 
 | Team / Effort | May 2021 | Jun 2021 | Jul&nbsp; 2021 |
 | --- | --- | --- | --- |
-| *Inventory* | Sell Landing Page and Offer Screen Redesign Study – Discovery |  | Sell Account Creation and Onboarding – Discovery |
-| *MegaCart* | Cart Wrapper |  |  |
-| *My Driveway* | Preference Center Study |  | Save Search – Usability |
-| *Learn* |  | Top Navigation – Information Architecture Validation | Car Finder Quiz – Copy Validation |
+| *Inventory* | Sell Landing Page and Offer Screen Redesign Study – Discovery | &nbsp; | Sell Account Creation and Onboarding – Discovery |
+| *MegaCart* | Cart Wrapper | &nbsp; | &nbsp; |
+| *My Driveway* | Preference Center Study | &nbsp; | Save Search – Usability |
+| *Learn* | &nbsp; | Top Navigation – Information Architecture Validation | Car Finder Quiz – Copy Validation |
 | *Tool procurement* | Tool secondary research: define procurement criteria | Tool demos and additional analysis | Business case creation and socialization with mid-level management |
 
 ## Reflection
