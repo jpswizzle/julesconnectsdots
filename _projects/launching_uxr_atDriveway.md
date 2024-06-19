@@ -13,8 +13,8 @@ layout: project
 featured_image: driveway_approach_01@2x.png
 accent_color: '#4c60e6'
 gallery_images:
-  - driveway_launchingUXresearch_2@2x.png
   - driveway_launchingUXresearch_3@2x.png
+  - driveway_launchingUXresearch_2@2x.png
   - driveway_launchingUXresearch_4@2x.png
   - driveway_launchingUXresearch_1@2x.png
   - driveway_approach_01@2x.png
@@ -114,9 +114,9 @@ My approach to launching a UX Research program encompassed 4 program pillars:
 
 {% include post-components/gallery.html columns = 1 full_width = false images = "../images/projects/driveway_uxr_toolEnablement@2x.png,../images/projects/driveway_tooling-1_1600w@2x.png,../images/projects/driveway_tooling-2_1600w@2x.png,../images/projects/driveway_tooling-3_1600w@2x.png,../images/projects/driveway_uxr_roadmapIntake-1@2x.png,../images/projects/driveway_uxr_roadmapIntake-2@2x.png,../images/projects/driveway_uxr_roadmapIntake-3@2x.png,../images/projects/driveway_uxr_roadmapIntake-4@2x.png," %}
 
-Over the course of 6 months, I implemented the research program by&nbsp;
+Over the course of 6 months, I implemented the research program by
 
-1. Hiring the first dedicated UX Researcher&nbsp;
+1. Hiring the first dedicated UX Researcher
 2. Guiding and iterating on research partnership and process
 3. Fostering collaborative research execution (made **How** as important as **Why**)
 4. Assessing what kind of learning outcomes designers and PMs cared about
@@ -156,12 +156,12 @@ Overall, my UX Research program set the course for research maturity Driveway.
 
 I've summarized the first 3 months of the UXR program efforts in the below table:
 
-| Team / Effort | May 2021 | Jun 2021 | Jul&nbsp; 2021 |
+| Team / Effort | May 2021 | Jun 2021 | Jul  2021 |
 | --- | --- | --- | --- |
-| *Inventory* | Sell Landing Page and Offer Screen Redesign Study – Discovery | &nbsp; | Sell Account Creation and Onboarding – Discovery |
-| *MegaCart* | Cart Wrapper | &nbsp; | &nbsp; |
-| *My Driveway* | Preference Center Study | &nbsp; | Save Search – Usability |
-| *Learn* | &nbsp; | Top Navigation – Information Architecture Validation | Car Finder Quiz – Copy Validation |
+| *Inventory* | Sell Landing Page and Offer Screen Redesign Study – Discovery |  | Sell Account Creation and Onboarding – Discovery |
+| *MegaCart* | Cart Wrapper |  |  |
+| *My Driveway* | Preference Center Study |  | Save Search – Usability |
+| *Learn* |  | Top Navigation – Information Architecture Validation | Car Finder Quiz – Copy Validation |
 | *Tool procurement* | Tool secondary research: define procurement criteria | Tool demos and additional analysis | Business case creation and socialization with mid-level management |
 
 ## Reflection
@@ -170,7 +170,7 @@ I've summarized the first 3 months of the UXR program efforts in the below table
 
 #### Research execution and overall partnership
 
-1. **Cross-functional involvement in end-to-end research:**&nbsp;Research directly influenced Product and Design decisions that positively impacted Driveway OKRs as reported in product analytics.
+1. **Cross-functional involvement in end-to-end research:** Research directly influenced Product and Design decisions that positively impacted Driveway OKRs as reported in product analytics.
 2. **Achieved and maintained a good momentum.**
 3. **Laid the foundation for continued research planning and prioritization.** Based on the process I established for inputs to research roadmapping, Amy continued to use participatory formats to evaluate partners’ research needs and prioritize research efforts.
 
